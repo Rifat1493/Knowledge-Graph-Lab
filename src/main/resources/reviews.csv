@@ -1,0 +1,913 @@
+A. James Baroody Jr.,journals/ijmms/FischerLMM91
+A. James Baroody Jr.,conf/icde/LentSW97
+A. James Baroody Jr.,conf/cp/CataniaBB98
+A. James Baroody Jr.,conf/aaai/KrulwichB96
+A. James Baroody Jr.,conf/kdd/StolorzNMMSSYNCMF95
+A. James Baroody Jr.,journals/fuin/AbrialH07
+Abad A. Shah,journals/tkde/DelisR98
+Abad A. Shah,conf/adbis/BasarabGN94
+Abad A. Shah,conf/icde/LaurentLSV99
+Alain Würgler,conf/jcdkb/GoldschmidtR78
+Alan G. Quan,journals/siamcomp/Willard82
+Alan G. Quan,conf/ibm/AstrahanCKT75
+Alan G. Quan,conf/edbt/LevyM96
+Alan Purdy,journals/is/DevorC82
+Alan Purdy,conf/adbis/NekrestyanovNPP97
+Alan Purdy,conf/oopsla/AmielGS94
+Alan Purdy,journals/tcs/FortuneHW80
+Aldo Castillo,journals/jucs/AndrewsKM95
+Allen Stoughton,journals/debu/PfaltzF93
+Allen Stoughton,journals/toms/Cleary79
+Allen Stoughton,conf/sigmod/LindsayMP87
+Amit Shukla,conf/sigmod/ChengH91
+Andreas Koeller,conf/mm/TobagiPBG93
+Andreas Thums,conf/caise/PonciaP97
+Andreas Thums,conf/er/Thalheim94
+Andreas Thums,journals/spe/AhoKW79
+Andreas Thums,conf/pods/FischerG84
+Andreas Thums,conf/icod/BarbicCPB83
+Andreas Thums,conf/ijcai/EiterG93
+Anthony S. Maida,journals/tc/SchwanGB87
+Anton Puolakka,conf/icde/Motro86
+Anton Puolakka,conf/sigmod/BerckenDS00
+Anton Puolakka,journals/tse/MiliMM95
+Ashish Gupta 0001,journals/ijmms/Nazareth89
+Ashish Gupta 0001,journals/cj/LeveneL90
+Asif Ghias,conf/gis/MedeirosC95
+Asif Ghias,conf/vldb/KrishnamurthyBZ86
+Austin Tate,journals/iandc/DoniniLNN97
+Austin Tate,conf/ssdbm/Sato88
+Austin Tate,conf/sigmod/FryST72
+Bernd-Jürgen Falkowski,journals/debu/Batory87
+Bernd-Jürgen Falkowski,conf/er/GandhiRG94
+Bhaskar Purimetla,journals/sigmod/TsotrasK96
+Bhaskar Purimetla,conf/pdis/AcharyaB94
+Bhaskar Purimetla,conf/dasfaa/KarbeRV91
+Bhaskar Purimetla,journals/tkde/BoralACCDFHSV90
+Bradley P. Allen,conf/icde/ShethSL84
+Bradley P. Allen,journals/tse/GraefeD93
+Bradley P. Allen,journals/jacm/CraneI74a
+Bradley P. Allen,journals/spe/SchwabeCGP92
+Brian Rogoff,journals/cj/CarlsonAC82
+Brian Rogoff,journals/cacm/KonstanMMHGR97
+Brian Rogoff,journals/tc/RaschidFLS86
+Brian Rogoff,conf/ngits/WolffC99
+Brian T. Bartell,conf/caise/KiepuszewskiHB00
+C. Icdem,conf/webdb/CohenKKNSS99
+C. Icdem,journals/software/SetliffKC93
+C. Icdem,conf/sigmod/OlkenRX90
+Carlo Ghezzi,conf/er/KrackerN89
+Carlo Ghezzi,journals/algorithmica/Meyers86
+Carlo Ghezzi,conf/er/EstrellaKGMZ99
+Carlo Ghezzi,journals/cacm/LieberherrSX94
+Catherine A. Meadows,conf/spieSR/ShannDOW93
+Charles Rackoff,conf/stoc/KarpLM84
+Charles Rackoff,conf/aaai/MintonJPL90
+Charles Rackoff,conf/er/SussF99
+Charles Rackoff,conf/sigmod/DeWittKOSSW84
+Charles Rackoff,conf/pldi/Boehm93
+Christine Parent,conf/sosp/HartmanO93
+Christopher Williamson,journals/jcss/FlajoletO82
+Christopher Williamson,journals/iandc/SchwartzK67a
+Christopher Williamson,journals/ai/Kleer86b
+Chumki Basu,journals/tse/KruskalW85
+Chumki Basu,conf/ride/GolubchikLM92
+Chumki Basu,conf/ssdbm/PfaltzHF98
+D. Chai,conf/btw/RichS93
+D. Chai,conf/pods/LevyS97
+D. Chai,journals/computer/PoggioGCMAWH85
+D. Chai,conf/ssdbm/ChanEGHKMMOSW83
+D. Chai,conf/er/Pokorny88
+D. Chai,journals/tcs/KimS92
+Dale E. Jordan,conf/sigmod/BreitbartS88
+Dale E. Jordan,conf/er/ThompsonS97
+Daniel C. St. Clair,conf/dood/Bry89
+Daniel C. St. Clair,journals/mta/WuLMGN96
+Daniel C. St. Clair,journals/jsc/LassezM92
+Daniel Dominic Sleator,conf/ewdw/BasarabGNR94
+Daniel Dominic Sleator,conf/dasfaa/NepalRT99
+Daniel Dreilinger,journals/ai/FrischH94
+David Day,conf/er/YahiaLCB96
+David Day,conf/oodbs/BancilhonBBDGLPRV88
+David G. Mitchell,journals/jal/FiatKLMSY91
+David G. Mitchell,journals/tods/MooreRW90
+David G. Mitchell,journals/tse/ManninoCB90
+David G. Mitchell,conf/adbt/MaierMSU79
+David G. Mitchell,conf/compcon/GibsonSCCDGHMNPSYZ95
+David G. Mitchell,conf/icdt/FlumKL97
+David Salesin,conf/lid/LudascherML96
+David Salesin,conf/icde/MaltaM93
+David Vaskevitch,conf/sigmod/JaedickeM98
+David Vaskevitch,conf/dl/BaruCGLMPV99
+David Vaskevitch,conf/icde/AlonsoB89
+David Vaskevitch,conf/db-workshops/Spek90
+David Vaskevitch,conf/er/SongL99
+David W. Chilson,journals/tocs/JulLHB88
+David W. Chilson,conf/dexa/KeimKM93
+David W. Chilson,conf/rex/SchneiderDJRRR91
+David W. Chilson,conf/vldb/LevyRO96
+Didier Tallot,conf/icde/WodtkeWWD96
+Didier Tallot,conf/sp/JavitzV91
+Didier Tallot,journals/is/DiazPI98
+Douglas M. Campbell,conf/sigmod/MatsushitaYHY80
+Eddie C. Shek,journals/tc/KantR90
+Eddie C. Shek,conf/agents/ChavezMM97
+Eddie C. Shek,journals/siamcomp/PurdomB83
+Eddie C. Shek,conf/iclp/NaishTR87
+Eddie C. Shek,journals/ipm/LeeKL94
+Edmund H. Durfee,conf/pods/SchekWY93
+Edmund H. Durfee,conf/adb/ThimmR94
+Edwina L. Rissland,conf/ecoop/RoseS93
+Edwina L. Rissland,conf/vldb/SumiyaYTSI95
+Edwina L. Rissland,conf/vldb/LevyMS94
+Ethan Collopy,conf/pos/MorrisonBCCDA89
+Ethan Collopy,journals/cacm/Hayes-RothM78
+Ethan Collopy,journals/cacm/GronbaekT94
+F. Prusker,journals/tods/SrivastavaSRN95
+F. Prusker,conf/oodbs/MaierGSDKV92
+Fanny Wattez,journals/cl/BossiG84
+Farouk Toumani,journals/cacm/OttmannSW78
+Franz Baader,journals/tkde/CheeLTR98
+Franz Baader,journals/tkde/ChenBT95
+Franz G. Amador,conf/alp/HuynhLL90
+G. Scott Graham,conf/sigmod/BrinkhoffKS93
+Gary B. Lamont,journals/debu/HaasMNRSW99
+Gerhard Knorz,conf/ac/PopekK78
+Gerhard Knorz,conf/aaai/Novak83
+Gerhard Knorz,conf/icde/MaloneyB87
+Giuseppe Castagna,journals/logcom/SernadasSC95
+Giuseppe Castagna,conf/deductive/BertinoCGM94
+Giuseppe Castagna,conf/pods/KoutsoupiasT98
+Giuseppe Castagna,conf/cscw/AbbottS94
+Gordon B. Davis,conf/fodo/GhandeharizadehS93
+Gordon B. Davis,conf/trec/CooperCG94
+Gérard Lévy,conf/vldb/FaloutsosMS96
+Gérard Lévy,conf/icde/WodtkeWWD96
+Hans Jürgen Ohlbach,conf/vldb/PereiraFLS00
+Haruo Hayami,journals/tods/YamamotoTUI79
+Haruo Hayami,conf/vldb/ThomRN86
+Haruo Hayami,journals/simulation/BreuneseTBA98
+Heinz Uphoff,conf/sigmod/LevyKS91
+Henrick Yau,journals/jcss/BakerB74
+Henrick Yau,journals/tcs/FalaschiLPM89
+Henrick Yau,journals/dpd/ChenTK96
+Hong Chen,conf/sigmetrics/CaoFKL95
+Hong Chen,conf/db-workshops/Webber85a
+Hong Chen,conf/eci/ThanosCB81
+Hong Chen,conf/kdd/MeretakisW99
+Irene Greif,conf/er/SmithSS94
+Irene Greif,conf/icde/ChakrabartiM98
+Ismailcem Budak Arpinar,journals/ai/BundySP85
+Ismailcem Budak Arpinar,journals/ibmsj/BlasgenACGKLLMPPSSSSTWY81
+Ismailcem Budak Arpinar,conf/ecoop/BreuHHKPRT97
+Ismailcem Budak Arpinar,conf/adbis/DervosLM97
+Ismailcem Budak Arpinar,journals/is/AuerHLLSSSTZ81
+James Zijun Wang,conf/sigmod/Borgida88
+James Zijun Wang,conf/lfp/Zorn90
+James Zijun Wang,journals/jcss/YuOL84
+James Zijun Wang,journals/vldb/TempletonHMB95
+James Zijun Wang,conf/icse/Winkler87
+Jarmo Ernvall,conf/ijcai/KolodnerSS85
+Jean-Chrysostome Bolot,journals/csur/ErmanHLR80
+Jean-Chrysostome Bolot,journals/tse/WhangMSBC92
+Jean-Chrysostome Bolot,journals/datamine/MannilaT97
+Jeffrey S. Rosenschein,journals/ijmms/FischerLMM91
+Jeffrey S. Rosenschein,conf/sigcomm/AwerbuchP91
+Jeffrey S. Rosenschein,conf/aaai/McAllester90
+Jeffrey S. Rosenschein,journals/dke/HalpinP95
+Jerry Fowler,conf/sigmod/ZhaoDNS98
+Jerry Fowler,conf/mfcs/MakowskyCW78
+Jerry Fowler,journals/tods/HjaltasonS99
+Jian-Yun Nie,conf/dbpl/LacroixDB97
+Jian-Yun Nie,journals/tods/HernandezC91
+Jian-Yun Nie,conf/icde/CorellaKWY84
+Jim Davies,conf/hpts/DeWittSB87
+John C. Platt,journals/ml/CarpinetoR96
+John C. Platt,conf/sigmod/CacaceCCFPT93
+John C. Platt,conf/sosp/RashidR81
+Jorge B. Bocca,conf/dexa/HofstedePW94
+Jorge B. Bocca,conf/pods/RastogiKS93
+Jürgen Kalinski,conf/icde/Berg86
+Jürgen Kalinski,conf/isca/DrapeauSHMSKLPLCG94
+K. L. Kwok,journals/is/BatiniDL84
+K. L. Kwok,conf/pldi/BarrettZ93
+K. L. Kwok,conf/icde/HeimerdingerB84
+K. L. Kwok,journals/tse/Ross77a
+K. L. Kwok,conf/coopis/AalstBEW00
+K. Yamaguchi,conf/ma/MilojicicBBCCFKLOOTVW98
+K. Yamaguchi,conf/ssdbm/SmithK92
+K. Yamaguchi,conf/dasfaa/SarreG91
+K. Yamaguchi,conf/amast/LevyS97
+K. Yamaguchi,conf/dasfaa/TanakaO89
+Kaj Grønbæk,conf/ride/CareyHSACFFLNPTWW95
+Kamran Parsaye,conf/pods/MumickFPR90
+Kamran Parsaye,conf/icse/Winkler87
+Kaname Harumoto,conf/srds/KimB88
+Kaname Harumoto,conf/vldb/WienerN95
+Karl Dias,conf/eds/Mitschang88
+Karl Dias,conf/aaai/MirankerBLG90
+Karl Dias,conf/sigcomm/Feldmeier93
+Karl Dias,journals/cacm/TillquistK89
+Kathryn B. Laskey,conf/dasfaa/EbertHH99
+Kathryn B. Laskey,conf/icde/JagadishMR97
+Kathryn B. Laskey,conf/icde/BurkhardMP87
+Keh-Yih Su,journals/computer/HibbardS89
+Keh-Yih Su,conf/focs/AlpernCF90
+Keh-Yih Su,journals/cacm/SergotSKKHC86
+Keh-Yih Su,conf/vldb/BrownCC94
+Keh-Yih Su,conf/ecoop/BicarreguiLM97
+Kenichi Yoshida,conf/ssdbm/Malmborg86
+Kenichi Yoshida,journals/toplas/MisraC82
+Kenneth C. Smith,journals/jlp/DuschkaGL00
+Kenneth C. Smith,conf/vldb/SripadaW94
+Kenneth C. Smith,journals/tcs/GlobermanH96
+Kenneth C. Smith,conf/icse/CookW95
+A. James Baroody Jr.,conf/icde/StonebrakerADLO94
+Abad A. Shah,conf/btw/LockemannABDFGKLLM85
+Abad A. Shah,conf/sigir/XuC96
+Alain Würgler,conf/vldb/LinnemannKDPEKSWW88
+Alain Würgler,journals/ngc/KitsuregawaTM83
+Alain Würgler,conf/pods/KolaitisMT98
+Alain Würgler,journals/algorithmica/Ioannidis86
+Alan G. Quan,conf/iclp/KempS93
+Alan Purdy,conf/icde/DecleirHK99
+Alan Purdy,conf/icde/YangC99
+Aldo Castillo,journals/tkde/HaasCLMWLLPCS90
+Allen Stoughton,conf/vldb/BoralR85
+Allen Stoughton,conf/icde/Gevarter87
+Allen Stoughton,journals/tois/PeelsJN85
+Amit Shukla,conf/adbis/ZhelyazkoK94
+Amit Shukla,journals/tcs/JerrumVV86
+Andreas Koeller,journals/jal/Wolfson86
+Andreas Koeller,conf/kdd/BradleyFR98
+Andreas Koeller,journals/toplas/JaffarMSY92
+Andreas Koeller,journals/debu/ElmasriLNS84
+Andreas Koeller,conf/gis/HorikawaATK97
+Andreas Koeller,conf/pods/SagivS86a
+Andreas Thums,journals/tse/AdamT93
+Andreas Thums,conf/ssdbm/WeissS81
+Andreas Thums,conf/sigmod/BressanGFJHKLMPQSS97
+Andreas Thums,journals/ipl/Kumar89
+Anthony S. Maida,conf/dasfaa/DengC91
+Anthony S. Maida,conf/ssdbm/PedersenJ98
+Anton Puolakka,conf/mfcs/AusielloBM80
+Anton Puolakka,journals/tods/NegriP91
+Anton Puolakka,journals/tods/BrosdaV88
+Ashish Gupta 0001,journals/siamcomp/MunroS76
+Austin Tate,conf/ekaw/DiengGTC92
+Austin Tate,journals/tods/MumickFPR96
+Austin Tate,journals/ife/HarderMNR95
+Bernd-Jürgen Falkowski,conf/pods/AbiteboulV87
+Bhaskar Purimetla,conf/sigmod/KrishnanVI96
+Bhaskar Purimetla,journals/sigplan/HudakPWBFFGHHJKNPP92
+Bhaskar Purimetla,conf/icde/NikhilH91
+Bhaskar Purimetla,journals/acta/MannaW81
+Bradley P. Allen,journals/aim/SuwaSS82
+Bradley P. Allen,conf/sigmod/BreitbartKRSS99
+Bradley P. Allen,conf/ds/MijaresP76
+Bradley P. Allen,conf/pods/ArgeSV99
+Brian T. Bartell,journals/tods/RamakrishnaL89
+Brian T. Bartell,conf/kr/WolterZ98
+Brian T. Bartell,conf/dasfaa/LeeH91
+Brian T. Bartell,conf/icde/HayneR90
+Brian T. Bartell,conf/kr/Lifschitz91
+Brian T. Bartell,conf/agdm/GaedeR94
+C. Icdem,journals/tcs/YouCL96
+C. Icdem,conf/aaai/BhatnagarM90
+Catherine A. Meadows,conf/agents/Foner97a
+Catherine A. Meadows,conf/ldrs/Melliar-SmithR77
+Catherine A. Meadows,conf/stoc/CosmadakisGKV88
+Catherine A. Meadows,conf/fodo/Litwin85
+Cathy Medich,conf/pos/OhoriTCP90
+Charles Rackoff,conf/sosp/KahnCDDHHMP81
+Charles Rackoff,journals/dtj/SpeerS91
+Christine Parent,journals/tcs/Colson91
+Christine Parent,journals/tois/BotafogoRS92
+Christine Parent,journals/pe/MorrisW85
+Christopher Williamson,conf/coopis/GantimahapatruniK93
+Christopher Williamson,conf/fsttcs/HuynhJLL90
+Chumki Basu,journals/tkde/MerchantWYC96
+Chumki Basu,journals/jar/FriedlandI85
+D. Chai,journals/cacm/DaleyD68
+Dale E. Jordan,conf/objekt/DesslochHLM92
+Dale E. Jordan,conf/meta/Subrahmanian88
+Daniel C. St. Clair,conf/adbis/CalabrettoR97
+Daniel Dominic Sleator,conf/sigmod/Hardwick87
+Daniel Dominic Sleator,conf/sigmod/LacroixP80
+Daniel Dominic Sleator,conf/sp/DawsonVS99
+Daniel Dominic Sleator,journals/sigmod/NeuholdT92
+Daniel Dreilinger,conf/sigmod/Richard81
+David Day,conf/swat/Paterson96
+David Day,journals/cacm/House80
+David Day,conf/ssd/TheodoridisSN99
+David G. Mitchell,conf/icde/CornellY87
+David G. Mitchell,conf/sigmod/CopelandABK88
+David Salesin,conf/sigmod/LoCRY93
+David Salesin,conf/oopsla/BruceCMGDM93
+David Salesin,conf/crypto/Rivest90
+David W. Chilson,conf/oopsla/SkarraZ86
+Doug Doole,journals/acj/Sager88
+Doug Doole,conf/vldb/Schkolnick78
+Doug Doole,journals/is/VandenbergheSCK89
+Douglas M. Campbell,conf/vldb/LiCHH97
+Douglas M. Campbell,conf/sigmod/IoannidisK91
+Eddie C. Shek,conf/vldb/Kalinichenko78
+Eddie C. Shek,journals/cj/MorrisonCCDK95
+Edmund H. Durfee,conf/dexa/PalopoliSU98
+Edwina L. Rissland,conf/icde/NestorovUWC97
+Ethan Collopy,conf/iwmm/WilsonJNB95
+Ethan Collopy,conf/soda/EvenNRS97
+Ethan Collopy,journals/tkde/NakamuraAOS93
+Ethan Collopy,journals/tois/ChuaR95
+F. Prusker,conf/dasfaa/VermeerA95
+F. Prusker,journals/cacm/DeMilloEL78
+F. Prusker,journals/jcss/AbiteboulB86
+F. Prusker,journals/sigmod/EnglertGH95
+Farouk Toumani,conf/podc/BalterBD82
+Farouk Toumani,journals/is/Johannesson94
+Farouk Toumani,journals/computer/Neches84
+Farouk Toumani,journals/tc/DewanG89
+Franz Baader,conf/vldb/GhandeharizadehD90
+Franz G. Amador,journals/is/Jakobsson80
+Franz G. Amador,conf/adbis/HaaseH99
+Franz G. Amador,conf/pods/AtzeniC85
+Franz G. Amador,conf/cdb/AfratiAK95
+Franz G. Amador,conf/popl/CookHC90
+Franz G. Amador,journals/ipl/McCune88
+G. Scott Graham,conf/er/TsubakiH79
+G. Scott Graham,journals/computer/BerraCH87
+G. Scott Graham,conf/adbis/Alagic99
+G. Scott Graham,conf/er/TarumiMK98
+Gary B. Lamont,conf/er/BatiniFN85
+Gary B. Lamont,conf/sigmod/Minsky72a
+Gary B. Lamont,conf/icde/ChaoE86
+Gary B. Lamont,conf/vldb/SheardS85
+Giuseppe Castagna,conf/er/HohensteinG88
+Giuseppe Castagna,journals/debu/OlsonHUS96
+Giuseppe Castagna,conf/soda/FerraginaG96
+Gordon B. Davis,journals/cacm/YauS83
+Gordon B. Davis,conf/edbt/EsterW98
+Gérard Lévy,conf/sigmod/Stonebraker72
+Hans Jürgen Ohlbach,conf/sigmod/DohertyHR96
+Hans Jürgen Ohlbach,conf/ssdbm/ZeebergWGOKM98
+Haruo Hayami,journals/computer/LeeMS93
+Haruo Hayami,conf/iclp/Pereira86
+Haruo Hayami,conf/vldb/ChenL84
+Heinz Uphoff,conf/edbt/CiacciaPZ98
+Heinz Uphoff,conf/cocoon/KleinbergKRRT99
+Heinz Uphoff,conf/ride/GolubchikLM92
+Heinz Uphoff,journals/tcs/BerghammerES95
+Heinz Uphoff,conf/sigmod/SubramanianV98
+Heinz Uphoff,conf/vldb/KambayashiTY77
+Henrick Yau,conf/mm/ChiuehK93
+Henrick Yau,journals/cacm/SimmonsC82
+Henrick Yau,conf/icde/MarklZB99
+Hong Chen,journals/cacm/Hanani77
+Hong Chen,conf/ssdbm/MilaskGHKM97
+Hugh C. Lauer,conf/adbis/KopeckyP97
+Hugh C. Lauer,conf/srds/EllisF83
+Hugh C. Lauer,conf/icde/DarAJ91
+Hugh C. Lauer,conf/adbis/GriefahnLM97
+Irene Greif,conf/dbpl/ParedaensKKV97
+Irene Greif,journals/is/MylopoulosBCRTW76
+Irene Greif,conf/pods/DuschkaG97
+Ismailcem Budak Arpinar,conf/ijcai/Nilsson83
+Ismailcem Budak Arpinar,journals/ibmsj/AttaluriBCLMSSZ95
+Ismailcem Budak Arpinar,journals/vldb/ChakrabartiDAR98
+Ismailcem Budak Arpinar,journals/tods/OzkarahanSS77
+James E. Johnson,conf/dolap/MutoK98
+James E. Johnson,conf/kdd/FlockhartR96
+James L. Smith,journals/computer/Brachman83
+James L. Smith,journals/cj/OttmannW80
+James Zijun Wang,conf/iclp/KaleW84
+James Zijun Wang,journals/tkde/SuJCLN98
+James Zijun Wang,journals/tkde/FeliceM98
+James Zijun Wang,conf/sigmod/ChooOLCGBPS96
+Jarmo Ernvall,conf/iwmm/WilsonJNB95
+Jarmo Ernvall,journals/vldb/DuEKB93
+Jean-Chrysostome Bolot,journals/iandc/Cardelli88
+Jean-Chrysostome Bolot,conf/acm/DemurjianHM85
+Jean-Chrysostome Bolot,conf/kr/CadoliEG94
+Jean-Chrysostome Bolot,journals/tkde/DharT93
+Jean-Chrysostome Bolot,conf/pods/GoodmanST83a
+Jeffrey S. Rosenschein,conf/iclp/AptB88
+Jerry Fowler,conf/vldb/Sullivan96
+Jerry Fowler,conf/sigmod/AstrahanAFS72
+Jerry Fowler,conf/vldb/Ioannidis93
+Jian-Yun Nie,conf/caise/AhlsenDJLLRRSTBCSVVV91
+Jian-Yun Nie,conf/coopis/CalvaneseGLNR98
+Jian-Yun Nie,conf/focs/ShamosH75
+Jim Davies,journals/cacm/MarkosianNBBK94
+John C. Platt,conf/icde/KumarB91
+John C. Platt,conf/sosp/KahnCDDHHMP81
+Jorge B. Bocca,journals/tse/WandW90
+János Demetrovics,journals/siamcomp/Wagner90
+János Demetrovics,conf/sigir/Fuhr92
+János Demetrovics,journals/tkde/LitwinR92
+János Demetrovics,journals/jacm/SagivY80
+Jürgen Kalinski,conf/adbis/TranB99
+Jürgen Kalinski,conf/ssdbm/Greer83
+Jürgen Kalinski,journals/tods/OzsoyogluOM87
+K. L. Kwok,conf/usenix/SeltzerSBCMP95
+K. Yamaguchi,conf/er/KimKWD88
+K. Yamaguchi,journals/tse/NiH85
+K. Yamaguchi,conf/sigmod/BunemanA86
+K. Yamaguchi,journals/tse/Sinha86
+K. Yamaguchi,journals/tods/JajodiaM90
+K. Yamaguchi,journals/iandc/NgS94
+Kaj Grønbæk,conf/vldb/HaradaNKT90
+Kaj Grønbæk,journals/tois/DewanC92
+Kaj Grønbæk,conf/edbt/KoskyCMS98
+Kamran Parsaye,conf/pldi/WilsonLM91
+Kaname Harumoto,conf/ijcai/Konolige89
+Kaname Harumoto,journals/jcss/HullS91
+Karl Dias,journals/coling/WeischedelS83
+Karl Dias,conf/kdd/JohnsonD98
+Kathryn B. Laskey,journals/tods/BertinoBFS98
+Kathryn B. Laskey,conf/mobicom/HeinzelmanKB99
+Keh-Yih Su,journals/is/BrainT90
+Kenichi Yoshida,journals/tkde/ChenY94
+Kenichi Yoshida,journals/insk/MeierD92
+Kenneth C. Smith,conf/icse/Wilson81
+Kenneth C. Smith,conf/vldb/TsatalosSI94
+Kenneth C. Smith,conf/cpm/Baeza-YatesP92
+Kenneth C. Smith,journals/tse/HudsonK88a
+Kenneth C. Smith,journals/toplas/PaigeK82
+Kenneth C. Smith,conf/sigmod/ConsensM94
+Kenneth C. Smith,conf/dbpl/BeeriMT97
+Klaus Weidenhaupt,conf/pods/Minker87
+Koichi Kashiwabara,conf/sigmod/ZouS96
+Koichi Kashiwabara,conf/dpds/Boral88
+Koichi Kashiwabara,journals/tse/ManninoCB90
+Laura De Young,journals/tois/LeeM90
+Laurie Rattner,conf/dl/CrabtreeTON97
+Laurie Rattner,journals/is/Nijssen75
+Laurie Rattner,conf/coopis/SchmittS98
+Laurie Rattner,conf/ngits/MissikoffL93
+Leo Mark,journals/logcom/ConsoleDT91
+Leo Obrst,journals/tods/Smith78
+Leo Obrst,journals/iandc/BlassG82
+Leo Obrst,journals/jcss/SleatorT83
+Leo Obrst,journals/debu/ChawatheGW94
+Leo Obrst,journals/debu/Garcia-MolinaGKKS91
+Leonard J. Bass,conf/vldb/Leiss82
+Leonard J. Bass,conf/pods/BrosdaV85
+Leonard J. Bass,conf/oopsla/KarpovichGF94
+Leonard J. Bass,journals/tods/Vitter85
+Li Yu,journals/jacm/Schwartz80
+Lynette Hirschman,conf/kdd/AgrawalMSSAB96
+Lynette Hirschman,journals/datamine/KleinbergPR98
+Lynette Hirschman,journals/aim/LesserC83
+Lynette Hirschman,journals/dke/FahrnerV95
+M. Nakano,journals/spe/BilirisDG93
+M. Nakano,journals/sigplan/HudakPWBFFGHHJKNPP92
+M. Tamir,conf/icde/SwamiI93
+Malcolm S. Powell,conf/aaai/CorkillLH82
+Malcolm S. Powell,conf/iclp/PrzymusinskaP88
+Man Xin,conf/dasfaa/SatohTIF91
+Mandar Mitra,conf/aaai/SchorDLT86
+Manuel García-Solaco,conf/kdd/DomshlakGGLMRS98
+Manuel García-Solaco,journals/spe/KerstenT84
+Manuel García-Solaco,journals/is/CeriW94
+Marc Bezem,conf/stoc/BroderCFM98
+Marc Luria,conf/vldb/ArmisenC81
+Mark Jahnke,conf/vldb/BiskupB83
+Mark Jahnke,journals/sigmod/SnodgrassHMOPRRWY98
+Martin Schneider 0006,conf/ssdbm/TheodoridisSPM98
+Martin Schneider 0006,journals/vldb/AmielBDS96
+Michiel O. Noordewier,conf/oopsla/Paepcke90
+Michiel O. Noordewier,conf/iclp/MonteiroP90
+Michiel O. Noordewier,journals/algorithmica/ChazelleG86
+Mike Gray,conf/mfdbs/LambrichtsNPPT89
+Mike Gray,conf/sigmod/TsangarisN91
+Mike Gray,journals/tse/WolfDIY89
+Mitsuru Kawashimo,conf/sigmod/RichardsonC87
+Nabil R. Adam,conf/mm/ChenKY94
+Nabil R. Adam,conf/dbsec/MichaelSBL92
+Nabil R. Adam,conf/mfdbs/BiskupC89
+Nancy N. Martin,conf/rtdb/BestavrosN96
+Nancy N. Martin,journals/cacm/BarkerO89
+Nicholas Kushmerick,conf/wdag/KanellakisMS93
+Nicholas Kushmerick,conf/dexa/BouazizKPW97
+Nicholas Kushmerick,journals/tc/BadrinathR88
+Nicholas Kushmerick,conf/vldb/WangZL99
+Nick Scherbakov,conf/nf2/Heuer87
+Nick Scherbakov,conf/efdbs/HodingSCSBDHSST99
+Nick Scherbakov,journals/debu/MylopoulosBGW84
+Nilesh V. Patel,journals/cacm/ArocenaM98
+Nilesh V. Patel,conf/db-workshops/MylopoulosL82
+Nilesh V. Patel,conf/vldb/YuSLC83
+Nissim Francez,conf/aaai/FahlmanHS83
+Nissim Francez,journals/cacm/SchroederS72
+Patricia G. Selinger,journals/tods/MohanLO86
+Patricia G. Selinger,conf/sigmod/FishmanLW84
+Patricia G. Selinger,journals/software/GibbsTFKY87
+Patricia G. Selinger,conf/trec/Harman94
+Patricia G. Selinger,conf/vldb/LlirbatST97
+Patricia G. Selinger,conf/iadt/SchwarzTS98
+Patrick Tendick,conf/sde/MahlerL88
+Patrick Tendick,journals/sigops/WilkinsonACHMVWW81
+Patrick Tendick,conf/sigmod/SeveranceL76
+Peter van Beek,conf/dasfaa/MainoMN93
+Peter van Beek,conf/sigmod/WaasG00
+Peter van Beek,journals/ijmms/PeacheyM86
+Peter van Beek,journals/jacm/Garcia-MolinaB85
+Phan Minh Dung,conf/icde/RiedelH96
+Phan Minh Dung,journals/csur/PopekK79
+Phan Minh Dung,conf/ssdbm/WashburnDW96
+Phan Minh Dung,conf/sigmod/AllchinKW80
+Phokion G. Kolaitis,conf/er/PahwaA85
+Phokion G. Kolaitis,conf/dood/CeriBFP95
+Phokion G. Kolaitis,conf/mobicom/PaganiR97
+Quinton Zondervan,journals/is/OmiecinskiLA91
+Quinton Zondervan,conf/rules/PatonDWCDJ93
+Rachel Ben-Eliyahu-Zohary,conf/er/CardenasW85
+Rachel Ben-Eliyahu-Zohary,conf/lics/MitchellHF93
+Rajendra K. Raj,conf/dl/BaruCGLMPV99
+Rajendra K. Raj,journals/spe/BrownbridgeMR82
+Rajendra K. Raj,conf/icdt/BaileyDR97
+Rajendra K. Raj,conf/icse/LudewigGHMMS85
+Rajendra K. Raj,journals/debu/WeikumDSS93
+Rajendra K. Raj,journals/computer/Larson86
+Rajendran M. Sivasankaran,conf/ifip/Delobel80
+Rajendran M. Sivasankaran,conf/sigsoft/SeemannG98
+Richard C. T. Lee,conf/pods/GoodmanSCDFR83
+Richard C. T. Lee,journals/csur/Severance74
+Richard C. T. Lee,conf/dexaw/OliveiraEALC95
+Richard Cole 0001,journals/dke/LorentzosPS95
+Richard Cole 0001,conf/iclp/KwokS88
+Richard Nunziata,journals/sigmod/DogacAOD95
+Richard Nunziata,conf/sigmod/MaierW82
+Richard Nunziata,conf/vldb/BernsteinPS99
+Richard Nunziata,journals/scp/TelTL88
+Richard Nunziata,journals/cj/ChangCC92
+Richard Simoni,conf/aaai/CravenFMMNS98
+Richard Simoni,conf/srds/LongP87
+Richard Simoni,conf/sigmod/TheodoulidisAACKS94
+Richard Snyder,journals/tods/EichW88
+Richard T. Carling,conf/pods/NurmiSW87
+Richard T. Carling,conf/icde/OzsoyogluC86
+Robert B. France,journals/tods/ChakravarthyGM90
+Robert Durst,conf/ds/DaruwalaGHHMS95
+Robert Durst,conf/sigmod/GoyalHKMS96
+Robert Durst,conf/pods/MeccaB95
+Robert Durst,journals/debu/MorrisNSUG87
+Robert J. Glushko,journals/jcss/BunemanDW91
+Robert J. Glushko,conf/icdcs/Garcia-MolinaKL88
+Robert J. Glushko,conf/gi/RebsamenZ82
+Robert M. Keller,conf/caise/Olive99
+Robert M. Keller,journals/tkde/SegevP89
+Robert M. Keller,journals/gis/ShafferSN90
+Robert M. Keller,journals/sigmod/McLaughlinHBRHH88
+Robert V. Landau,conf/pos/ConnorBCDMR90
+Robert W. Engles,conf/icdt/BusscheG92
+Robert W. Engles,conf/edbt/MohanN92
+Rod M. Burstall,conf/ssdbm/LeeRT94
+Rod M. Burstall,journals/vldb/AslanM99
+Rudolf Herzig,conf/asplos/LeeT96
+Rudolf Herzig,conf/stoc/ManasseMS88
+S. Haldar,journals/siamcomp/FredericksonJ84
+S. Haldar,conf/fqas/KorpimiesU98
+S. Haldar,conf/er/KerschbergBH89
+S. Katz,conf/vldb/KumarKA97
+S. Katz,conf/vldb/ShanmugasundaramSBCLPR00
+S. Katz,conf/sigmod/PatelD96
+S. Katz,conf/btw/SauterT95
+S. Muthukrishnan,conf/popl/LeeJB01
+S. Muthukrishnan,conf/sigmod/MotakisZ97
+S. Sudarshan 0001,journals/debu/Hsiao81
+S. Sudarshan 0001,conf/vldb/JagadishMN99
+Sachin Kulkarni,conf/vldb/RamanRH99
+Samiha Mourad,conf/compgeom/DobkinE93
+Samiha Mourad,journals/tkde/OmiecinskiLS94
+Sara A. Bly,conf/er/CasanovaCRL91
+Sara A. Bly,journals/cacm/Chapman82
+Sara A. Bly,conf/pods/BreitbartK97
+Sara A. Bly,journals/cacm/YuSBYBT89
+Sara Shurin,conf/icde/DayDIKG95
+Seungho Cha,journals/siamcomp/KirkpatrickS86
+Seungho Cha,conf/aaai/Aikins80
+Seungho Cha,conf/echt/BieberW94
+Shin-Chung Shao,conf/icde/CheungHNW96
+Shin-Chung Shao,journals/tse/McCuneTDS85
+Sigfus Bjarnason,conf/icdcs/MakaroffE90
+Sigfus Bjarnason,conf/wcre/OcaC98
+Sigfus Bjarnason,conf/sde/AlpernCRSZ88
+Sigfus Bjarnason,conf/mfcs/GenrichL78
+Sigfus Bjarnason,conf/icde/DiederichM87
+Sigfus Bjarnason,conf/dasfaa/YamamotoNMS89
+Stavros Christodoulakis,conf/ssdbm/Olken86
+Steffen Rothkugel,journals/software/Hailpern86
+Sujay S. Parekh,journals/csur/PeckhamM88
+Sujay S. Parekh,journals/cacm/GrantM92
+Sylvain Guinepain,conf/sigmod/BorgidaBMR89
+Taisook Han,conf/bncod/TuvPL92
+Taisook Han,conf/kdd/StolorzNMMSSYNCMF95
+Taisook Han,conf/dl/WuMR97
+Taisook Han,conf/er/AkokaCL99
+Theodoros Andronikos,conf/artdb/LlirbatS95
+Thomas K. W. Tsou,conf/jcdkb/GoldschmidtR78
+Tim Connors,conf/cikm/SchmittT98
+Timothy D. Korson,conf/adbis/SchwarzTS98
+Toufic M. Mezher,conf/icde/BalboDLG84
+Toufic M. Mezher,journals/tc/RamamoorthyW83
+Toufic M. Mezher,journals/jiis/GaasterlandGM92a
+Ulf R. Schmerl,conf/kdd/HinneburgK98
+Ulf R. Schmerl,conf/dasfaa/KangHW91
+Ulf R. Schmerl,conf/pos/BlottKRS94
+Ulf R. Schmerl,conf/fgcs/Lloyd88
+Victor O. K. Li,journals/debu/ReuterS95
+Victor O. K. Li,journals/cj/BellD82
+Victor O. K. Li,journals/computer/Rich84
+Vincent Oria,conf/vldb/MaindrevilleS88
+Vincent Oria,conf/icdcs/YuCDT86
+W. N. Chin,journals/ibmrd/FernandezLW78
+W. N. Chin,conf/ssdbm/LehnerAW98
+Weining Zhang,conf/sigmod/GravanoCGP97
+Wolfgang Wonner,conf/edbt/FukudaM98
+Wolfgang Wonner,conf/sigmod/Ullman85
+Wonhee Sull,journals/tkde/KuKH94
+Wonhee Sull,conf/pods/BeeriRSS92
+Woochun Jun,journals/sigmod/FowlerPNB99
+Woochun Jun,conf/adbis/AmatoMS97
+Y. C. Liu,journals/sigmod/RusinkiewiczELL90
+Y. C. Liu,journals/sigmod/OukselS99
+Y. C. Liu,conf/icde/BennKSW92
+Y. C. Liu,journals/tc/BartonCSS90
+Y. C. Liu,conf/vldb/SoensLSST93
+Y. C. Liu,conf/ssdbm/ThomasBBPSW94
+Yuzuru Tanaka,journals/sigmod/ScheuermannEGMMRT90
+Yuzuru Tanaka,conf/stoc/AwerbuchBF93
+Yuzuru Tanaka,conf/ride/Mohan92a
+Yuzuru Tanaka,journals/cacm/HirshBD00
+Zuwang Ruan,conf/er/Brathwaite83
+Átila L. F. Xavier,journals/vldb/MylopoulosCPST96
+Átila L. F. Xavier,journals/debu/Shoshani93
+Átila L. F. Xavier,journals/jacm/BakerCW85
+Klaus Weidenhaupt,journals/tods/KerschbergTY82
+Klaus Weidenhaupt,conf/vldb/RysNS96
+Klaus Weidenhaupt,journals/pe/JingTH96
+Klaus Weidenhaupt,conf/dasfaa/BhowmickMNL99
+Koichi Kashiwabara,conf/db-workshops/MallSR82
+Krishna P. Belkhale,conf/kdd/ZamirEMK97
+Laura De Young,conf/sigmod/NixonCLBMS87
+Laura De Young,conf/er/WenguandCD91
+Laurie Rattner,conf/sigmod/Stonebraker91
+Laurie Rattner,conf/compgeom/AtallahG86
+Laurie Rattner,conf/aaai/Rowe82
+Laurie Rattner,conf/usenix/AngebranndtHLSS91
+Laurie Rattner,conf/ifip/UemuraYKOS80
+Leo Mark,conf/vldb/RoweS87
+Leo Mark,conf/nf2/GutingZ87
+Leo Mark,conf/vldb/ThomasD93
+Leo Obrst,journals/cacm/StefikFBKLS87
+Leo Obrst,journals/cj/ChuLW98
+Leonard J. Bass,conf/sigmod/AcharyaGPR99
+Leonard J. Bass,journals/dpd/ThakoreS94
+Leonard J. Bass,journals/tods/MaierMS79
+Leonidas Fegaras,conf/dpds/RaschidSL88
+Leonidas Fegaras,journals/tkde/LoR98
+Leonidas Fegaras,journals/internet/GuntherMSBK97
+Leonidas Fegaras,conf/wmrd/HisgenBJMSS90
+Leonidas Fegaras,journals/tods/Sagiv83
+Li Yu,conf/aaai/Gelfond87
+Li Yu,conf/edbt/LopesPL00
+Li Yu,journals/siamcomp/ShihLC91
+Lynette Hirschman,conf/bncod/NobecourtRL88
+M. Nakano,journals/sigops/LuS94
+M. Nakano,conf/icde/ZhangR99
+M. Nakano,journals/ipl/Oyang95
+M. Tamir,journals/siamcomp/AhoGU72
+M. Tamir,conf/pods/Vardi95
+M. Tamir,conf/sigmetrics/ChenL95
+M. Tamir,journals/csur/GaedeG98
+M. Tamir,conf/btw/BayerGKS87
+Malcolm S. Powell,conf/ht/LewisDGHW96
+Malcolm S. Powell,journals/cacm/ShawWL77
+Malcolm S. Powell,conf/sosp/KahnCDDHHMP81
+Man Xin,journals/tods/Piwowarski85
+Man Xin,journals/tkde/ShekharCRFLL99
+Mandar Mitra,conf/vldb/JoshiBLL98
+Manuel García-Solaco,journals/tse/BlackHJLC87
+Manuel García-Solaco,journals/ibmsj/SenkoAAF73
+Marc Bezem,conf/eds/CammarataM84
+Marc Bezem,journals/is/ChenDKLRS95
+Marc Bezem,conf/icde/BelfordLHHKKKLMNNQRYZ86
+Marc Bezem,conf/dood/FinanceSF95
+Marc H. Scholl,conf/icde/OmiecinskiLS92
+Marc H. Scholl,conf/slp/KiferS89
+Marc H. Scholl,journals/jss/MarkowitzR84
+Marc Luria,conf/dagstuhl/ElmasriL97
+Marc Luria,journals/sigmod/SiegelM91
+Marc Luria,conf/sigmod/ImielinskiL82a
+Marc Luria,conf/dasfaa/YamamotoNMS89
+Marc Luria,journals/jacm/HalpernM90
+Mark Jahnke,conf/pos/LiskovJGS90
+Mark Jahnke,journals/jacm/Larson83
+Mark Jahnke,journals/mms/WolfYS97
+Mark L. Gillenson,journals/gis/Al-TahaSS94
+Mark L. Gillenson,journals/jlp/DworkKM84
+Mark L. Gillenson,conf/lcc/RosenW94
+Martin Schneider 0006,journals/jacm/FischerLP85
+Martin Schneider 0006,conf/icde/DavisB89
+Martin Schneider 0006,conf/caivd/SmithK98
+Michiel O. Noordewier,conf/icde/MuckP97
+Michiel O. Noordewier,conf/dasfaa/SteinerN97
+Michiel O. Noordewier,conf/pldi/Gupta90
+Michiel O. Noordewier,conf/pods/BeeriM92
+Mike Gray,journals/ins/NavatheA89
+Márcio L. Andrade Netto,conf/sigmod/GangulyGMS96
+Nabil R. Adam,conf/icdcs/LeeS86
+Nancy N. Martin,conf/aaai/Etzioni96
+Nancy N. Martin,conf/hpts/SpectorEDDBDPT87
+Nancy N. Martin,journals/cj/BellMSA88
+Nancy N. Martin,conf/er/Dupont94
+Nancy N. Martin,journals/tc/Cvetanovic87
+Nicholas Kushmerick,conf/er/AtzeniBLV81
+Nicholas Kushmerick,conf/chi/MukherjeaFH95
+Nicholas Kushmerick,conf/pods/ImielinskiL83
+Nick Scherbakov,conf/sigir/NowellFHHF96
+Nick Scherbakov,conf/sigmod/OnoAF88
+Nick Scherbakov,conf/kr/Hanschke92
+Nick Scherbakov,conf/vldb/DiwanRSS96
+Nilesh V. Patel,conf/ssdbm/Lewis96
+Nissim Francez,conf/sigmod/AdaliSS99
+Nissim Francez,conf/ijcai/Mitchell77
+Patricia G. Selinger,conf/er/Teorey90
+Patricia G. Selinger,journals/amai/Imielinski91
+Patrick Tendick,conf/isca/ScottGV92
+Patrick Tendick,journals/debu/RoussopoulosCKDP95
+Peter van Beek,journals/csur/JarkeV85
+Peter van Beek,conf/icde/DavisB88
+Peter van Beek,journals/jcss/HerlihyW91
+Phan Minh Dung,conf/icde/SarathySG93
+Phan Minh Dung,journals/coling/CarbonellH83
+Phan Minh Dung,conf/vldb/BrownP83
+Phan Minh Dung,conf/er/TagashiraSIF98
+Phokion G. Kolaitis,conf/ssd/HuangS93
+Phokion G. Kolaitis,conf/er/AckleyCSTTTZ90
+Quinton Zondervan,conf/vldb/SudkampL90
+Quinton Zondervan,conf/berkeley/GrayHKO81
+Quinton Zondervan,conf/dexa/IshakbeyogluO93
+Rachel Ben-Eliyahu-Zohary,conf/icml/DoughertyKS95
+Rachel Ben-Eliyahu-Zohary,conf/icde/UrbanKN92
+Rachel Ben-Eliyahu-Zohary,conf/icde/RakowGN90
+Rachel Ben-Eliyahu-Zohary,conf/popl/LeroyW91
+Rachel Ben-Eliyahu-Zohary,conf/icde/CaiCH90
+Rajendra K. Raj,conf/aaai/ChristensenK86
+Rajendra K. Raj,journals/vldb/RoySSSA98
+Rajendra K. Raj,conf/amcp/AksoyABCFWZ98
+Rajendra K. Raj,conf/icde/WienerGLZG97
+Rajendra K. Raj,journals/debu/BarbaraW99
+Rajendran M. Sivasankaran,conf/ssd/KriegelSS97
+Ricardo R. Gudwin,conf/kdd/YodaFMMT97
+Ricardo R. Gudwin,conf/pods/KolaitisMT98
+Ricardo R. Gudwin,journals/tc/VelardiI84
+Richard C. T. Lee,conf/edbt/ArgePRSVV00
+Richard Cole 0001,conf/vldb/LorieY89
+Richard Cole 0001,journals/cacm/RobertsM83
+Richard Cole 0001,conf/vldb/IbarakiKM83
+Richard Nunziata,conf/icde/VolzAB96
+Richard Nunziata,journals/debu/HaasMNRSW99
+Richard Nunziata,journals/tkde/ChenW96
+Richard Nunziata,conf/icde/BennKSW92
+Richard Nunziata,journals/jiis/SuLYAYL96
+Richard Simoni,conf/edbt/JohannsenLRS88
+Richard Simoni,journals/jcss/ValiantP75
+Richard Simoni,journals/ngc/Goebel85
+Richard Simoni,conf/pods/NaughtonS87
+Richard Snyder,conf/bncod/RamfosFG91
+Robert B. France,conf/vldb/DeutschPT99
+Robert B. France,journals/sigmod/Son88a
+Robert B. France,conf/ssdbm/KingJW94
+Robert Durst,conf/adbis/MillinerP94
+Robert J. Glushko,conf/icde/BalboDLG84
+Robert J. Glushko,conf/esec/EngelsHTE98
+Robert J. Glushko,journals/software/CeriCZLL90
+Robert M. Keller,conf/spaa/GoudreauLRST96
+Robert M. Keller,journals/dr/Ozsu00
+Robert M. Keller,journals/debu/ChristodoulakisEFHLLN88
+Robert M. Keller,journals/mms/StaehliWM95
+Robert M. Keller,conf/dbsec/MorgensternLTS91
+Robert V. Landau,journals/acta/BabichJ78
+Robert V. Landau,conf/icde/ManninoE84
+Robert V. Landau,journals/algorithmica/AndersonBB96
+Robert V. Landau,conf/usenix/PalayHKSWNSBP88
+Robert V. Landau,journals/ijcis/JenningsFJNOW96
+Robert V. Landau,conf/ngits/ChristophidesHLT99
+Robert V. Landau,conf/chi/TerveenH98
+Robert W. Engles,journals/is/RoussopoulosB85
+Robert W. Engles,journals/tkde/WeigertT94
+Robert W. Engles,conf/sigmod/StonebrakerRG83
+Rod M. Burstall,conf/vldb/PonceletTCL93
+Rod M. Burstall,conf/vldb/ChaudhuriG99
+Rod M. Burstall,conf/icdcs/NettKK86
+Rod M. Burstall,conf/adbis/MadriaMC99
+Rod M. Burstall,conf/ride/GrabsBS01
+Rod M. Burstall,journals/tcs/BerghammerES95
+Rudolf Herzig,conf/pldi/Gupta90
+Rudolf Herzig,conf/vldb/CareyKSSS00
+Rudolf Herzig,journals/dke/LinOZ93
+S. Haldar,journals/epodd/AbererBH93
+S. Haldar,journals/ai/EisingerOP91
+S. Haldar,journals/ipl/CiacciaMT88
+S. Haldar,conf/icde/WiederholdQ87
+S. Haldar,journals/debu/BreitbartST87
+S. Katz,conf/icde/ChenY91
+S. Katz,conf/time/ChomickiR99
+S. Muthukrishnan,conf/dbpl/Dayal95
+S. Muthukrishnan,conf/icde/UdagawaM84
+S. Muthukrishnan,conf/vldb/AlsabtiRS97
+S. Muthukrishnan,conf/ride/ZhangMLR01
+S. Sudarshan 0001,conf/bncod/Kowalski84
+S. Sudarshan 0001,conf/er/BriandDHHK87
+Sachin Kulkarni,journals/rts/HaritsaCL92
+Sachin Kulkarni,conf/dolap/EwenMDLSG98
+Sachin Kulkarni,conf/mss/KoblerBCH95
+Sachin More,conf/edbt/FessyLP96
+Sachin More,conf/isooms/KappelRR94
+Samuel R. Buss,conf/vldb/LausenSW85
+Samuel R. Buss,conf/icalp/ChaudhuriZ95
+Sara A. Bly,conf/db-workshops/WatsonT90
+Sara A. Bly,conf/ppopp/CullerKPSSSSE93
+Sara A. Bly,journals/is/MaierRSSW87
+Sara A. Bly,conf/vdb/JiangKOSF89
+Sara Shurin,conf/edbt/BuchheitJNS94
+Sara Shurin,journals/tkde/Brito94
+Sara Shurin,conf/comad/RayHS95
+Shankar Sundaresan,journals/jlp/AsirelliSM85
+Shin-Chung Shao,conf/sigmod/RothAHCCFSTW96
+Shin-Chung Shao,conf/fqas/BonnetT98
+Shin-Chung Shao,conf/oodbs/RehmRRLHGDA88
+Shin-Chung Shao,conf/er/NavatheP88
+Sigfus Bjarnason,journals/tc/Trivedi77a
+Stavros Christodoulakis,journals/debu/StavrosNMYL91
+Stavros Christodoulakis,journals/tc/BeckBW88
+Stavros Christodoulakis,conf/sigmod/Olson95
+Stavros Christodoulakis,conf/iclp/Sripada95
+Steffen Rothkugel,conf/dbpl/FernandezPS97
+Steffen Rothkugel,conf/iopads/Arpaci-DusseauATCHPY99
+Steffen Rothkugel,conf/ds/HallOT76
+Sujay S. Parekh,journals/cacm/Hansen78
+Sujay S. Parekh,conf/vldb/HelmerM97
+Sylvain Guinepain,conf/wcre/HainautCTJ93
+Sylvain Guinepain,journals/tods/Sellis88
+Taisook Han,conf/parle/DagevilleCB94
+Taisook Han,conf/vldb/Greco98
+Theodoros Andronikos,conf/vldb/EgenhoferF88
+Theodoros Andronikos,journals/jsc/PavelleW85
+Theodoros Andronikos,conf/ssdbm/LauriniM88
+Thomas K. W. Tsou,journals/tods/WongE77
+Thomas K. W. Tsou,conf/sigmod/HaskinL82
+Thomas K. W. Tsou,conf/vldb/ChenLT78
+Tim Connors,conf/icde/ItohASM87
+Tim Connors,conf/cikm/ElmasriKF93
+Tim Connors,conf/dasfaa/MehrotraRBKS93
+Tim Connors,conf/sigmod/GrumbachRS98
+Timothy D. Korson,conf/vdb/MehrotraG95
+Timothy D. Korson,journals/tkde/DarA93
+Timothy D. Korson,conf/coopis/BultzingsloewenKK96
+Toufic M. Mezher,journals/siamam/GareyJ77
+Toufic M. Mezher,journals/dpd/KrishnakumarS95
+Toufic M. Mezher,journals/coling/NirenburgR87
+Ulf R. Schmerl,conf/csl/GurevichM89
+Ulf R. Schmerl,conf/pods/ColbyRSG94
+Ulf R. Schmerl,conf/dasfaa/MuckP97
+Ulf R. Schmerl,conf/webdb/CalvaneseGLV99
+Ulf R. Schmerl,conf/sigmod/AmbiteABKMMMPT98
+Victor O. K. Li,conf/stoc/RabinB89
+Victor O. K. Li,journals/tods/GoodmanS82
+Victor O. K. Li,conf/sigmod/BersonGM95
+Vincent Oria,journals/ijmms/BottaS92
+Vincent Oria,conf/vdb/Wegner89
+Vincent Oria,journals/cacm/ChangSBB97
+Vincent Oria,journals/tkde/YooS93
+W. N. Chin,conf/sigmod/BunemanDHS96
+Weining Zhang,journals/toms/CarpanetoDT95
+Weining Zhang,conf/csl/Sazonov94
+William S. Gilmore,conf/dexaw/RoddickGMS99
+William S. Gilmore,conf/sigmod/LacroixP80
+William S. Gilmore,conf/ecoop/BruceSG95
+William S. Gilmore,conf/sigmod/KimP88
+William S. Gilmore,conf/stoc/BorodinIRS91
+Wolfgang Wonner,conf/popl/JonesRT85
+Wolfgang Wonner,conf/ids/ChangCL92
+Wolfgang Wonner,conf/sosp/JeffersonBWBLHLSTWWYB87
+Wolfgang Wonner,conf/adbis/TzouramanisVM99
+Wonhee Sull,journals/tse/ApersHY83
+Wonhee Sull,conf/icde/Dutta89
+Woochun Jun,journals/tois/GohBMS99
+Woochun Jun,conf/vldb/GoldmanW97
+Y. C. Liu,journals/ipl/DAmoreF92
+Y. C. Liu,conf/cp/Revesz95
+Yuzuru Tanaka,journals/cj/AmbleK74
+Yuzuru Tanaka,conf/cikm/SuLAYY95
+Zuwang Ruan,journals/acta/WijngaardenMPKSLMF75
+Zuwang Ruan,journals/is/RollandSM95
+Zuwang Ruan,journals/cacm/Weiser93
+Zuwang Ruan,journals/ibmsj/DadamL89
+Zuwang Ruan,conf/sosp/BershadSPSFBCE95
+Zuwang Ruan,conf/sosp/BagleyFHW75
+Átila L. F. Xavier,conf/usenix/SteinMDRDRG94
+Átila L. F. Xavier,journals/tse/Ozsu85
+Átila L. F. Xavier,journals/tkde/TienY91
