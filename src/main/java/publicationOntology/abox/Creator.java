@@ -31,6 +31,7 @@ public class Creator {
 
             String companyUri = companyName.replaceAll("[^\\p{IsAlphabetic}]", "_");
             Resource currentCompany = companies_model.createResource(Config.RESOURCE_URL+companyUri)
+                    .addProperty(RDF.type, companies_model.getResource("http://www.gra.fo/publication/Company"))
                     .addProperty(companies_model.createProperty(Config.PROPERTY_URL+"business"),business)
                     .addProperty(FOAF.name, companyName);
         }
@@ -39,7 +40,7 @@ public class Creator {
         companies_model.write(new PrintStream(
                 new BufferedOutputStream(
                         new FileOutputStream(Config.OUTPUT_PATH+"company.nt")), true), "NT");   
-
+/*
 		//University
 		Model university_model = ModelFactory.createDefaultModel();
 
@@ -243,7 +244,7 @@ public class Creator {
 			}
 			*/
 			
-            // Add keyword (taking any from the title that have length > 3)
+/*            // Add keyword (taking any from the title that have length > 3)
             for(String kw:title.split(" ")){
                 if (kw.length()>3){
                     currentPaper.addProperty(paper_model.createProperty(Config.PROPERTY_URL+"contains"),paper_model.createResource(Config.RESOURCE_URL+"keyword_"+kw.replaceAll("[^\\p{IsAlphabetic}]", "_")));
@@ -314,9 +315,9 @@ public class Creator {
                 new BufferedOutputStream(
                         new FileOutputStream(Config.OUTPUT_PATH+"journal.nt")), true), "NT");
 						
-*/		
+        */
 	
-						
+/*
 		//keyword
 		
         Model keyword_model = ModelFactory.createDefaultModel();
@@ -341,7 +342,7 @@ public class Creator {
         keyword_model.write(new PrintStream(
                 new BufferedOutputStream(
                         new FileOutputStream(Config.OUTPUT_PATH+"keyword.nt")), true), "NT");
-		
+	*/
 	}
 
 }
