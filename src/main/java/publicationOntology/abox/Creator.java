@@ -250,10 +250,15 @@ public class Creator {
                 }
             }
 			
-			String[] paperKey_list = row_data[3].split("\\/");
+			String journal = row_data[2];
+			String conference = row_data[10];
+			//String jorc =  row_data[9];
+			
             // Published In
-			if(paperKey_list.length>1)
-				currentPaper.addProperty(paper_model.createProperty(Config.PROPERTY_URL+"published_in"),paper_model.createResource(Config.RESOURCE_URL+paperKey_list[0]+"_"+paperKey_list[1]));
+			if(conference.length()>1)
+				currentPaper.addProperty(paper_model.createProperty(Config.PROPERTY_URL+"published_in"),paper_model.createResource(Config.RESOURCE_URL+"conf_"+conference.replaceAll("[^\\p{IsAlphabetic}]", "_")));
+			if(journal.length()>1)
+				currentPaper.addProperty(paper_model.createProperty(Config.PROPERTY_URL+"published_in"),paper_model.createResource(Config.RESOURCE_URL+"journals_"+journal.replaceAll("[^\\p{IsAlphabetic}]", "_")));
         }
         paper_csvReader.close();
 
@@ -261,52 +266,53 @@ public class Creator {
                 new BufferedOutputStream(
                         new FileOutputStream(Config.OUTPUT_PATH+"paper.nt")), true), "NT");
 						
-						
+				
 		//conference
         Model conferenc_model = ModelFactory.createDefaultModel();
 
         // read the csv line by line
-        BufferedReader conferenc_csvReader = new BufferedReader(new FileReader(Config.PAPER_PATH));
+        BufferedReader conferenc_csvReader = new BufferedReader(new FileReader(Config.PROCEEDING_PATH));
 		
         String conferenc_row;
         while ((conferenc_row = conferenc_csvReader.readLine()) != null) {
 
-			String[] row_data = conferenc_row.split(",");
-			String title = row_data[6];
-			String[] paperKey_list = row_data[3].split("\\/");
-			if(paperKey_list.length>1){
-				String conferenceUri = Config.RESOURCE_URL+paperKey_list[0]+"_"+paperKey_list[1];
-			
-                if(conferenceUri.contains("conf")){
-                    Resource currentConference = conferenc_model.createResource(conferenceUri)
-                            .addProperty(conferenc_model.createProperty(Config.PROPERTY_URL + "confName"), title)
+			String[] row_data = conferenc_row.split(";");
+            String title = row_data[0];
+            String publisher = row_data[6];
+			String conferenceUri = Config.RESOURCE_URL+"conf_"+title.replaceAll("[^\\p{IsAlphabetic}]", "_");
+
+            Resource currentConference = conferenc_model.createResource(conferenceUri)
+							.addProperty(conferenc_model.createProperty(Config.PROPERTY_URL + "confName"), title)
+                            .addProperty(conferenc_model.createProperty(Config.PROPERTY_URL + "confPublisher"), publisher)
                             .addProperty(conferenc_model.createProperty(Config.PROPERTY_URL+"handled_byc"), conferenc_model.createResource(personUri_list.get(Utils.getRandomNumberInRange(0,personUri_list.size()-1))));
-                }
-            }
+     
         }
         conferenc_csvReader.close();
 
         conferenc_model.write(new PrintStream(
                 new BufferedOutputStream(
                         new FileOutputStream(Config.OUTPUT_PATH+"conference.nt")), true), "NT");
-						
+					
 		
-/*		
+		
 		//juornal
         // title, volume, year
         Model juornal_model = ModelFactory.createDefaultModel();
 
         // read the csv line by line
-        BufferedReader juornal_csvReader = new BufferedReader(new FileReader(Config.PAPER_PATH));
+        BufferedReader juornal_csvReader = new BufferedReader(new FileReader(Config.JOURNAL_PATH));
         String juornal_row;
         while ((juornal_row = juornal_csvReader.readLine()) != null) {
             String[] row_data = juornal_row.split(",");
-			String[] paperKey_list = row_data[3].split("\\/");
-            String journalUri = Config.RESOURCE_URL+row_data[0].replaceAll("[^\\p{IsAlphabetic}]", "_");
+			String juornal = row_data[0];
+			//String year = row_data[2];
+			String publisher = row_data[3];
+            String journalUri = Config.RESOURCE_URL+"journals_"+juornal.replaceAll("[^\\p{IsAlphabetic}]", "_");
 
             Resource currentJournalVolume = juornal_model.createResource(journalUri)
+					.addProperty(juornal_model.createProperty(Config.PROPERTY_URL+"journalName"), juornal)
                     .addProperty(juornal_model.createProperty(Config.PROPERTY_URL+"handled_byj"),juornal_model.createResource(personUri_list.get(Utils.getRandomNumberInRange(0,personUri_list.size()-1))))
-                    .addProperty(juornal_model.createProperty(Config.PROPERTY_URL+"jourName"), row_data[0]);
+                    .addProperty(juornal_model.createProperty(Config.PROPERTY_URL+"journalPublisher"), publisher);
         }
         juornal_csvReader.close();
 
@@ -314,7 +320,7 @@ public class Creator {
                 new BufferedOutputStream(
                         new FileOutputStream(Config.OUTPUT_PATH+"journal.nt")), true), "NT");
 						
-*/		
+		
 	
 						
 		//keyword
