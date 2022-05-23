@@ -1,3 +1,4 @@
+
 package publicationOntology.abox;
 
 import org.apache.commons.lang3.RandomStringUtils;
@@ -331,4 +332,5 @@ public class Creator {
                         new FileOutputStream(Config.OUTPUT_PATH + "keyword.nt")), true), "NT");
 
     }
+
 }
