@@ -81,7 +81,7 @@ public class Creator {
         BufferedReader review_csvReader = new BufferedReader(new FileReader(Config.REVIEW_PATH));
         //name,paper_key
         String review_row;
-        List<String> reviewUri_list = new ArrayList<>(Arrays.asList("first"));
+        List<String> reviewUri_list =  new ArrayList<String>();
 
         while ((review_row = review_csvReader.readLine()) != null) {
             String[] row_data = review_row.split(",");
@@ -117,7 +117,7 @@ public class Creator {
 
         BufferedReader person_csvReader = new BufferedReader(new FileReader(Config.AUTHOR_UNIVERSITY_PATH));
         String person_row;
-        List<String> personUri_list = new ArrayList<>(Arrays.asList("asList"));
+        List<String> personUri_list = new ArrayList<String>();
 
         while ((person_row = person_csvReader.readLine()) != null) {
             String[] row_data = person_row.split(";");
@@ -322,8 +322,8 @@ public class Creator {
 		for (int i = 0; i < 3; i++) {
 			String keywordUri = Config.RESOURCE_URL + "keyword_" + keywords.get(i);
 			Resource currentTitle = keyword_model.createResource(keywordUri)
-					.addProperty(RDF.type, keyword_model.getResource("http://www.gra.fo/publication/"+keywords.get(i)))
-					.addProperty(keyword_model.createProperty(Config.PROPERTY_URL + "keyword_value"), keywords.get(i));
+					.addProperty(RDF.type, keyword_model.getResource("http://www.gra.fo/publication/"+keywords.get(i)));
+					//.addProperty(keyword_model.createProperty(Config.PROPERTY_URL + "keyword_value"), keywords.get(i));
 		}
 
         keyword_model.write(new PrintStream(

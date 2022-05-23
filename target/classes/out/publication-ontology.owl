@@ -1,0 +1,555 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://www.gra.fo/publication/"
+     xml:base="http://www.gra.fo/publication/"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:gf="http://www.gra.fo/publication/"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:foaf="http://xmlns.com/foaf/spec/"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+    <owl:Ontology rdf:about="http://www.gra.fo/publication/"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+
+    
+
+
+    <!-- http://www.gra.fo/publication/contains -->
+
+
+    <owl:ObjectProperty rdf:about="http://www.gra.fo/publication/contains">
+        <rdfs:domain rdf:resource="http://www.gra.fo/publication/Paper"/>
+        <rdfs:range rdf:resource="http://www.gra.fo/publication/Keyword"/>
+        <rdfs:isDefinedBy rdf:resource="http://www.gra.fo/publication/"/>
+        <rdfs:label>contains</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.gra.fo/publication/gives_review -->
+
+
+    <owl:ObjectProperty rdf:about="http://www.gra.fo/publication/gives_review">
+        <rdfs:domain rdf:resource="http://www.gra.fo/publication/Author"/>
+        <rdfs:range rdf:resource="http://www.gra.fo/publication/Review"/>
+        <rdfs:isDefinedBy rdf:resource="http://www.gra.fo/publication/"/>
+        <rdfs:label>gives_review</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.gra.fo/publication/handled_byc -->
+
+
+    <owl:ObjectProperty rdf:about="http://www.gra.fo/publication/handled_byc">
+        <rdfs:domain rdf:resource="http://www.gra.fo/publication/Conference"/>
+        <rdfs:range rdf:resource="http://www.gra.fo/publication/Person"/>
+        <rdfs:isDefinedBy rdf:resource="http://www.gra.fo/publication/"/>
+        <rdfs:label>handled_byc</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.gra.fo/publication/handled_byj -->
+
+
+    <owl:ObjectProperty rdf:about="http://www.gra.fo/publication/handled_byj">
+        <rdfs:domain rdf:resource="http://www.gra.fo/publication/Journal"/>
+        <rdfs:range rdf:resource="http://www.gra.fo/publication/Person"/>
+        <rdfs:isDefinedBy rdf:resource="http://www.gra.fo/publication/"/>
+        <rdfs:label>handled_byj</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.gra.fo/publication/published_in -->
+
+
+    <owl:ObjectProperty rdf:about="http://www.gra.fo/publication/published_in">
+        <rdfs:domain rdf:resource="http://www.gra.fo/publication/Paper"/>
+        <rdfs:range rdf:resource="http://www.gra.fo/publication/Venue"/>
+        <rdfs:isDefinedBy rdf:resource="http://www.gra.fo/publication/"/>
+        <rdfs:label>published_in</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.gra.fo/publication/submitted_for -->
+
+
+    <owl:ObjectProperty rdf:about="http://www.gra.fo/publication/submitted_for">
+        <rdfs:domain rdf:resource="http://www.gra.fo/publication/Paper"/>
+        <rdfs:range rdf:resource="http://www.gra.fo/publication/Review"/>
+        <rdfs:isDefinedBy rdf:resource="http://www.gra.fo/publication/"/>
+        <rdfs:label>submitted_for</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.gra.fo/publication/works_in -->
+
+
+    <owl:ObjectProperty rdf:about="http://www.gra.fo/publication/works_in">
+        <rdfs:domain rdf:resource="http://www.gra.fo/publication/Author"/>
+        <rdfs:range rdf:resource="http://www.gra.fo/publication/Organization"/>
+        <rdfs:isDefinedBy rdf:resource="http://www.gra.fo/publication/"/>
+        <rdfs:label>works_in</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.gra.fo/publication/written_by -->
+
+
+    <owl:ObjectProperty rdf:about="http://www.gra.fo/publication/written_by">
+        <rdfs:domain rdf:resource="http://www.gra.fo/publication/Paper"/>
+        <rdfs:range rdf:resource="http://www.gra.fo/publication/Author"/>
+        <rdfs:isDefinedBy rdf:resource="http://www.gra.fo/publication/"/>
+        <rdfs:label>written_by</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Data properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+
+    
+
+
+    <!-- http://www.gra.fo/publication/attribute1_attr-61a914e0-5a48-4c9e-ba32-dbfe24d6052a -->
+
+
+    <owl:DatatypeProperty rdf:about="http://www.gra.fo/publication/attribute1_attr-61a914e0-5a48-4c9e-ba32-dbfe24d6052a">
+        <rdfs:domain rdf:resource="http://www.gra.fo/publication/Short_paper"/>
+        <rdfs:isDefinedBy rdf:resource="http://www.gra.fo/publication/"/>
+        <rdfs:label>attribute1</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.gra.fo/publication/business -->
+
+
+    <owl:DatatypeProperty rdf:about="http://www.gra.fo/publication/business">
+        <rdfs:domain rdf:resource="http://www.gra.fo/publication/Company"/>
+        <rdfs:isDefinedBy rdf:resource="http://www.gra.fo/publication/"/>
+        <rdfs:label>business</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.gra.fo/publication/comment -->
+
+
+    <owl:DatatypeProperty rdf:about="http://www.gra.fo/publication/comment">
+        <rdfs:domain rdf:resource="http://www.gra.fo/publication/Review"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <rdfs:isDefinedBy rdf:resource="http://www.gra.fo/publication/"/>
+        <rdfs:label>comment</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.gra.fo/publication/confname -->
+
+
+    <owl:DatatypeProperty rdf:about="http://www.gra.fo/publication/confname">
+        <rdfs:domain rdf:resource="http://www.gra.fo/publication/Conference"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <rdfs:isDefinedBy rdf:resource="http://www.gra.fo/publication/"/>
+        <rdfs:label>confName</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.gra.fo/publication/confpublisher -->
+
+
+    <owl:DatatypeProperty rdf:about="http://www.gra.fo/publication/confpublisher">
+        <rdfs:domain rdf:resource="http://www.gra.fo/publication/Conference"/>
+        <rdfs:isDefinedBy rdf:resource="http://www.gra.fo/publication/"/>
+        <rdfs:label>confPublisher</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.gra.fo/publication/demo_link -->
+
+
+    <owl:DatatypeProperty rdf:about="http://www.gra.fo/publication/demo_link">
+        <rdfs:domain rdf:resource="http://www.gra.fo/publication/Demo_paper"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <rdfs:isDefinedBy rdf:resource="http://www.gra.fo/publication/"/>
+        <rdfs:label>demo_link</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.gra.fo/publication/firstname -->
+
+
+    <owl:DatatypeProperty rdf:about="http://www.gra.fo/publication/firstname">
+        <rdfs:domain rdf:resource="http://www.gra.fo/publication/Author"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <rdfs:isDefinedBy rdf:resource="http://www.gra.fo/publication/"/>
+        <rdfs:label>firstName</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.gra.fo/publication/homepage -->
+
+
+    <owl:DatatypeProperty rdf:about="http://www.gra.fo/publication/homepage">
+        <rdfs:domain rdf:resource="http://www.gra.fo/publication/University"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <rdfs:isDefinedBy rdf:resource="http://www.gra.fo/publication/"/>
+        <rdfs:label>homepage</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.gra.fo/publication/journalpublisher -->
+
+
+    <owl:DatatypeProperty rdf:about="http://www.gra.fo/publication/journalpublisher">
+        <rdfs:domain rdf:resource="http://www.gra.fo/publication/Journal"/>
+        <rdfs:isDefinedBy rdf:resource="http://www.gra.fo/publication/"/>
+        <rdfs:label>journalPublisher</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.gra.fo/publication/journame -->
+
+
+    <owl:DatatypeProperty rdf:about="http://www.gra.fo/publication/journame">
+        <rdfs:domain rdf:resource="http://www.gra.fo/publication/Journal"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <rdfs:isDefinedBy rdf:resource="http://www.gra.fo/publication/"/>
+        <rdfs:label>jourName</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.gra.fo/publication/lastname -->
+
+
+    <owl:DatatypeProperty rdf:about="http://www.gra.fo/publication/lastname">
+        <rdfs:domain rdf:resource="http://www.gra.fo/publication/Author"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <rdfs:isDefinedBy rdf:resource="http://www.gra.fo/publication/"/>
+        <rdfs:label>lastName</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.gra.fo/publication/long_page_size -->
+
+
+    <owl:DatatypeProperty rdf:about="http://www.gra.fo/publication/long_page_size">
+        <rdfs:domain rdf:resource="http://www.gra.fo/publication/Full_paper"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <rdfs:isDefinedBy rdf:resource="http://www.gra.fo/publication/"/>
+        <rdfs:label>long_page_size</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.gra.fo/publication/name -->
+
+
+    <owl:DatatypeProperty rdf:about="http://www.gra.fo/publication/name">
+        <rdfs:domain>
+            <owl:Class>
+                <owl:unionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://www.gra.fo/publication/Company"/>
+                    <rdf:Description rdf:about="http://www.gra.fo/publication/University"/>
+                </owl:unionOf>
+            </owl:Class>
+        </rdfs:domain>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <rdfs:isDefinedBy rdf:resource="http://www.gra.fo/publication/"/>
+        <rdfs:label>name</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.gra.fo/publication/poster_link -->
+
+
+    <owl:DatatypeProperty rdf:about="http://www.gra.fo/publication/poster_link">
+        <rdfs:domain rdf:resource="http://www.gra.fo/publication/Poster"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <rdfs:isDefinedBy rdf:resource="http://www.gra.fo/publication/"/>
+        <rdfs:label>poster_link</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.gra.fo/publication/publication_year -->
+
+
+    <owl:DatatypeProperty rdf:about="http://www.gra.fo/publication/publication_year">
+        <rdfs:domain rdf:resource="http://www.gra.fo/publication/Paper"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <rdfs:isDefinedBy rdf:resource="http://www.gra.fo/publication/"/>
+        <rdfs:label>publication_year</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.gra.fo/publication/title -->
+
+
+    <owl:DatatypeProperty rdf:about="http://www.gra.fo/publication/title">
+        <rdfs:domain rdf:resource="http://www.gra.fo/publication/Paper"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <rdfs:isDefinedBy rdf:resource="http://www.gra.fo/publication/"/>
+        <rdfs:label>title</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+
+    
+
+
+    <!-- http://www.gra.fo/publication/Author -->
+
+
+    <owl:Class rdf:about="http://www.gra.fo/publication/Author">
+        <rdfs:subClassOf rdf:resource="http://www.gra.fo/publication/Person"/>
+        <rdfs:isDefinedBy rdf:resource="http://www.gra.fo/publication/"/>
+        <rdfs:label>author</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.gra.fo/publication/Company -->
+
+
+    <owl:Class rdf:about="http://www.gra.fo/publication/Company">
+        <rdfs:subClassOf rdf:resource="http://www.gra.fo/publication/Organization"/>
+        <rdfs:isDefinedBy rdf:resource="http://www.gra.fo/publication/"/>
+        <rdfs:label>company</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.gra.fo/publication/Conference -->
+
+
+    <owl:Class rdf:about="http://www.gra.fo/publication/Conference">
+        <rdfs:subClassOf rdf:resource="http://www.gra.fo/publication/Venue"/>
+        <rdfs:isDefinedBy rdf:resource="http://www.gra.fo/publication/"/>
+        <rdfs:label>conference</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.gra.fo/publication/Cyber_security -->
+
+
+    <owl:Class rdf:about="http://www.gra.fo/publication/Cyber_security">
+        <rdfs:subClassOf rdf:resource="http://www.gra.fo/publication/Keyword"/>
+        <rdfs:isDefinedBy rdf:resource="http://www.gra.fo/publication/"/>
+        <rdfs:label>cyber_security</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.gra.fo/publication/Database -->
+
+
+    <owl:Class rdf:about="http://www.gra.fo/publication/Database">
+        <rdfs:subClassOf rdf:resource="http://www.gra.fo/publication/Keyword"/>
+        <rdfs:isDefinedBy rdf:resource="http://www.gra.fo/publication/"/>
+        <rdfs:label>database</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.gra.fo/publication/Demo_paper -->
+
+
+    <owl:Class rdf:about="http://www.gra.fo/publication/Demo_paper">
+        <rdfs:subClassOf rdf:resource="http://www.gra.fo/publication/Paper"/>
+        <rdfs:isDefinedBy rdf:resource="http://www.gra.fo/publication/"/>
+        <rdfs:label>demo_paper</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.gra.fo/publication/Full_paper -->
+
+
+    <owl:Class rdf:about="http://www.gra.fo/publication/Full_paper">
+        <rdfs:subClassOf rdf:resource="http://www.gra.fo/publication/Paper"/>
+        <rdfs:isDefinedBy rdf:resource="http://www.gra.fo/publication/"/>
+        <rdfs:label>full_paper</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.gra.fo/publication/Journal -->
+
+
+    <owl:Class rdf:about="http://www.gra.fo/publication/Journal">
+        <rdfs:subClassOf rdf:resource="http://www.gra.fo/publication/Venue"/>
+        <rdfs:isDefinedBy rdf:resource="http://www.gra.fo/publication/"/>
+        <rdfs:label>journal</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.gra.fo/publication/Keyword -->
+
+
+    <owl:Class rdf:about="http://www.gra.fo/publication/Keyword">
+        <rdfs:isDefinedBy rdf:resource="http://www.gra.fo/publication/"/>
+        <rdfs:label>keyword</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.gra.fo/publication/Machine_learning -->
+
+
+    <owl:Class rdf:about="http://www.gra.fo/publication/Machine_learning">
+        <rdfs:subClassOf rdf:resource="http://www.gra.fo/publication/Keyword"/>
+        <rdfs:isDefinedBy rdf:resource="http://www.gra.fo/publication/"/>
+        <rdfs:label>machine_learning</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.gra.fo/publication/Organization -->
+
+
+    <owl:Class rdf:about="http://www.gra.fo/publication/Organization">
+        <rdfs:isDefinedBy rdf:resource="http://www.gra.fo/publication/"/>
+        <rdfs:label>organization</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.gra.fo/publication/Paper -->
+
+
+    <owl:Class rdf:about="http://www.gra.fo/publication/Paper">
+        <rdfs:isDefinedBy rdf:resource="http://www.gra.fo/publication/"/>
+        <rdfs:label>paper</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.gra.fo/publication/Person -->
+
+
+    <owl:Class rdf:about="http://www.gra.fo/publication/Person">
+        <rdfs:isDefinedBy rdf:resource="http://www.gra.fo/publication/"/>
+        <rdfs:label>person</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.gra.fo/publication/Poster -->
+
+
+    <owl:Class rdf:about="http://www.gra.fo/publication/Poster">
+        <rdfs:subClassOf rdf:resource="http://www.gra.fo/publication/Paper"/>
+        <rdfs:isDefinedBy rdf:resource="http://www.gra.fo/publication/"/>
+        <rdfs:label>poster</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.gra.fo/publication/Review -->
+
+
+    <owl:Class rdf:about="http://www.gra.fo/publication/Review">
+        <rdfs:isDefinedBy rdf:resource="http://www.gra.fo/publication/"/>
+        <rdfs:label>review</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.gra.fo/publication/Short_paper -->
+
+
+    <owl:Class rdf:about="http://www.gra.fo/publication/Short_paper">
+        <rdfs:subClassOf rdf:resource="http://www.gra.fo/publication/Paper"/>
+        <rdfs:isDefinedBy rdf:resource="http://www.gra.fo/publication/"/>
+        <rdfs:label>short_paper</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.gra.fo/publication/University -->
+
+
+    <owl:Class rdf:about="http://www.gra.fo/publication/University">
+        <rdfs:subClassOf rdf:resource="http://www.gra.fo/publication/Organization"/>
+        <rdfs:isDefinedBy rdf:resource="http://www.gra.fo/publication/"/>
+        <rdfs:label>university</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.gra.fo/publication/Venue -->
+
+
+    <owl:Class rdf:about="http://www.gra.fo/publication/Venue">
+        <rdfs:isDefinedBy rdf:resource="http://www.gra.fo/publication/"/>
+        <rdfs:label>venue</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotations
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+
+    <rdf:Description rdf:about="http://www.gra.fo/publication/">
+        <rdfs:comment></rdfs:comment>
+        <rdfs:label>publication-ontology</rdfs:label>
+    </rdf:Description>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 5.1.17) https://github.com/owlcs/owlapi/ -->
+
+
