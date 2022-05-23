@@ -177,6 +177,8 @@ public class Creator {
         // read the csv line by line
         BufferedReader paper_csvReader = new BufferedReader(new FileReader(Config.PAPER_PATH));
         String paper_row;
+        List<String> keywords = Arrays.asList("Database","Cyber_Security","Maching_learning");
+
         while ((paper_row = paper_csvReader.readLine()) != null) {
             String[] row_data = paper_row.split(",");
 
@@ -238,26 +240,12 @@ public class Creator {
                 currentPaper.addProperty(RDF.type, paper_model.getResource("http://www.gra.fo/publication/Full_paper"));
                 currentPaper.addProperty(paper_model.createProperty(Config.PROPERTY_URL + "long_page_size"), String.valueOf(Utils.getRandomNumberInRange(10, 15)));
             }
-			
-			/*
-            // Add keyword 
-            for(String kw:keyword.split("\\|")){
-				if (kw.length()>0){
-					currentPaper.addProperty(paper_model.createProperty(Config.PROPERTY_URL+"contains"),paper_model.createResource(Config.RESOURCE_URL+"keyword_"+kw));
-				}
-			}
-			*/
 
-            // Add keyword (taking any from the title that have length > 3)
-            for (String kw : title.split(" ")) {
-                if (kw.length() > 3) {
-                    currentPaper.addProperty(paper_model.createProperty(Config.PROPERTY_URL + "contains"), paper_model.createResource(Config.RESOURCE_URL + "keyword_" + kw.replaceAll("[^\\p{IsAlphabetic}]", "_")));
-                }
-            }
+            String kw = keywords.get(Utils.getRandomNumberInRange(0, 2));
+            currentPaper.addProperty(paper_model.createProperty(Config.PROPERTY_URL + "contains"), paper_model.createResource(Config.RESOURCE_URL + "keyword_" + kw.replaceAll("[^\\p{IsAlphabetic}]", "_")));
 
             String journal = row_data[2];
             String conference = row_data[10];
-            //String jorc =  row_data[9];
 
             // Published In
             if (conference.length() > 1)
@@ -330,24 +318,13 @@ public class Creator {
         //keyword
 
         Model keyword_model = ModelFactory.createDefaultModel();
-
-        BufferedReader keyword_csvReader = new BufferedReader(new FileReader(Config.PAPER_PATH));
-        String keyword_row;
-        while ((keyword_row = keyword_csvReader.readLine()) != null) {
-            String[] row_data = keyword_row.split(",");
-
-            String title = row_data[6];
-            for (String kw : title.split(" ")) {
-                if (kw.length() > 3) {
-                    String keywordUri = Config.RESOURCE_URL + "keyword_" + kw.replaceAll("[^\\p{IsAlphabetic}]", "_");
-                    Resource currentTitle = keyword_model.createResource(keywordUri)
-                            .addProperty(RDF.type, keyword_model.getResource("http://www.gra.fo/publication/Keyword"))
-                            .addProperty(keyword_model.createProperty(Config.PROPERTY_URL + "keyword"), kw);
-                }
-            }
-
-        }
-        keyword_csvReader.close();
+		
+		for (int i = 0; i < 3; i++) {
+			String keywordUri = Config.RESOURCE_URL + "keyword_" + keywords.get(i);
+			Resource currentTitle = keyword_model.createResource(keywordUri)
+					.addProperty(RDF.type, keyword_model.getResource("http://www.gra.fo/publication/"+keywords.get(i)))
+					.addProperty(keyword_model.createProperty(Config.PROPERTY_URL + "keyword_value"), keywords.get(i));
+		}
 
         keyword_model.write(new PrintStream(
                 new BufferedOutputStream(
