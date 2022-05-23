@@ -1,602 +1,903 @@
 <http://www.gra.fo/publication/resource/Universidad_de_Monterrey> <http://xmlns.com/foaf/0.1/homepage> "http://www.udem.edu.mx/" .
 <http://www.gra.fo/publication/resource/Universidad_de_Monterrey> <http://xmlns.com/foaf/0.1/name> "Universidad de Monterrey" .
+<http://www.gra.fo/publication/resource/Universidad_de_Monterrey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Czech_Technical_University_of_Prague> <http://xmlns.com/foaf/0.1/homepage> "http://www.cvut.cz/" .
 <http://www.gra.fo/publication/resource/Czech_Technical_University_of_Prague> <http://xmlns.com/foaf/0.1/name> "Czech Technical University of Prague" .
+<http://www.gra.fo/publication/resource/Czech_Technical_University_of_Prague> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Kolej_Universiti_Insaniah> <http://xmlns.com/foaf/0.1/homepage> "http://www.kuin.edu.my/" .
 <http://www.gra.fo/publication/resource/Kolej_Universiti_Insaniah> <http://xmlns.com/foaf/0.1/name> "Kolej Universiti Insaniah" .
-<http://www.gra.fo/publication/resource/Universidad_Agroforestal_Fernando_A_Meri簽o> <http://xmlns.com/foaf/0.1/homepage> "http://www.uafam.edu.do/" .
-<http://www.gra.fo/publication/resource/Universidad_Agroforestal_Fernando_A_Meri簽o> <http://xmlns.com/foaf/0.1/name> "Universidad Agroforestal Fernando A.Meri簽o" .
+<http://www.gra.fo/publication/resource/Kolej_Universiti_Insaniah> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Bunge_Limited> <http://xmlns.com/foaf/0.1/homepage> "" .
 <http://www.gra.fo/publication/resource/Bunge_Limited> <http://xmlns.com/foaf/0.1/name> "Bunge Limited" .
+<http://www.gra.fo/publication/resource/Bunge_Limited> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
+<http://www.gra.fo/publication/resource/Ecole_Supérieure_de_Commerce_de_Toulouse> <http://xmlns.com/foaf/0.1/homepage> "http://www.esc-toulouse.fr/" .
+<http://www.gra.fo/publication/resource/Ecole_Supérieure_de_Commerce_de_Toulouse> <http://xmlns.com/foaf/0.1/name> "Ecole Supérieure de Commerce de Toulouse" .
+<http://www.gra.fo/publication/resource/Ecole_Supérieure_de_Commerce_de_Toulouse> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/PepsiCo> <http://xmlns.com/foaf/0.1/homepage> "" .
 <http://www.gra.fo/publication/resource/PepsiCo> <http://xmlns.com/foaf/0.1/name> "PepsiCo" .
-<http://www.gra.fo/publication/resource/Ecole_Nationale_Sup矇rieure_des_Industries_Textiles_de_Mulhouse> <http://xmlns.com/foaf/0.1/homepage> "http://www.ensitm.fr/" .
-<http://www.gra.fo/publication/resource/Ecole_Nationale_Sup矇rieure_des_Industries_Textiles_de_Mulhouse> <http://xmlns.com/foaf/0.1/name> "Ecole Nationale Sup矇rieure des Industries Textiles de Mulhouse" .
+<http://www.gra.fo/publication/resource/PepsiCo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
+<http://www.gra.fo/publication/resource/Instituto_Universitario_de_Ciencias_de_la_Salud_Fundación_H_A__Barceló> <http://xmlns.com/foaf/0.1/homepage> "http://www.barcelo.edu.ar/" .
+<http://www.gra.fo/publication/resource/Instituto_Universitario_de_Ciencias_de_la_Salud_Fundación_H_A__Barceló> <http://xmlns.com/foaf/0.1/name> "Instituto Universitario de Ciencias de la Salud Fundación H.A. Barceló" .
+<http://www.gra.fo/publication/resource/Instituto_Universitario_de_Ciencias_de_la_Salud_Fundación_H_A__Barceló> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Zhengzhou_University_of_Technology> <http://xmlns.com/foaf/0.1/homepage> "http://www.zzut.edu.cn/" .
 <http://www.gra.fo/publication/resource/Zhengzhou_University_of_Technology> <http://xmlns.com/foaf/0.1/name> "Zhengzhou University of Technology" .
+<http://www.gra.fo/publication/resource/Zhengzhou_University_of_Technology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
+<http://www.gra.fo/publication/resource/Université_Gaston_Berger_Saint_Louis> <http://xmlns.com/foaf/0.1/homepage> "http://www.ugb.sn/" .
+<http://www.gra.fo/publication/resource/Université_Gaston_Berger_Saint_Louis> <http://xmlns.com/foaf/0.1/name> "Université Gaston Berger Saint-Louis" .
+<http://www.gra.fo/publication/resource/Université_Gaston_Berger_Saint_Louis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/SAIC_Motor> <http://xmlns.com/foaf/0.1/homepage> "" .
 <http://www.gra.fo/publication/resource/SAIC_Motor> <http://xmlns.com/foaf/0.1/name> "SAIC Motor" .
+<http://www.gra.fo/publication/resource/SAIC_Motor> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Tyson_Foods> <http://xmlns.com/foaf/0.1/homepage> "" .
 <http://www.gra.fo/publication/resource/Tyson_Foods> <http://xmlns.com/foaf/0.1/name> "Tyson Foods" .
+<http://www.gra.fo/publication/resource/Tyson_Foods> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Fachhochschule_St__Gallen> <http://xmlns.com/foaf/0.1/homepage> "https://www.fhsg.ch/" .
 <http://www.gra.fo/publication/resource/Fachhochschule_St__Gallen> <http://xmlns.com/foaf/0.1/name> "Fachhochschule St. Gallen" .
+<http://www.gra.fo/publication/resource/Fachhochschule_St__Gallen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Eni> <http://xmlns.com/foaf/0.1/homepage> "" .
 <http://www.gra.fo/publication/resource/Eni> <http://xmlns.com/foaf/0.1/name> "Eni" .
+<http://www.gra.fo/publication/resource/Eni> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/JBS_S_A_> <http://xmlns.com/foaf/0.1/homepage> "" .
 <http://www.gra.fo/publication/resource/JBS_S_A_> <http://xmlns.com/foaf/0.1/name> "JBS S.A." .
+<http://www.gra.fo/publication/resource/JBS_S_A_> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Da_Yeh_University> <http://xmlns.com/foaf/0.1/homepage> "http://www.dyu.edu.tw/" .
 <http://www.gra.fo/publication/resource/Da_Yeh_University> <http://xmlns.com/foaf/0.1/name> "Da-Yeh University" .
+<http://www.gra.fo/publication/resource/Da_Yeh_University> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/British_College_of_Osteopathic_Medicine> <http://xmlns.com/foaf/0.1/homepage> "http://www.bcom.ac.uk/" .
 <http://www.gra.fo/publication/resource/British_College_of_Osteopathic_Medicine> <http://xmlns.com/foaf/0.1/name> "British College of Osteopathic Medicine" .
+<http://www.gra.fo/publication/resource/British_College_of_Osteopathic_Medicine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Western_Michigan_University> <http://xmlns.com/foaf/0.1/homepage> "http://www.wmich.edu/" .
 <http://www.gra.fo/publication/resource/Western_Michigan_University> <http://xmlns.com/foaf/0.1/name> "Western Michigan University" .
+<http://www.gra.fo/publication/resource/Western_Michigan_University> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/University_of_the_West_Indies_St__Augustine> <http://xmlns.com/foaf/0.1/homepage> "http://www.uwi.tt/" .
 <http://www.gra.fo/publication/resource/University_of_the_West_Indies_St__Augustine> <http://xmlns.com/foaf/0.1/name> "University of the West Indies St. Augustine" .
+<http://www.gra.fo/publication/resource/University_of_the_West_Indies_St__Augustine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Arab_Open_University> <http://xmlns.com/foaf/0.1/homepage> "http://www.aou.org.bh/" .
 <http://www.gra.fo/publication/resource/Arab_Open_University> <http://xmlns.com/foaf/0.1/name> "Arab Open University" .
+<http://www.gra.fo/publication/resource/Arab_Open_University> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Long_Island_University__Southampton_College> <http://xmlns.com/foaf/0.1/homepage> "http://www.southampton.liunet.edu/" .
 <http://www.gra.fo/publication/resource/Long_Island_University__Southampton_College> <http://xmlns.com/foaf/0.1/name> "Long Island University, Southampton College" .
+<http://www.gra.fo/publication/resource/Long_Island_University__Southampton_College> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Hitachi> <http://xmlns.com/foaf/0.1/homepage> "" .
 <http://www.gra.fo/publication/resource/Hitachi> <http://xmlns.com/foaf/0.1/name> "Hitachi" .
+<http://www.gra.fo/publication/resource/Hitachi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/COMSATS_Institute_of_Information_Technology__Lahore> <http://xmlns.com/foaf/0.1/homepage> "http://www.ciitlahore.edu.pk/" .
 <http://www.gra.fo/publication/resource/COMSATS_Institute_of_Information_Technology__Lahore> <http://xmlns.com/foaf/0.1/name> "COMSATS Institute of Information Technology, Lahore" .
+<http://www.gra.fo/publication/resource/COMSATS_Institute_of_Information_Technology__Lahore> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Lumbini_Buddhist_University> <http://xmlns.com/foaf/0.1/homepage> "http://www.lbu.edu.np/" .
 <http://www.gra.fo/publication/resource/Lumbini_Buddhist_University> <http://xmlns.com/foaf/0.1/name> "Lumbini Buddhist University" .
+<http://www.gra.fo/publication/resource/Lumbini_Buddhist_University> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Saint_Gobain> <http://xmlns.com/foaf/0.1/homepage> "" .
 <http://www.gra.fo/publication/resource/Saint_Gobain> <http://xmlns.com/foaf/0.1/name> "Saint-Gobain" .
+<http://www.gra.fo/publication/resource/Saint_Gobain> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Sinomach> <http://xmlns.com/foaf/0.1/homepage> "" .
 <http://www.gra.fo/publication/resource/Sinomach> <http://xmlns.com/foaf/0.1/name> "Sinomach" .
+<http://www.gra.fo/publication/resource/Sinomach> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Johnson___Johnson> <http://xmlns.com/foaf/0.1/homepage> "" .
 <http://www.gra.fo/publication/resource/Johnson___Johnson> <http://xmlns.com/foaf/0.1/name> "Johnson & Johnson" .
-<http://www.gra.fo/publication/resource/Universidade_Estadual_de_Maring獺> <http://xmlns.com/foaf/0.1/homepage> "http://www.uem.br/" .
-<http://www.gra.fo/publication/resource/Universidade_Estadual_de_Maring獺> <http://xmlns.com/foaf/0.1/name> "Universidade Estadual de Maring獺" .
+<http://www.gra.fo/publication/resource/Johnson___Johnson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Reformed_Theological_Academy_of_Debrecen> <http://xmlns.com/foaf/0.1/homepage> "http://www.drk.hu/" .
 <http://www.gra.fo/publication/resource/Reformed_Theological_Academy_of_Debrecen> <http://xmlns.com/foaf/0.1/name> "Reformed Theological Academy of Debrecen" .
+<http://www.gra.fo/publication/resource/Reformed_Theological_Academy_of_Debrecen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Geely> <http://xmlns.com/foaf/0.1/homepage> "" .
 <http://www.gra.fo/publication/resource/Geely> <http://xmlns.com/foaf/0.1/name> "Geely" .
+<http://www.gra.fo/publication/resource/Geely> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Lockheed_Martin> <http://xmlns.com/foaf/0.1/homepage> "" .
 <http://www.gra.fo/publication/resource/Lockheed_Martin> <http://xmlns.com/foaf/0.1/name> "Lockheed Martin" .
+<http://www.gra.fo/publication/resource/Lockheed_Martin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Exor> <http://xmlns.com/foaf/0.1/homepage> "" .
 <http://www.gra.fo/publication/resource/Exor> <http://xmlns.com/foaf/0.1/name> "Exor" .
+<http://www.gra.fo/publication/resource/Exor> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Jones_College> <http://xmlns.com/foaf/0.1/homepage> "http://www.jones.edu/" .
 <http://www.gra.fo/publication/resource/Jones_College> <http://xmlns.com/foaf/0.1/name> "Jones College" .
-<http://www.gra.fo/publication/resource/Boeing> <http://xmlns.com/foaf/0.1/homepage> "" .
-<http://www.gra.fo/publication/resource/Boeing> <http://xmlns.com/foaf/0.1/name> "Boeing" .
+<http://www.gra.fo/publication/resource/Jones_College> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Catholic_University_in_Ruzomberok> <http://xmlns.com/foaf/0.1/homepage> "http://www.ku.sk/" .
 <http://www.gra.fo/publication/resource/Catholic_University_in_Ruzomberok> <http://xmlns.com/foaf/0.1/name> "Catholic University in Ruzomberok" .
-<http://www.gra.fo/publication/resource/Fachhochschule_D羹sseldorf> <http://xmlns.com/foaf/0.1/homepage> "http://www.fh-duesseldorf.de/" .
-<http://www.gra.fo/publication/resource/Fachhochschule_D羹sseldorf> <http://xmlns.com/foaf/0.1/name> "Fachhochschule D羹sseldorf" .
+<http://www.gra.fo/publication/resource/Catholic_University_in_Ruzomberok> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
+<http://www.gra.fo/publication/resource/Boeing> <http://xmlns.com/foaf/0.1/homepage> "" .
+<http://www.gra.fo/publication/resource/Boeing> <http://xmlns.com/foaf/0.1/name> "Boeing" .
+<http://www.gra.fo/publication/resource/Boeing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/China_Minmetals> <http://xmlns.com/foaf/0.1/homepage> "" .
 <http://www.gra.fo/publication/resource/China_Minmetals> <http://xmlns.com/foaf/0.1/name> "China Minmetals" .
+<http://www.gra.fo/publication/resource/China_Minmetals> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Brunel_University_Uxbridge> <http://xmlns.com/foaf/0.1/homepage> "http://www.brunel.ac.uk/" .
 <http://www.gra.fo/publication/resource/Brunel_University_Uxbridge> <http://xmlns.com/foaf/0.1/name> "Brunel University Uxbridge" .
+<http://www.gra.fo/publication/resource/Brunel_University_Uxbridge> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/University_of_Negros_Occidental_Recoletos> <http://xmlns.com/foaf/0.1/homepage> "http://www.uno-r.edu.ph/" .
 <http://www.gra.fo/publication/resource/University_of_Negros_Occidental_Recoletos> <http://xmlns.com/foaf/0.1/name> "University of Negros Occidental-Recoletos" .
+<http://www.gra.fo/publication/resource/University_of_Negros_Occidental_Recoletos> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Fachhochschule_JOANNEUM> <http://xmlns.com/foaf/0.1/homepage> "http://www.fh-joanneum.at/" .
 <http://www.gra.fo/publication/resource/Fachhochschule_JOANNEUM> <http://xmlns.com/foaf/0.1/name> "Fachhochschule JOANNEUM" .
+<http://www.gra.fo/publication/resource/Fachhochschule_JOANNEUM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Islamic_Azad_University__Najaf_Abad> <http://xmlns.com/foaf/0.1/homepage> "http://www.iaun.ac.ir/" .
 <http://www.gra.fo/publication/resource/Islamic_Azad_University__Najaf_Abad> <http://xmlns.com/foaf/0.1/name> "Islamic Azad University, Najaf Abad" .
+<http://www.gra.fo/publication/resource/Islamic_Azad_University__Najaf_Abad> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Denso> <http://xmlns.com/foaf/0.1/homepage> "" .
 <http://www.gra.fo/publication/resource/Denso> <http://xmlns.com/foaf/0.1/name> "Denso" .
+<http://www.gra.fo/publication/resource/Denso> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/University_of_Alaska___Fairbanks> <http://xmlns.com/foaf/0.1/homepage> "http://www.uaf.edu/" .
 <http://www.gra.fo/publication/resource/University_of_Alaska___Fairbanks> <http://xmlns.com/foaf/0.1/name> "University of Alaska - Fairbanks" .
+<http://www.gra.fo/publication/resource/University_of_Alaska___Fairbanks> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Cyberjaya_University_College_of_Medical_Science> <http://xmlns.com/foaf/0.1/homepage> "http://www.cybermed.edu.my/" .
 <http://www.gra.fo/publication/resource/Cyberjaya_University_College_of_Medical_Science> <http://xmlns.com/foaf/0.1/name> "Cyberjaya University College of Medical Science" .
+<http://www.gra.fo/publication/resource/Cyberjaya_University_College_of_Medical_Science> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Hewlett_Packard> <http://xmlns.com/foaf/0.1/homepage> "" .
 <http://www.gra.fo/publication/resource/Hewlett_Packard> <http://xmlns.com/foaf/0.1/name> "Hewlett-Packard" .
+<http://www.gra.fo/publication/resource/Hewlett_Packard> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Kent_State_University___Stark> <http://xmlns.com/foaf/0.1/homepage> "http://www.stark.kent.edu/" .
 <http://www.gra.fo/publication/resource/Kent_State_University___Stark> <http://xmlns.com/foaf/0.1/name> "Kent State University - Stark" .
+<http://www.gra.fo/publication/resource/Kent_State_University___Stark> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/University_of_Agriculture_Makurdi> <http://xmlns.com/foaf/0.1/homepage> "http://www.uam.edu.ng/" .
 <http://www.gra.fo/publication/resource/University_of_Agriculture_Makurdi> <http://xmlns.com/foaf/0.1/name> "University of Agriculture Makurdi" .
-<http://www.gra.fo/publication/resource/Fachhochschule_St__P繹lten> <http://xmlns.com/foaf/0.1/homepage> "http://www.fh-stpoelten.ac.at/" .
-<http://www.gra.fo/publication/resource/Fachhochschule_St__P繹lten> <http://xmlns.com/foaf/0.1/name> "Fachhochschule St. P繹lten" .
+<http://www.gra.fo/publication/resource/University_of_Agriculture_Makurdi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/American_European_School_of_Management_> <http://xmlns.com/foaf/0.1/homepage> "http://www.aesom.com/" .
 <http://www.gra.fo/publication/resource/American_European_School_of_Management_> <http://xmlns.com/foaf/0.1/name> "American-European School of Management " .
+<http://www.gra.fo/publication/resource/American_European_School_of_Management_> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
+<http://www.gra.fo/publication/resource/Ecole_Nationale_Supérieure_des_Industries_Textiles_de_Mulhouse> <http://xmlns.com/foaf/0.1/homepage> "http://www.ensitm.fr/" .
+<http://www.gra.fo/publication/resource/Ecole_Nationale_Supérieure_des_Industries_Textiles_de_Mulhouse> <http://xmlns.com/foaf/0.1/name> "Ecole Nationale Supérieure des Industries Textiles de Mulhouse" .
+<http://www.gra.fo/publication/resource/Ecole_Nationale_Supérieure_des_Industries_Textiles_de_Mulhouse> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/University_of_Medicine_and_Pharmacy_of_Targu_Mures> <http://xmlns.com/foaf/0.1/homepage> "http://www.umftgm.ro/" .
 <http://www.gra.fo/publication/resource/University_of_Medicine_and_Pharmacy_of_Targu_Mures> <http://xmlns.com/foaf/0.1/name> "University of Medicine and Pharmacy of Targu Mures" .
+<http://www.gra.fo/publication/resource/University_of_Medicine_and_Pharmacy_of_Targu_Mures> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/HBIS_Group> <http://xmlns.com/foaf/0.1/homepage> "" .
 <http://www.gra.fo/publication/resource/HBIS_Group> <http://xmlns.com/foaf/0.1/name> "HBIS Group" .
+<http://www.gra.fo/publication/resource/HBIS_Group> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
+<http://www.gra.fo/publication/resource/Ecole_des_Ingénieurs_de_la_Ville_de_Paris> <http://xmlns.com/foaf/0.1/homepage> "http://www.eivp-paris.fr/" .
+<http://www.gra.fo/publication/resource/Ecole_des_Ingénieurs_de_la_Ville_de_Paris> <http://xmlns.com/foaf/0.1/name> "Ecole des Ingénieurs de la Ville de Paris" .
+<http://www.gra.fo/publication/resource/Ecole_des_Ingénieurs_de_la_Ville_de_Paris> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Lyon_College> <http://xmlns.com/foaf/0.1/homepage> "http://www.lyon.edu/" .
 <http://www.gra.fo/publication/resource/Lyon_College> <http://xmlns.com/foaf/0.1/name> "Lyon College" .
+<http://www.gra.fo/publication/resource/Lyon_College> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
+<http://www.gra.fo/publication/resource/Universidad_Adolfo_Ibáñez> <http://xmlns.com/foaf/0.1/homepage> "http://www.uai.cl/" .
+<http://www.gra.fo/publication/resource/Universidad_Adolfo_Ibáñez> <http://xmlns.com/foaf/0.1/name> "Universidad Adolfo Ibáñez" .
+<http://www.gra.fo/publication/resource/Universidad_Adolfo_Ibáñez> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Osaka_University> <http://xmlns.com/foaf/0.1/homepage> "http://www.osaka-u.ac.jp/" .
 <http://www.gra.fo/publication/resource/Osaka_University> <http://xmlns.com/foaf/0.1/name> "Osaka University" .
+<http://www.gra.fo/publication/resource/Osaka_University> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Nissan> <http://xmlns.com/foaf/0.1/homepage> "" .
 <http://www.gra.fo/publication/resource/Nissan> <http://xmlns.com/foaf/0.1/name> "Nissan" .
+<http://www.gra.fo/publication/resource/Nissan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Adnan_Menderes_University> <http://xmlns.com/foaf/0.1/homepage> "http://www.adu.edu.tr/" .
 <http://www.gra.fo/publication/resource/Adnan_Menderes_University> <http://xmlns.com/foaf/0.1/name> "Adnan Menderes University" .
+<http://www.gra.fo/publication/resource/Adnan_Menderes_University> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/University_of_National_and_World_Economy> <http://xmlns.com/foaf/0.1/homepage> "http://www.unwe.acad.bg/" .
 <http://www.gra.fo/publication/resource/University_of_National_and_World_Economy> <http://xmlns.com/foaf/0.1/name> "University of National and World Economy" .
+<http://www.gra.fo/publication/resource/University_of_National_and_World_Economy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Universidad_Nacional_de_General_Sarmiento> <http://xmlns.com/foaf/0.1/homepage> "http://www.ungs.edu.ar/" .
 <http://www.gra.fo/publication/resource/Universidad_Nacional_de_General_Sarmiento> <http://xmlns.com/foaf/0.1/name> "Universidad Nacional de General Sarmiento" .
+<http://www.gra.fo/publication/resource/Universidad_Nacional_de_General_Sarmiento> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Sinochem> <http://xmlns.com/foaf/0.1/homepage> "" .
 <http://www.gra.fo/publication/resource/Sinochem> <http://xmlns.com/foaf/0.1/name> "Sinochem" .
+<http://www.gra.fo/publication/resource/Sinochem> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Cardinal_Health> <http://xmlns.com/foaf/0.1/homepage> "" .
 <http://www.gra.fo/publication/resource/Cardinal_Health> <http://xmlns.com/foaf/0.1/name> "Cardinal Health" .
+<http://www.gra.fo/publication/resource/Cardinal_Health> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Baltimore_International_College> <http://xmlns.com/foaf/0.1/homepage> "http://www.bic.edu/" .
 <http://www.gra.fo/publication/resource/Baltimore_International_College> <http://xmlns.com/foaf/0.1/name> "Baltimore International College" .
-<http://www.gra.fo/publication/resource/Universit矇_Rennes_II___Haute_Bretagne> <http://xmlns.com/foaf/0.1/homepage> "http://www.uhb.fr/" .
-<http://www.gra.fo/publication/resource/Universit矇_Rennes_II___Haute_Bretagne> <http://xmlns.com/foaf/0.1/name> "Universit矇 Rennes II - Haute-Bretagne" .
+<http://www.gra.fo/publication/resource/Baltimore_International_College> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/University_of_Wisconsin___Stout> <http://xmlns.com/foaf/0.1/homepage> "http://www.uwstout.edu/" .
 <http://www.gra.fo/publication/resource/University_of_Wisconsin___Stout> <http://xmlns.com/foaf/0.1/name> "University of Wisconsin - Stout" .
+<http://www.gra.fo/publication/resource/University_of_Wisconsin___Stout> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Siemens> <http://xmlns.com/foaf/0.1/homepage> "" .
 <http://www.gra.fo/publication/resource/Siemens> <http://xmlns.com/foaf/0.1/name> "Siemens" .
+<http://www.gra.fo/publication/resource/Siemens> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Iran_University_of_Medical_Sciences> <http://xmlns.com/foaf/0.1/homepage> "http://www.iums.ac.ir/" .
 <http://www.gra.fo/publication/resource/Iran_University_of_Medical_Sciences> <http://xmlns.com/foaf/0.1/name> "Iran University of Medical Sciences" .
+<http://www.gra.fo/publication/resource/Iran_University_of_Medical_Sciences> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Universidade_Vale_do_Rio_dos_Sinos> <http://xmlns.com/foaf/0.1/homepage> "http://www.unisinos.br/" .
 <http://www.gra.fo/publication/resource/Universidade_Vale_do_Rio_dos_Sinos> <http://xmlns.com/foaf/0.1/name> "Universidade Vale do Rio dos Sinos" .
-<http://www.gra.fo/publication/resource/Ecole_des_Ing矇nieurs_de_la_Ville_de_Paris> <http://xmlns.com/foaf/0.1/homepage> "http://www.eivp-paris.fr/" .
-<http://www.gra.fo/publication/resource/Ecole_des_Ing矇nieurs_de_la_Ville_de_Paris> <http://xmlns.com/foaf/0.1/name> "Ecole des Ing矇nieurs de la Ville de Paris" .
+<http://www.gra.fo/publication/resource/Universidade_Vale_do_Rio_dos_Sinos> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/The_Cooper_Union_for_the_Advancement_of_Science_and_Art> <http://xmlns.com/foaf/0.1/homepage> "http://www.cooper.edu/" .
 <http://www.gra.fo/publication/resource/The_Cooper_Union_for_the_Advancement_of_Science_and_Art> <http://xmlns.com/foaf/0.1/name> "The Cooper Union for the Advancement of Science and Art" .
-<http://www.gra.fo/publication/resource/Universit矇_d_Aix_Marseille_III> <http://xmlns.com/foaf/0.1/homepage> "http://www.u-3mrs.fr/" .
-<http://www.gra.fo/publication/resource/Universit矇_d_Aix_Marseille_III> <http://xmlns.com/foaf/0.1/name> "Universit矇 d'Aix-Marseille III" .
-<http://www.gra.fo/publication/resource/Ecole_Sup矇rieure_de_Commerce_de_Toulouse> <http://xmlns.com/foaf/0.1/homepage> "http://www.esc-toulouse.fr/" .
-<http://www.gra.fo/publication/resource/Ecole_Sup矇rieure_de_Commerce_de_Toulouse> <http://xmlns.com/foaf/0.1/name> "Ecole Sup矇rieure de Commerce de Toulouse" .
+<http://www.gra.fo/publication/resource/The_Cooper_Union_for_the_Advancement_of_Science_and_Art> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Tokyo_Dental_College> <http://xmlns.com/foaf/0.1/homepage> "http://www.tdc.ac.jp/" .
 <http://www.gra.fo/publication/resource/Tokyo_Dental_College> <http://xmlns.com/foaf/0.1/name> "Tokyo Dental College" .
-<http://www.gra.fo/publication/resource/Instituto_Polit矇cnico_de_Leiria> <http://xmlns.com/foaf/0.1/homepage> "http://www.iplei.pt/" .
-<http://www.gra.fo/publication/resource/Instituto_Polit矇cnico_de_Leiria> <http://xmlns.com/foaf/0.1/name> "Instituto Polit矇cnico de Leiria" .
+<http://www.gra.fo/publication/resource/Tokyo_Dental_College> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Nippon_Steel> <http://xmlns.com/foaf/0.1/homepage> "" .
 <http://www.gra.fo/publication/resource/Nippon_Steel> <http://xmlns.com/foaf/0.1/name> "Nippon Steel" .
-<http://www.gra.fo/publication/resource/Fachhochschulstudieng瓣nge_Wels> <http://xmlns.com/foaf/0.1/homepage> "http://www.fh-wels.at/" .
-<http://www.gra.fo/publication/resource/Fachhochschulstudieng瓣nge_Wels> <http://xmlns.com/foaf/0.1/name> "Fachhochschulstudieng瓣nge Wels" .
+<http://www.gra.fo/publication/resource/Nippon_Steel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/University_of_Dallas> <http://xmlns.com/foaf/0.1/homepage> "http://www.udallas.edu/" .
 <http://www.gra.fo/publication/resource/University_of_Dallas> <http://xmlns.com/foaf/0.1/name> "University of Dallas" .
+<http://www.gra.fo/publication/resource/University_of_Dallas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/China_South_Industries_Group> <http://xmlns.com/foaf/0.1/homepage> "" .
 <http://www.gra.fo/publication/resource/China_South_Industries_Group> <http://xmlns.com/foaf/0.1/name> "China South Industries Group" .
+<http://www.gra.fo/publication/resource/China_South_Industries_Group> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Daimler> <http://xmlns.com/foaf/0.1/homepage> "" .
 <http://www.gra.fo/publication/resource/Daimler> <http://xmlns.com/foaf/0.1/name> "Daimler" .
+<http://www.gra.fo/publication/resource/Daimler> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Belarussian_State_Technological_University> <http://xmlns.com/foaf/0.1/homepage> "http://www.bstu.unibel.by/" .
 <http://www.gra.fo/publication/resource/Belarussian_State_Technological_University> <http://xmlns.com/foaf/0.1/name> "Belarussian State Technological University" .
-<http://www.gra.fo/publication/resource/Universit矇_Protestante_au_Congo> <http://xmlns.com/foaf/0.1/homepage> "http://www.upc.ac.cd/" .
-<http://www.gra.fo/publication/resource/Universit矇_Protestante_au_Congo> <http://xmlns.com/foaf/0.1/name> "Universit矇 Protestante au Congo" .
+<http://www.gra.fo/publication/resource/Belarussian_State_Technological_University> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Procter___Gamble> <http://xmlns.com/foaf/0.1/homepage> "" .
 <http://www.gra.fo/publication/resource/Procter___Gamble> <http://xmlns.com/foaf/0.1/name> "Procter & Gamble" .
+<http://www.gra.fo/publication/resource/Procter___Gamble> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Klaipeda_University> <http://xmlns.com/foaf/0.1/homepage> "http://www.ku.lt/" .
 <http://www.gra.fo/publication/resource/Klaipeda_University> <http://xmlns.com/foaf/0.1/name> "Klaipeda University" .
+<http://www.gra.fo/publication/resource/Klaipeda_University> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/University_of_Lucknow> <http://xmlns.com/foaf/0.1/homepage> "http://www.lucknowuniv.org/" .
 <http://www.gra.fo/publication/resource/University_of_Lucknow> <http://xmlns.com/foaf/0.1/name> "University of Lucknow" .
+<http://www.gra.fo/publication/resource/University_of_Lucknow> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/China_Railway_and_Engineering_Group> <http://xmlns.com/foaf/0.1/homepage> "" .
 <http://www.gra.fo/publication/resource/China_Railway_and_Engineering_Group> <http://xmlns.com/foaf/0.1/name> "China Railway and Engineering Group" .
+<http://www.gra.fo/publication/resource/China_Railway_and_Engineering_Group> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Somaliland_University_of_Technology> <http://xmlns.com/foaf/0.1/homepage> "http://www.somtech.org/" .
 <http://www.gra.fo/publication/resource/Somaliland_University_of_Technology> <http://xmlns.com/foaf/0.1/name> "Somaliland University of Technology" .
+<http://www.gra.fo/publication/resource/Somaliland_University_of_Technology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/AB_Volvo> <http://xmlns.com/foaf/0.1/homepage> "" .
 <http://www.gra.fo/publication/resource/AB_Volvo> <http://xmlns.com/foaf/0.1/name> "AB Volvo" .
+<http://www.gra.fo/publication/resource/AB_Volvo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Chonbuk_Sanup_University_of_Technology__Howon_University_> <http://xmlns.com/foaf/0.1/homepage> "http://www.howon.ac.kr/" .
 <http://www.gra.fo/publication/resource/Chonbuk_Sanup_University_of_Technology__Howon_University_> <http://xmlns.com/foaf/0.1/name> "Chonbuk Sanup University of Technology (Howon University)" .
+<http://www.gra.fo/publication/resource/Chonbuk_Sanup_University_of_Technology__Howon_University_> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/LG_Electronics> <http://xmlns.com/foaf/0.1/homepage> "" .
 <http://www.gra.fo/publication/resource/LG_Electronics> <http://xmlns.com/foaf/0.1/name> "LG Electronics" .
+<http://www.gra.fo/publication/resource/LG_Electronics> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/University_of_Central_Texas> <http://xmlns.com/foaf/0.1/homepage> "http://www.vvm.com/uct/" .
 <http://www.gra.fo/publication/resource/University_of_Central_Texas> <http://xmlns.com/foaf/0.1/name> "University of Central Texas" .
+<http://www.gra.fo/publication/resource/University_of_Central_Texas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Anheuser_Busch_InBev> <http://xmlns.com/foaf/0.1/homepage> "" .
 <http://www.gra.fo/publication/resource/Anheuser_Busch_InBev> <http://xmlns.com/foaf/0.1/name> "Anheuser-Busch InBev" .
+<http://www.gra.fo/publication/resource/Anheuser_Busch_InBev> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Chongqing_Three_Gorges_University> <http://xmlns.com/foaf/0.1/homepage> "http://www.sanxiau.edu.cn/" .
 <http://www.gra.fo/publication/resource/Chongqing_Three_Gorges_University> <http://xmlns.com/foaf/0.1/name> "Chongqing Three Gorges University" .
+<http://www.gra.fo/publication/resource/Chongqing_Three_Gorges_University> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
+<http://www.gra.fo/publication/resource/Universidad_Autónoma_de_Nuevo_León> <http://xmlns.com/foaf/0.1/homepage> "http://www.uanl.mx/" .
+<http://www.gra.fo/publication/resource/Universidad_Autónoma_de_Nuevo_León> <http://xmlns.com/foaf/0.1/name> "Universidad Autónoma de Nuevo León" .
+<http://www.gra.fo/publication/resource/Universidad_Autónoma_de_Nuevo_León> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Plymouth_State_College> <http://xmlns.com/foaf/0.1/homepage> "http://www.plymouth.edu/" .
 <http://www.gra.fo/publication/resource/Plymouth_State_College> <http://xmlns.com/foaf/0.1/name> "Plymouth State College" .
+<http://www.gra.fo/publication/resource/Plymouth_State_College> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Lincoln_University_Pennsylvania> <http://xmlns.com/foaf/0.1/homepage> "http://www.lincoln.edu/" .
 <http://www.gra.fo/publication/resource/Lincoln_University_Pennsylvania> <http://xmlns.com/foaf/0.1/name> "Lincoln University Pennsylvania" .
+<http://www.gra.fo/publication/resource/Lincoln_University_Pennsylvania> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/ThyssenKrupp> <http://xmlns.com/foaf/0.1/homepage> "" .
 <http://www.gra.fo/publication/resource/ThyssenKrupp> <http://xmlns.com/foaf/0.1/name> "ThyssenKrupp" .
+<http://www.gra.fo/publication/resource/ThyssenKrupp> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Dell> <http://xmlns.com/foaf/0.1/homepage> "" .
 <http://www.gra.fo/publication/resource/Dell> <http://xmlns.com/foaf/0.1/name> "Dell" .
+<http://www.gra.fo/publication/resource/Dell> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Mitsubishi_Electric> <http://xmlns.com/foaf/0.1/homepage> "" .
 <http://www.gra.fo/publication/resource/Mitsubishi_Electric> <http://xmlns.com/foaf/0.1/name> "Mitsubishi Electric" .
+<http://www.gra.fo/publication/resource/Mitsubishi_Electric> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Peugeot> <http://xmlns.com/foaf/0.1/homepage> "" .
 <http://www.gra.fo/publication/resource/Peugeot> <http://xmlns.com/foaf/0.1/name> "Peugeot" .
+<http://www.gra.fo/publication/resource/Peugeot> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Castleton_State_College> <http://xmlns.com/foaf/0.1/homepage> "http://www.csc.vsc.edu/" .
 <http://www.gra.fo/publication/resource/Castleton_State_College> <http://xmlns.com/foaf/0.1/name> "Castleton State College" .
+<http://www.gra.fo/publication/resource/Castleton_State_College> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/California_Institute_of_Integral_Studies> <http://xmlns.com/foaf/0.1/homepage> "http://www.ciis.edu/" .
 <http://www.gra.fo/publication/resource/California_Institute_of_Integral_Studies> <http://xmlns.com/foaf/0.1/name> "California Institute of Integral Studies" .
+<http://www.gra.fo/publication/resource/California_Institute_of_Integral_Studies> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
+<http://www.gra.fo/publication/resource/Universidade_Estadual_de_Maringá> <http://xmlns.com/foaf/0.1/homepage> "http://www.uem.br/" .
+<http://www.gra.fo/publication/resource/Universidade_Estadual_de_Maringá> <http://xmlns.com/foaf/0.1/name> "Universidade Estadual de Maringá" .
+<http://www.gra.fo/publication/resource/Universidade_Estadual_de_Maringá> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Indian_Institute_of_Technology__Guwahati> <http://xmlns.com/foaf/0.1/homepage> "http://www.iitg.ernet.in/" .
 <http://www.gra.fo/publication/resource/Indian_Institute_of_Technology__Guwahati> <http://xmlns.com/foaf/0.1/name> "Indian Institute of Technology, Guwahati" .
-<http://www.gra.fo/publication/resource/Universidad_Adolfo_Ib獺簽ez> <http://xmlns.com/foaf/0.1/homepage> "http://www.uai.cl/" .
-<http://www.gra.fo/publication/resource/Universidad_Adolfo_Ib獺簽ez> <http://xmlns.com/foaf/0.1/name> "Universidad Adolfo Ib獺簽ez" .
+<http://www.gra.fo/publication/resource/Indian_Institute_of_Technology__Guwahati> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Norinco> <http://xmlns.com/foaf/0.1/homepage> "" .
 <http://www.gra.fo/publication/resource/Norinco> <http://xmlns.com/foaf/0.1/name> "Norinco" .
+<http://www.gra.fo/publication/resource/Norinco> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/College_of_St__Elizabeth> <http://xmlns.com/foaf/0.1/homepage> "http://www.st-elizabeth.edu/" .
 <http://www.gra.fo/publication/resource/College_of_St__Elizabeth> <http://xmlns.com/foaf/0.1/name> "College of St. Elizabeth" .
+<http://www.gra.fo/publication/resource/College_of_St__Elizabeth> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Apple> <http://xmlns.com/foaf/0.1/homepage> "" .
 <http://www.gra.fo/publication/resource/Apple> <http://xmlns.com/foaf/0.1/name> "Apple" .
+<http://www.gra.fo/publication/resource/Apple> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Sony> <http://xmlns.com/foaf/0.1/homepage> "" .
 <http://www.gra.fo/publication/resource/Sony> <http://xmlns.com/foaf/0.1/name> "Sony" .
+<http://www.gra.fo/publication/resource/Sony> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Universitas_Siliwangi> <http://xmlns.com/foaf/0.1/homepage> "http://www.unsil.ac.id/" .
 <http://www.gra.fo/publication/resource/Universitas_Siliwangi> <http://xmlns.com/foaf/0.1/name> "Universitas Siliwangi" .
+<http://www.gra.fo/publication/resource/Universitas_Siliwangi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Athenaeum_of_Ohio> <http://xmlns.com/foaf/0.1/homepage> "http://www.mtsm.org/" .
 <http://www.gra.fo/publication/resource/Athenaeum_of_Ohio> <http://xmlns.com/foaf/0.1/name> "Athenaeum of Ohio" .
+<http://www.gra.fo/publication/resource/Athenaeum_of_Ohio> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
+<http://www.gra.fo/publication/resource/Fachhochschule_St__Pölten> <http://xmlns.com/foaf/0.1/homepage> "http://www.fh-stpoelten.ac.at/" .
+<http://www.gra.fo/publication/resource/Fachhochschule_St__Pölten> <http://xmlns.com/foaf/0.1/name> "Fachhochschule St. Pölten" .
+<http://www.gra.fo/publication/resource/Fachhochschule_St__Pölten> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Dalhousie_University> <http://xmlns.com/foaf/0.1/homepage> "http://www.dal.ca/" .
 <http://www.gra.fo/publication/resource/Dalhousie_University> <http://xmlns.com/foaf/0.1/name> "Dalhousie University" .
+<http://www.gra.fo/publication/resource/Dalhousie_University> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Hoffmann_La_Roche> <http://xmlns.com/foaf/0.1/homepage> "" .
 <http://www.gra.fo/publication/resource/Hoffmann_La_Roche> <http://xmlns.com/foaf/0.1/name> "Hoffmann-La Roche" .
+<http://www.gra.fo/publication/resource/Hoffmann_La_Roche> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Tashkent_Medical_Academy> <http://xmlns.com/foaf/0.1/homepage> "http://www.tma.uz/" .
 <http://www.gra.fo/publication/resource/Tashkent_Medical_Academy> <http://xmlns.com/foaf/0.1/name> "Tashkent Medical Academy" .
+<http://www.gra.fo/publication/resource/Tashkent_Medical_Academy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/General_Motors> <http://xmlns.com/foaf/0.1/homepage> "" .
 <http://www.gra.fo/publication/resource/General_Motors> <http://xmlns.com/foaf/0.1/name> "General Motors" .
+<http://www.gra.fo/publication/resource/General_Motors> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/FAW_Group> <http://xmlns.com/foaf/0.1/homepage> "" .
 <http://www.gra.fo/publication/resource/FAW_Group> <http://xmlns.com/foaf/0.1/name> "FAW Group" .
+<http://www.gra.fo/publication/resource/FAW_Group> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/American_University_in_Dubai> <http://xmlns.com/foaf/0.1/homepage> "http://www.aud.edu/" .
 <http://www.gra.fo/publication/resource/American_University_in_Dubai> <http://xmlns.com/foaf/0.1/name> "American University in Dubai" .
+<http://www.gra.fo/publication/resource/American_University_in_Dubai> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Volkswagen_Group> <http://xmlns.com/foaf/0.1/homepage> "" .
 <http://www.gra.fo/publication/resource/Volkswagen_Group> <http://xmlns.com/foaf/0.1/name> "Volkswagen Group" .
+<http://www.gra.fo/publication/resource/Volkswagen_Group> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Handelshochschule_Leipzig> <http://xmlns.com/foaf/0.1/homepage> "http://www.hhl.de/" .
 <http://www.gra.fo/publication/resource/Handelshochschule_Leipzig> <http://xmlns.com/foaf/0.1/name> "Handelshochschule Leipzig" .
+<http://www.gra.fo/publication/resource/Handelshochschule_Leipzig> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Zaporizhzhe_National_University> <http://xmlns.com/foaf/0.1/homepage> "http://www.znu.edu.ua/" .
 <http://www.gra.fo/publication/resource/Zaporizhzhe_National_University> <http://xmlns.com/foaf/0.1/name> "Zaporizhzhe National University" .
+<http://www.gra.fo/publication/resource/Zaporizhzhe_National_University> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Hanover_College> <http://xmlns.com/foaf/0.1/homepage> "http://www.hanover.edu/" .
 <http://www.gra.fo/publication/resource/Hanover_College> <http://xmlns.com/foaf/0.1/name> "Hanover College" .
+<http://www.gra.fo/publication/resource/Hanover_College> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Prince_Mohammad_Bin_Fahd_University> <http://xmlns.com/foaf/0.1/homepage> "http://www.pmu.edu.sa/" .
 <http://www.gra.fo/publication/resource/Prince_Mohammad_Bin_Fahd_University> <http://xmlns.com/foaf/0.1/name> "Prince Mohammad Bin Fahd University" .
+<http://www.gra.fo/publication/resource/Prince_Mohammad_Bin_Fahd_University> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Shoreline_Community_College> <http://xmlns.com/foaf/0.1/homepage> "http://www.shoreline.edu/" .
 <http://www.gra.fo/publication/resource/Shoreline_Community_College> <http://xmlns.com/foaf/0.1/name> "Shoreline Community College" .
+<http://www.gra.fo/publication/resource/Shoreline_Community_College> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Logan_College_of_Chiropractic> <http://xmlns.com/foaf/0.1/homepage> "http://www.logan.edu/" .
 <http://www.gra.fo/publication/resource/Logan_College_of_Chiropractic> <http://xmlns.com/foaf/0.1/name> "Logan College of Chiropractic" .
-<http://www.gra.fo/publication/resource/Al_Yamamah_College> <http://xmlns.com/foaf/0.1/homepage> "http://www.alyamamah.edu.sa/" .
-<http://www.gra.fo/publication/resource/Al_Yamamah_College> <http://xmlns.com/foaf/0.1/name> "Al-Yamamah College" .
-<http://www.gra.fo/publication/resource/St__Petersburg_State_Polytechnical_University> <http://xmlns.com/foaf/0.1/homepage> "http://www.spbstu.ru/" .
-<http://www.gra.fo/publication/resource/St__Petersburg_State_Polytechnical_University> <http://xmlns.com/foaf/0.1/name> "St. Petersburg State Polytechnical University" .
+<http://www.gra.fo/publication/resource/Logan_College_of_Chiropractic> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Karlshochschule_International_University> <http://xmlns.com/foaf/0.1/homepage> "http://www.karlshochschule.de/" .
 <http://www.gra.fo/publication/resource/Karlshochschule_International_University> <http://xmlns.com/foaf/0.1/name> "Karlshochschule International University" .
+<http://www.gra.fo/publication/resource/Karlshochschule_International_University> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
+<http://www.gra.fo/publication/resource/Fachhochschulstudiengänge_Wels> <http://xmlns.com/foaf/0.1/homepage> "http://www.fh-wels.at/" .
+<http://www.gra.fo/publication/resource/Fachhochschulstudiengänge_Wels> <http://xmlns.com/foaf/0.1/name> "Fachhochschulstudiengänge Wels" .
+<http://www.gra.fo/publication/resource/Fachhochschulstudiengänge_Wels> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
+<http://www.gra.fo/publication/resource/Al_Yamamah_College> <http://xmlns.com/foaf/0.1/homepage> "http://www.alyamamah.edu.sa/" .
+<http://www.gra.fo/publication/resource/Al_Yamamah_College> <http://xmlns.com/foaf/0.1/name> "Al-Yamamah College" .
+<http://www.gra.fo/publication/resource/Al_Yamamah_College> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
+<http://www.gra.fo/publication/resource/Université_d_Aix_Marseille_III> <http://xmlns.com/foaf/0.1/homepage> "http://www.u-3mrs.fr/" .
+<http://www.gra.fo/publication/resource/Université_d_Aix_Marseille_III> <http://xmlns.com/foaf/0.1/name> "Université d'Aix-Marseille III" .
+<http://www.gra.fo/publication/resource/Université_d_Aix_Marseille_III> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
+<http://www.gra.fo/publication/resource/St__Petersburg_State_Polytechnical_University> <http://xmlns.com/foaf/0.1/homepage> "http://www.spbstu.ru/" .
+<http://www.gra.fo/publication/resource/St__Petersburg_State_Polytechnical_University> <http://xmlns.com/foaf/0.1/name> "St. Petersburg State Polytechnical University" .
+<http://www.gra.fo/publication/resource/St__Petersburg_State_Polytechnical_University> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
+<http://www.gra.fo/publication/resource/Universität_Fridericana_Karlsruhe__Technische_Hochschule_> <http://xmlns.com/foaf/0.1/homepage> "http://www.uni-karlsruhe.de/" .
+<http://www.gra.fo/publication/resource/Universität_Fridericana_Karlsruhe__Technische_Hochschule_> <http://xmlns.com/foaf/0.1/name> "Universität Fridericana Karlsruhe (Technische Hochschule)" .
+<http://www.gra.fo/publication/resource/Universität_Fridericana_Karlsruhe__Technische_Hochschule_> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Tokyo_University_of_Agriculture_and_Technology> <http://xmlns.com/foaf/0.1/homepage> "http://www.tuat.ac.jp/" .
 <http://www.gra.fo/publication/resource/Tokyo_University_of_Agriculture_and_Technology> <http://xmlns.com/foaf/0.1/name> "Tokyo University of Agriculture and Technology" .
+<http://www.gra.fo/publication/resource/Tokyo_University_of_Agriculture_and_Technology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Persian_Gulf_University> <http://xmlns.com/foaf/0.1/homepage> "http://www.pgu.ac.ir/" .
 <http://www.gra.fo/publication/resource/Persian_Gulf_University> <http://xmlns.com/foaf/0.1/name> "Persian Gulf University" .
+<http://www.gra.fo/publication/resource/Persian_Gulf_University> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Aviation_Industry_Corporation_of_China> <http://xmlns.com/foaf/0.1/homepage> "" .
 <http://www.gra.fo/publication/resource/Aviation_Industry_Corporation_of_China> <http://xmlns.com/foaf/0.1/name> "Aviation Industry Corporation of China" .
+<http://www.gra.fo/publication/resource/Aviation_Industry_Corporation_of_China> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Gordon_Conwell_Theological_Seminary> <http://xmlns.com/foaf/0.1/homepage> "http://www.gcts.edu/" .
 <http://www.gra.fo/publication/resource/Gordon_Conwell_Theological_Seminary> <http://xmlns.com/foaf/0.1/name> "Gordon Conwell Theological Seminary" .
+<http://www.gra.fo/publication/resource/Gordon_Conwell_Theological_Seminary> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
+<http://www.gra.fo/publication/resource/Fachhochschule_Düsseldorf> <http://xmlns.com/foaf/0.1/homepage> "http://www.fh-duesseldorf.de/" .
+<http://www.gra.fo/publication/resource/Fachhochschule_Düsseldorf> <http://xmlns.com/foaf/0.1/name> "Fachhochschule Düsseldorf" .
+<http://www.gra.fo/publication/resource/Fachhochschule_Düsseldorf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Universidad_Privada_Boliviana> <http://xmlns.com/foaf/0.1/homepage> "http://www.upb.edu/" .
 <http://www.gra.fo/publication/resource/Universidad_Privada_Boliviana> <http://xmlns.com/foaf/0.1/name> "Universidad Privada Boliviana" .
+<http://www.gra.fo/publication/resource/Universidad_Privada_Boliviana> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Lampang_Vocational_College___> <http://xmlns.com/foaf/0.1/homepage> "http://www.lampangvc.ac.th/" .
 <http://www.gra.fo/publication/resource/Lampang_Vocational_College___> <http://xmlns.com/foaf/0.1/name> "Lampang Vocational College   " .
+<http://www.gra.fo/publication/resource/Lampang_Vocational_College___> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Kamrah_International_Institute_of_Technology__KIIT_> <http://xmlns.com/foaf/0.1/homepage> "http://www.kiit.in/" .
 <http://www.gra.fo/publication/resource/Kamrah_International_Institute_of_Technology__KIIT_> <http://xmlns.com/foaf/0.1/name> "Kamrah International Institute of Technology (KIIT)" .
+<http://www.gra.fo/publication/resource/Kamrah_International_Institute_of_Technology__KIIT_> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/University_of_Leeds> <http://xmlns.com/foaf/0.1/homepage> "http://www.leeds.ac.uk/" .
 <http://www.gra.fo/publication/resource/University_of_Leeds> <http://xmlns.com/foaf/0.1/name> "University of Leeds" .
+<http://www.gra.fo/publication/resource/University_of_Leeds> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Ibaraki_Prefectural_University_of_Health_Sciences> <http://xmlns.com/foaf/0.1/homepage> "http://www.ipu.ac.jp/" .
 <http://www.gra.fo/publication/resource/Ibaraki_Prefectural_University_of_Health_Sciences> <http://xmlns.com/foaf/0.1/name> "Ibaraki Prefectural University of Health Sciences" .
+<http://www.gra.fo/publication/resource/Ibaraki_Prefectural_University_of_Health_Sciences> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/BMW> <http://xmlns.com/foaf/0.1/homepage> "" .
 <http://www.gra.fo/publication/resource/BMW> <http://xmlns.com/foaf/0.1/name> "BMW" .
+<http://www.gra.fo/publication/resource/BMW> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Randolph_Macon_College> <http://xmlns.com/foaf/0.1/homepage> "http://www.rmc.edu/" .
 <http://www.gra.fo/publication/resource/Randolph_Macon_College> <http://xmlns.com/foaf/0.1/name> "Randolph-Macon College" .
+<http://www.gra.fo/publication/resource/Randolph_Macon_College> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Catholic_University_of_Pusan> <http://xmlns.com/foaf/0.1/homepage> "http://www.cup.ac.kr/" .
 <http://www.gra.fo/publication/resource/Catholic_University_of_Pusan> <http://xmlns.com/foaf/0.1/name> "Catholic University of Pusan" .
+<http://www.gra.fo/publication/resource/Catholic_University_of_Pusan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Moody_Bible_Institute> <http://xmlns.com/foaf/0.1/homepage> "http://www.moody.edu/" .
 <http://www.gra.fo/publication/resource/Moody_Bible_Institute> <http://xmlns.com/foaf/0.1/name> "Moody Bible Institute" .
+<http://www.gra.fo/publication/resource/Moody_Bible_Institute> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Trakia_University_Stara_Zagora> <http://xmlns.com/foaf/0.1/homepage> "http://www.uni-sz.bg/" .
 <http://www.gra.fo/publication/resource/Trakia_University_Stara_Zagora> <http://xmlns.com/foaf/0.1/name> "Trakia University Stara Zagora" .
+<http://www.gra.fo/publication/resource/Trakia_University_Stara_Zagora> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Christian_Dior> <http://xmlns.com/foaf/0.1/homepage> "" .
 <http://www.gra.fo/publication/resource/Christian_Dior> <http://xmlns.com/foaf/0.1/name> "Christian Dior" .
+<http://www.gra.fo/publication/resource/Christian_Dior> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/St__Petersburg_State_Technical_University> <http://xmlns.com/foaf/0.1/homepage> "http://www.unilib.neva.ru/" .
 <http://www.gra.fo/publication/resource/St__Petersburg_State_Technical_University> <http://xmlns.com/foaf/0.1/name> "St. Petersburg State Technical University" .
+<http://www.gra.fo/publication/resource/St__Petersburg_State_Technical_University> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Merck___Co_> <http://xmlns.com/foaf/0.1/homepage> "" .
 <http://www.gra.fo/publication/resource/Merck___Co_> <http://xmlns.com/foaf/0.1/name> "Merck & Co." .
+<http://www.gra.fo/publication/resource/Merck___Co_> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/China_Baowu_Steel_Group> <http://xmlns.com/foaf/0.1/homepage> "" .
 <http://www.gra.fo/publication/resource/China_Baowu_Steel_Group> <http://xmlns.com/foaf/0.1/name> "China Baowu Steel Group" .
+<http://www.gra.fo/publication/resource/China_Baowu_Steel_Group> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/American_University_of_Beirut> <http://xmlns.com/foaf/0.1/homepage> "http://www.aub.edu.lb/" .
 <http://www.gra.fo/publication/resource/American_University_of_Beirut> <http://xmlns.com/foaf/0.1/name> "American University of Beirut" .
+<http://www.gra.fo/publication/resource/American_University_of_Beirut> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/University_of_Pittsburgh_at_Bradford> <http://xmlns.com/foaf/0.1/homepage> "http://www.upb.pitt.edu/" .
 <http://www.gra.fo/publication/resource/University_of_Pittsburgh_at_Bradford> <http://xmlns.com/foaf/0.1/name> "University of Pittsburgh at Bradford" .
+<http://www.gra.fo/publication/resource/University_of_Pittsburgh_at_Bradford> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Guangzhou_Automobile_Industry_Group> <http://xmlns.com/foaf/0.1/homepage> "" .
 <http://www.gra.fo/publication/resource/Guangzhou_Automobile_Industry_Group> <http://xmlns.com/foaf/0.1/name> "Guangzhou Automobile Industry Group" .
+<http://www.gra.fo/publication/resource/Guangzhou_Automobile_Industry_Group> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Universitas_Amir_Hamzah> <http://xmlns.com/foaf/0.1/homepage> "http://www.unhamzah.ac.id/" .
 <http://www.gra.fo/publication/resource/Universitas_Amir_Hamzah> <http://xmlns.com/foaf/0.1/name> "Universitas Amir Hamzah" .
-<http://www.gra.fo/publication/resource/Universit矇_Gaston_Berger_Saint_Louis> <http://xmlns.com/foaf/0.1/homepage> "http://www.ugb.sn/" .
-<http://www.gra.fo/publication/resource/Universit矇_Gaston_Berger_Saint_Louis> <http://xmlns.com/foaf/0.1/name> "Universit矇 Gaston Berger Saint-Louis" .
-<http://www.gra.fo/publication/resource/Universit矇_Hassan_Ier___Settat> <http://xmlns.com/foaf/0.1/homepage> "http://www.uh1.ac.ma/" .
-<http://www.gra.fo/publication/resource/Universit矇_Hassan_Ier___Settat> <http://xmlns.com/foaf/0.1/name> "Universit矇 Hassan Ier - Settat" .
+<http://www.gra.fo/publication/resource/Universitas_Amir_Hamzah> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Carnegie_Mellon_University> <http://xmlns.com/foaf/0.1/homepage> "http://www.cmu.edu/" .
 <http://www.gra.fo/publication/resource/Carnegie_Mellon_University> <http://xmlns.com/foaf/0.1/name> "Carnegie Mellon University" .
+<http://www.gra.fo/publication/resource/Carnegie_Mellon_University> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Magna_International> <http://xmlns.com/foaf/0.1/homepage> "" .
 <http://www.gra.fo/publication/resource/Magna_International> <http://xmlns.com/foaf/0.1/name> "Magna International" .
+<http://www.gra.fo/publication/resource/Magna_International> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Nestle> <http://xmlns.com/foaf/0.1/homepage> "" .
 <http://www.gra.fo/publication/resource/Nestle> <http://xmlns.com/foaf/0.1/name> "Nestle" .
+<http://www.gra.fo/publication/resource/Nestle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Kyoritsu_Woman_s_University> <http://xmlns.com/foaf/0.1/homepage> "http://www.kyoritsu-wu.ac.jp/" .
 <http://www.gra.fo/publication/resource/Kyoritsu_Woman_s_University> <http://xmlns.com/foaf/0.1/name> "Kyoritsu Woman's University" .
+<http://www.gra.fo/publication/resource/Kyoritsu_Woman_s_University> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Panasonic> <http://xmlns.com/foaf/0.1/homepage> "" .
 <http://www.gra.fo/publication/resource/Panasonic> <http://xmlns.com/foaf/0.1/name> "Panasonic" .
+<http://www.gra.fo/publication/resource/Panasonic> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Halmstad_University_College> <http://xmlns.com/foaf/0.1/homepage> "http://www.hh.se/" .
 <http://www.gra.fo/publication/resource/Halmstad_University_College> <http://xmlns.com/foaf/0.1/name> "Halmstad University College" .
+<http://www.gra.fo/publication/resource/Halmstad_University_College> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Chongqing_University_of_Communications> <http://xmlns.com/foaf/0.1/homepage> "http://www.cquc.edu.cn/" .
 <http://www.gra.fo/publication/resource/Chongqing_University_of_Communications> <http://xmlns.com/foaf/0.1/name> "Chongqing University of Communications" .
+<http://www.gra.fo/publication/resource/Chongqing_University_of_Communications> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Lenovo> <http://xmlns.com/foaf/0.1/homepage> "" .
 <http://www.gra.fo/publication/resource/Lenovo> <http://xmlns.com/foaf/0.1/name> "Lenovo" .
+<http://www.gra.fo/publication/resource/Lenovo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/SABIC> <http://xmlns.com/foaf/0.1/homepage> "" .
 <http://www.gra.fo/publication/resource/SABIC> <http://xmlns.com/foaf/0.1/name> "SABIC" .
+<http://www.gra.fo/publication/resource/SABIC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Kobe_Jogakuin_University> <http://xmlns.com/foaf/0.1/homepage> "http://www.kobe-c.ac.jp/" .
 <http://www.gra.fo/publication/resource/Kobe_Jogakuin_University> <http://xmlns.com/foaf/0.1/name> "Kobe Jogakuin University" .
+<http://www.gra.fo/publication/resource/Kobe_Jogakuin_University> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Enel> <http://xmlns.com/foaf/0.1/homepage> "" .
 <http://www.gra.fo/publication/resource/Enel> <http://xmlns.com/foaf/0.1/name> "Enel" .
+<http://www.gra.fo/publication/resource/Enel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Groupe_Sup_de_Co_Amiens_Picardie> <http://xmlns.com/foaf/0.1/homepage> "http://www.supco-amiens.fr/" .
 <http://www.gra.fo/publication/resource/Groupe_Sup_de_Co_Amiens_Picardie> <http://xmlns.com/foaf/0.1/name> "Groupe Sup de Co Amiens Picardie" .
+<http://www.gra.fo/publication/resource/Groupe_Sup_de_Co_Amiens_Picardie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Sinopharm> <http://xmlns.com/foaf/0.1/homepage> "" .
 <http://www.gra.fo/publication/resource/Sinopharm> <http://xmlns.com/foaf/0.1/name> "Sinopharm" .
+<http://www.gra.fo/publication/resource/Sinopharm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Schiller_International_University__Paris> <http://xmlns.com/foaf/0.1/homepage> "http://www.schillerparis.com/" .
 <http://www.gra.fo/publication/resource/Schiller_International_University__Paris> <http://xmlns.com/foaf/0.1/name> "Schiller International University, Paris" .
-<http://www.gra.fo/publication/resource/_Academy_of_Economics___Dimitur_A__Tscenov___> <http://xmlns.com/foaf/0.1/homepage> "http://www.uni-svishtov.bg/" .
-<http://www.gra.fo/publication/resource/_Academy_of_Economics___Dimitur_A__Tscenov___> <http://xmlns.com/foaf/0.1/name> "\"Academy of Economics \"\"Dimitur A. Tscenov\"\"\"" .
+<http://www.gra.fo/publication/resource/Schiller_International_University__Paris> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Wilmar_International> <http://xmlns.com/foaf/0.1/homepage> "" .
 <http://www.gra.fo/publication/resource/Wilmar_International> <http://xmlns.com/foaf/0.1/name> "Wilmar International" .
+<http://www.gra.fo/publication/resource/Wilmar_International> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Universidade_Metodista_de_Piracicaba> <http://xmlns.com/foaf/0.1/homepage> "http://www.unimep.br/" .
 <http://www.gra.fo/publication/resource/Universidade_Metodista_de_Piracicaba> <http://xmlns.com/foaf/0.1/name> "Universidade Metodista de Piracicaba" .
-<http://www.gra.fo/publication/resource/Universidad_Aut籀noma_de_Nuevo_Le籀n> <http://xmlns.com/foaf/0.1/homepage> "http://www.uanl.mx/" .
-<http://www.gra.fo/publication/resource/Universidad_Aut籀noma_de_Nuevo_Le籀n> <http://xmlns.com/foaf/0.1/name> "Universidad Aut籀noma de Nuevo Le籀n" .
+<http://www.gra.fo/publication/resource/Universidade_Metodista_de_Piracicaba> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
+<http://www.gra.fo/publication/resource/_Academy_of_Economics___Dimitur_A__Tscenov___> <http://xmlns.com/foaf/0.1/homepage> "http://www.uni-svishtov.bg/" .
+<http://www.gra.fo/publication/resource/_Academy_of_Economics___Dimitur_A__Tscenov___> <http://xmlns.com/foaf/0.1/name> "\"Academy of Economics \"\"Dimitur A. Tscenov\"\"\"" .
+<http://www.gra.fo/publication/resource/_Academy_of_Economics___Dimitur_A__Tscenov___> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Oracle_Corporation> <http://xmlns.com/foaf/0.1/homepage> "" .
 <http://www.gra.fo/publication/resource/Oracle_Corporation> <http://xmlns.com/foaf/0.1/name> "Oracle Corporation" .
+<http://www.gra.fo/publication/resource/Oracle_Corporation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Jishou_University> <http://xmlns.com/foaf/0.1/homepage> "http://www.jsu.edu.cn/" .
 <http://www.gra.fo/publication/resource/Jishou_University> <http://xmlns.com/foaf/0.1/name> "Jishou University" .
+<http://www.gra.fo/publication/resource/Jishou_University> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/University_of_South_Africa> <http://xmlns.com/foaf/0.1/homepage> "http://www.unisa.ac.za/" .
 <http://www.gra.fo/publication/resource/University_of_South_Africa> <http://xmlns.com/foaf/0.1/name> "University of South Africa" .
-<http://www.gra.fo/publication/resource/Johannes_Gutenberg_Universit瓣t_Mainz> <http://xmlns.com/foaf/0.1/homepage> "http://www.uni-mainz.de/" .
-<http://www.gra.fo/publication/resource/Johannes_Gutenberg_Universit瓣t_Mainz> <http://xmlns.com/foaf/0.1/name> "Johannes-Gutenberg Universit瓣t Mainz" .
+<http://www.gra.fo/publication/resource/University_of_South_Africa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
+<http://www.gra.fo/publication/resource/Instituto_Politécnico_de_Leiria> <http://xmlns.com/foaf/0.1/homepage> "http://www.iplei.pt/" .
+<http://www.gra.fo/publication/resource/Instituto_Politécnico_de_Leiria> <http://xmlns.com/foaf/0.1/name> "Instituto Politécnico de Leiria" .
+<http://www.gra.fo/publication/resource/Instituto_Politécnico_de_Leiria> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Sonoda_Women_s_University> <http://xmlns.com/foaf/0.1/homepage> "http://www.sonoda-u.ac.jp/" .
 <http://www.gra.fo/publication/resource/Sonoda_Women_s_University> <http://xmlns.com/foaf/0.1/name> "Sonoda Women's University" .
+<http://www.gra.fo/publication/resource/Sonoda_Women_s_University> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
+<http://www.gra.fo/publication/resource/Les_Roches_Gruyère_University_of_Applied_Sciences> <http://xmlns.com/foaf/0.1/homepage> "http://www.lrguas.ch/" .
+<http://www.gra.fo/publication/resource/Les_Roches_Gruyère_University_of_Applied_Sciences> <http://xmlns.com/foaf/0.1/name> "Les Roches Gruyère University of Applied Sciences" .
+<http://www.gra.fo/publication/resource/Les_Roches_Gruyère_University_of_Applied_Sciences> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/University_of_Kalyani> <http://xmlns.com/foaf/0.1/homepage> "http://www.klyuniv.ac.in/" .
 <http://www.gra.fo/publication/resource/University_of_Kalyani> <http://xmlns.com/foaf/0.1/name> "University of Kalyani" .
+<http://www.gra.fo/publication/resource/University_of_Kalyani> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Karwan_Institute_of_Higher_Education> <http://xmlns.com/foaf/0.1/homepage> "http://www.karwan.edu.af/" .
 <http://www.gra.fo/publication/resource/Karwan_Institute_of_Higher_Education> <http://xmlns.com/foaf/0.1/name> "Karwan Institute of Higher Education" .
+<http://www.gra.fo/publication/resource/Karwan_Institute_of_Higher_Education> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Massey_University> <http://xmlns.com/foaf/0.1/homepage> "http://www.massey.ac.nz/" .
 <http://www.gra.fo/publication/resource/Massey_University> <http://xmlns.com/foaf/0.1/name> "Massey University" .
+<http://www.gra.fo/publication/resource/Massey_University> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Tohoku_Institute_of_Technology> <http://xmlns.com/foaf/0.1/homepage> "http://www.tohtech.ac.jp" .
 <http://www.gra.fo/publication/resource/Tohoku_Institute_of_Technology> <http://xmlns.com/foaf/0.1/name> "Tohoku Institute of Technology" .
+<http://www.gra.fo/publication/resource/Tohoku_Institute_of_Technology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/DowDuPont> <http://xmlns.com/foaf/0.1/homepage> "" .
 <http://www.gra.fo/publication/resource/DowDuPont> <http://xmlns.com/foaf/0.1/name> "DowDuPont" .
+<http://www.gra.fo/publication/resource/DowDuPont> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Fujitsu> <http://xmlns.com/foaf/0.1/homepage> "" .
 <http://www.gra.fo/publication/resource/Fujitsu> <http://xmlns.com/foaf/0.1/name> "Fujitsu" .
+<http://www.gra.fo/publication/resource/Fujitsu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Tabari_Institute_of_Higher_Education> <http://xmlns.com/foaf/0.1/homepage> "http://www.tabari.ac.ir/ " .
 <http://www.gra.fo/publication/resource/Tabari_Institute_of_Higher_Education> <http://xmlns.com/foaf/0.1/name> "Tabari Institute of Higher Education" .
+<http://www.gra.fo/publication/resource/Tabari_Institute_of_Higher_Education> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/University_of_Adelaide> <http://xmlns.com/foaf/0.1/homepage> "http://www.adelaide.edu.au/" .
 <http://www.gra.fo/publication/resource/University_of_Adelaide> <http://xmlns.com/foaf/0.1/name> "University of Adelaide" .
+<http://www.gra.fo/publication/resource/University_of_Adelaide> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/China_Shipbuilding_Industry_Corporation> <http://xmlns.com/foaf/0.1/homepage> "" .
 <http://www.gra.fo/publication/resource/China_Shipbuilding_Industry_Corporation> <http://xmlns.com/foaf/0.1/name> "China Shipbuilding Industry Corporation" .
+<http://www.gra.fo/publication/resource/China_Shipbuilding_Industry_Corporation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Haramaya_University> <http://xmlns.com/foaf/0.1/homepage> "http://www.haramaya.edu.et/" .
 <http://www.gra.fo/publication/resource/Haramaya_University> <http://xmlns.com/foaf/0.1/name> "Haramaya University" .
+<http://www.gra.fo/publication/resource/Haramaya_University> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Mohammad_Ali_Jinnah_University__Karachi> <http://xmlns.com/foaf/0.1/homepage> "http://www.jinnah.edu/" .
 <http://www.gra.fo/publication/resource/Mohammad_Ali_Jinnah_University__Karachi> <http://xmlns.com/foaf/0.1/name> "Mohammad Ali Jinnah University, Karachi" .
+<http://www.gra.fo/publication/resource/Mohammad_Ali_Jinnah_University__Karachi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Mitsui> <http://xmlns.com/foaf/0.1/homepage> "" .
 <http://www.gra.fo/publication/resource/Mitsui> <http://xmlns.com/foaf/0.1/name> "Mitsui" .
+<http://www.gra.fo/publication/resource/Mitsui> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Symbiosis_International_University> <http://xmlns.com/foaf/0.1/homepage> "http://www.siu.edu.in/" .
 <http://www.gra.fo/publication/resource/Symbiosis_International_University> <http://xmlns.com/foaf/0.1/name> "Symbiosis International University" .
+<http://www.gra.fo/publication/resource/Symbiosis_International_University> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Panteios_University_of_Economics_and_Political_Sciences_Athens> <http://xmlns.com/foaf/0.1/homepage> "http://www.panteion.gr/" .
 <http://www.gra.fo/publication/resource/Panteios_University_of_Economics_and_Political_Sciences_Athens> <http://xmlns.com/foaf/0.1/name> "Panteios University of Economics and Political Sciences Athens" .
+<http://www.gra.fo/publication/resource/Panteios_University_of_Economics_and_Political_Sciences_Athens> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Bundelkhand_University> <http://xmlns.com/foaf/0.1/homepage> "http://www.bundelkhanduniversity.org/" .
 <http://www.gra.fo/publication/resource/Bundelkhand_University> <http://xmlns.com/foaf/0.1/name> "Bundelkhand University" .
-<http://www.gra.fo/publication/resource/Ecole_Nationale_V矇t矇rinaire_d_Alfort> <http://xmlns.com/foaf/0.1/homepage> "http://www.vet-alfort.fr/" .
-<http://www.gra.fo/publication/resource/Ecole_Nationale_V矇t矇rinaire_d_Alfort> <http://xmlns.com/foaf/0.1/name> "Ecole Nationale V矇t矇rinaire d'Alfort" .
+<http://www.gra.fo/publication/resource/Bundelkhand_University> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
+<http://www.gra.fo/publication/resource/Universidad_Técnica_Estatal_de_Quevedo> <http://xmlns.com/foaf/0.1/homepage> "http://www.uteq.edu.ec/" .
+<http://www.gra.fo/publication/resource/Universidad_Técnica_Estatal_de_Quevedo> <http://xmlns.com/foaf/0.1/name> "Universidad Técnica Estatal de Quevedo" .
+<http://www.gra.fo/publication/resource/Universidad_Técnica_Estatal_de_Quevedo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Shandong_Weiqiao_Pioneering_Group> <http://xmlns.com/foaf/0.1/homepage> "" .
 <http://www.gra.fo/publication/resource/Shandong_Weiqiao_Pioneering_Group> <http://xmlns.com/foaf/0.1/name> "Shandong Weiqiao Pioneering Group" .
+<http://www.gra.fo/publication/resource/Shandong_Weiqiao_Pioneering_Group> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Tyumen_State_University> <http://xmlns.com/foaf/0.1/homepage> "http://www.tsu.tmn.ru/" .
 <http://www.gra.fo/publication/resource/Tyumen_State_University> <http://xmlns.com/foaf/0.1/name> "Tyumen State University" .
+<http://www.gra.fo/publication/resource/Tyumen_State_University> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/ZF_Friedrichshafen> <http://xmlns.com/foaf/0.1/homepage> "" .
 <http://www.gra.fo/publication/resource/ZF_Friedrichshafen> <http://xmlns.com/foaf/0.1/name> "ZF Friedrichshafen" .
+<http://www.gra.fo/publication/resource/ZF_Friedrichshafen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Pomorsk_State_University> <http://xmlns.com/foaf/0.1/homepage> "http://www.pomorsu.ru/" .
 <http://www.gra.fo/publication/resource/Pomorsk_State_University> <http://xmlns.com/foaf/0.1/name> "Pomorsk State University" .
+<http://www.gra.fo/publication/resource/Pomorsk_State_University> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/BASF> <http://xmlns.com/foaf/0.1/homepage> "" .
 <http://www.gra.fo/publication/resource/BASF> <http://xmlns.com/foaf/0.1/name> "BASF" .
+<http://www.gra.fo/publication/resource/BASF> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Western_Bible_College> <http://xmlns.com/foaf/0.1/homepage> "http://www.westernbible.edu/" .
 <http://www.gra.fo/publication/resource/Western_Bible_College> <http://xmlns.com/foaf/0.1/name> "Western Bible College" .
+<http://www.gra.fo/publication/resource/Western_Bible_College> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Birla_Institute_of_Technology__Ranchi> <http://xmlns.com/foaf/0.1/homepage> "http://bitmesraranchi.org/" .
 <http://www.gra.fo/publication/resource/Birla_Institute_of_Technology__Ranchi> <http://xmlns.com/foaf/0.1/name> "Birla Institute of Technology, Ranchi" .
+<http://www.gra.fo/publication/resource/Birla_Institute_of_Technology__Ranchi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Azerbaijan_State_Economic_University> <http://xmlns.com/foaf/0.1/homepage> "http://www.aseu.az/" .
 <http://www.gra.fo/publication/resource/Azerbaijan_State_Economic_University> <http://xmlns.com/foaf/0.1/name> "Azerbaijan State Economic University" .
+<http://www.gra.fo/publication/resource/Azerbaijan_State_Economic_University> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Saybrook_Institute> <http://xmlns.com/foaf/0.1/homepage> "http://www.saybrook.org/" .
 <http://www.gra.fo/publication/resource/Saybrook_Institute> <http://xmlns.com/foaf/0.1/name> "Saybrook Institute" .
+<http://www.gra.fo/publication/resource/Saybrook_Institute> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Heisei_International_University> <http://xmlns.com/foaf/0.1/homepage> "http://www.hiu.ac.jp/" .
 <http://www.gra.fo/publication/resource/Heisei_International_University> <http://xmlns.com/foaf/0.1/name> "Heisei International University" .
+<http://www.gra.fo/publication/resource/Heisei_International_University> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Blessing_Rieman_College_of_Nursing> <http://xmlns.com/foaf/0.1/homepage> "http://www.brcn.edu/" .
 <http://www.gra.fo/publication/resource/Blessing_Rieman_College_of_Nursing> <http://xmlns.com/foaf/0.1/name> "Blessing-Rieman College of Nursing" .
+<http://www.gra.fo/publication/resource/Blessing_Rieman_College_of_Nursing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Fontbonne_College> <http://xmlns.com/foaf/0.1/homepage> "http://www.fontbonne.edu/" .
 <http://www.gra.fo/publication/resource/Fontbonne_College> <http://xmlns.com/foaf/0.1/name> "Fontbonne College" .
+<http://www.gra.fo/publication/resource/Fontbonne_College> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Augustana_University_College> <http://xmlns.com/foaf/0.1/homepage> "http://www.augustana.ab.ca/" .
 <http://www.gra.fo/publication/resource/Augustana_University_College> <http://xmlns.com/foaf/0.1/name> "Augustana University College" .
+<http://www.gra.fo/publication/resource/Augustana_University_College> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Pfizer> <http://xmlns.com/foaf/0.1/homepage> "" .
 <http://www.gra.fo/publication/resource/Pfizer> <http://xmlns.com/foaf/0.1/name> "Pfizer" .
+<http://www.gra.fo/publication/resource/Pfizer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Sultan_Idris_Shah_Polytechnic> <http://xmlns.com/foaf/0.1/homepage> "http://www.psis.edu.my/" .
 <http://www.gra.fo/publication/resource/Sultan_Idris_Shah_Polytechnic> <http://xmlns.com/foaf/0.1/name> "Sultan Idris Shah Polytechnic" .
-<http://www.gra.fo/publication/resource/Universit矇_Chr矇tienne_Bilingue_du_Congo> <http://xmlns.com/foaf/0.1/homepage> "http://www.ucbc.org/" .
-<http://www.gra.fo/publication/resource/Universit矇_Chr矇tienne_Bilingue_du_Congo> <http://xmlns.com/foaf/0.1/name> "Universit矇 Chr矇tienne Bilingue du Congo" .
+<http://www.gra.fo/publication/resource/Sultan_Idris_Shah_Polytechnic> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Universidade_Vale_do_Rio_Doce> <http://xmlns.com/foaf/0.1/homepage> "http://www.univale.br/" .
 <http://www.gra.fo/publication/resource/Universidade_Vale_do_Rio_Doce> <http://xmlns.com/foaf/0.1/name> "Universidade Vale do Rio Doce" .
+<http://www.gra.fo/publication/resource/Universidade_Vale_do_Rio_Doce> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Jinnah_University_for_Women> <http://xmlns.com/foaf/0.1/homepage> "http://www.juw.edu.pk/" .
 <http://www.gra.fo/publication/resource/Jinnah_University_for_Women> <http://xmlns.com/foaf/0.1/name> "Jinnah University for Women" .
+<http://www.gra.fo/publication/resource/Jinnah_University_for_Women> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Southeastern_Oklahoma_State_University> <http://xmlns.com/foaf/0.1/homepage> "http://www.sosu.edu/" .
 <http://www.gra.fo/publication/resource/Southeastern_Oklahoma_State_University> <http://xmlns.com/foaf/0.1/name> "Southeastern Oklahoma State University" .
+<http://www.gra.fo/publication/resource/Southeastern_Oklahoma_State_University> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Ford> <http://xmlns.com/foaf/0.1/homepage> "" .
 <http://www.gra.fo/publication/resource/Ford> <http://xmlns.com/foaf/0.1/name> "Ford" .
+<http://www.gra.fo/publication/resource/Ford> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Florida_Christian_College> <http://xmlns.com/foaf/0.1/homepage> "http://www.fcc.edu/" .
 <http://www.gra.fo/publication/resource/Florida_Christian_College> <http://xmlns.com/foaf/0.1/name> "Florida Christian College" .
+<http://www.gra.fo/publication/resource/Florida_Christian_College> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Airbus> <http://xmlns.com/foaf/0.1/homepage> "" .
 <http://www.gra.fo/publication/resource/Airbus> <http://xmlns.com/foaf/0.1/name> "Airbus" .
+<http://www.gra.fo/publication/resource/Airbus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
+<http://www.gra.fo/publication/resource/Université_de_Caen_Basse_Normandie> <http://xmlns.com/foaf/0.1/homepage> "http://www.unicaen.fr/" .
+<http://www.gra.fo/publication/resource/Université_de_Caen_Basse_Normandie> <http://xmlns.com/foaf/0.1/name> "Université de Caen Basse Normandie" .
+<http://www.gra.fo/publication/resource/Université_de_Caen_Basse_Normandie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Hengli_Group> <http://xmlns.com/foaf/0.1/homepage> "" .
 <http://www.gra.fo/publication/resource/Hengli_Group> <http://xmlns.com/foaf/0.1/name> "Hengli Group" .
+<http://www.gra.fo/publication/resource/Hengli_Group> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Samsung_Electronics> <http://xmlns.com/foaf/0.1/homepage> "" .
 <http://www.gra.fo/publication/resource/Samsung_Electronics> <http://xmlns.com/foaf/0.1/name> "Samsung Electronics" .
-<http://www.gra.fo/publication/resource/Universidad_T矇cnica_Estatal_de_Quevedo> <http://xmlns.com/foaf/0.1/homepage> "http://www.uteq.edu.ec/" .
-<http://www.gra.fo/publication/resource/Universidad_T矇cnica_Estatal_de_Quevedo> <http://xmlns.com/foaf/0.1/name> "Universidad T矇cnica Estatal de Quevedo" .
-<http://www.gra.fo/publication/resource/Universit瓣t_Hildesheim> <http://xmlns.com/foaf/0.1/homepage> "http://www.uni-hildesheim.de/" .
-<http://www.gra.fo/publication/resource/Universit瓣t_Hildesheim> <http://xmlns.com/foaf/0.1/name> "Universit瓣t Hildesheim" .
+<http://www.gra.fo/publication/resource/Samsung_Electronics> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Mitsubishi> <http://xmlns.com/foaf/0.1/homepage> "" .
 <http://www.gra.fo/publication/resource/Mitsubishi> <http://xmlns.com/foaf/0.1/name> "Mitsubishi" .
+<http://www.gra.fo/publication/resource/Mitsubishi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/University_of_Benin> <http://xmlns.com/foaf/0.1/homepage> "http://www.uniben.edu/" .
 <http://www.gra.fo/publication/resource/University_of_Benin> <http://xmlns.com/foaf/0.1/name> "University of Benin" .
+<http://www.gra.fo/publication/resource/University_of_Benin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Chung_Ang_University> <http://xmlns.com/foaf/0.1/homepage> "http://www.cau.ac.kr/" .
 <http://www.gra.fo/publication/resource/Chung_Ang_University> <http://xmlns.com/foaf/0.1/name> "Chung-Ang University" .
+<http://www.gra.fo/publication/resource/Chung_Ang_University> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
+<http://www.gra.fo/publication/resource/Université_Hassan_Ier___Settat> <http://xmlns.com/foaf/0.1/homepage> "http://www.uh1.ac.ma/" .
+<http://www.gra.fo/publication/resource/Université_Hassan_Ier___Settat> <http://xmlns.com/foaf/0.1/name> "Université Hassan Ier - Settat" .
+<http://www.gra.fo/publication/resource/Université_Hassan_Ier___Settat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Evangel_University> <http://xmlns.com/foaf/0.1/homepage> "http://www.evangel.edu/" .
 <http://www.gra.fo/publication/resource/Evangel_University> <http://xmlns.com/foaf/0.1/name> "Evangel University" .
-<http://www.gra.fo/publication/resource/Universit瓣t_Fridericana_Karlsruhe__Technische_Hochschule_> <http://xmlns.com/foaf/0.1/homepage> "http://www.uni-karlsruhe.de/" .
-<http://www.gra.fo/publication/resource/Universit瓣t_Fridericana_Karlsruhe__Technische_Hochschule_> <http://xmlns.com/foaf/0.1/name> "Universit瓣t Fridericana Karlsruhe (Technische Hochschule)" .
+<http://www.gra.fo/publication/resource/Evangel_University> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Renault> <http://xmlns.com/foaf/0.1/homepage> "" .
 <http://www.gra.fo/publication/resource/Renault> <http://xmlns.com/foaf/0.1/name> "Renault" .
+<http://www.gra.fo/publication/resource/Renault> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Chiang_Mai_Vocational_College> <http://xmlns.com/foaf/0.1/homepage> "http://www.cmvc.ac.th/" .
 <http://www.gra.fo/publication/resource/Chiang_Mai_Vocational_College> <http://xmlns.com/foaf/0.1/name> "Chiang Mai Vocational College" .
+<http://www.gra.fo/publication/resource/Chiang_Mai_Vocational_College> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Toyota_Group> <http://xmlns.com/foaf/0.1/homepage> "" .
 <http://www.gra.fo/publication/resource/Toyota_Group> <http://xmlns.com/foaf/0.1/name> "Toyota Group" .
+<http://www.gra.fo/publication/resource/Toyota_Group> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/University_of_Perugia> <http://xmlns.com/foaf/0.1/homepage> "http://www.unipg.it/" .
 <http://www.gra.fo/publication/resource/University_of_Perugia> <http://xmlns.com/foaf/0.1/name> "University of Perugia" .
+<http://www.gra.fo/publication/resource/University_of_Perugia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
+<http://www.gra.fo/publication/resource/Université_Rennes_II___Haute_Bretagne> <http://xmlns.com/foaf/0.1/homepage> "http://www.uhb.fr/" .
+<http://www.gra.fo/publication/resource/Université_Rennes_II___Haute_Bretagne> <http://xmlns.com/foaf/0.1/name> "Université Rennes II - Haute-Bretagne" .
+<http://www.gra.fo/publication/resource/Université_Rennes_II___Haute_Bretagne> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/ArcelorMittal> <http://xmlns.com/foaf/0.1/homepage> "" .
 <http://www.gra.fo/publication/resource/ArcelorMittal> <http://xmlns.com/foaf/0.1/name> "ArcelorMittal" .
+<http://www.gra.fo/publication/resource/ArcelorMittal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Pamir_University> <http://xmlns.com/foaf/0.1/homepage> "http://www.pamir.edu.af/" .
 <http://www.gra.fo/publication/resource/Pamir_University> <http://xmlns.com/foaf/0.1/name> "Pamir University" .
+<http://www.gra.fo/publication/resource/Pamir_University> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Universidade_Federal_do_Rio_de_Janeiro> <http://xmlns.com/foaf/0.1/homepage> "http://www.ufrj.br/" .
 <http://www.gra.fo/publication/resource/Universidade_Federal_do_Rio_de_Janeiro> <http://xmlns.com/foaf/0.1/name> "Universidade Federal do Rio de Janeiro" .
+<http://www.gra.fo/publication/resource/Universidade_Federal_do_Rio_de_Janeiro> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Beijing_Automotive_Group> <http://xmlns.com/foaf/0.1/homepage> "" .
 <http://www.gra.fo/publication/resource/Beijing_Automotive_Group> <http://xmlns.com/foaf/0.1/name> "Beijing Automotive Group" .
+<http://www.gra.fo/publication/resource/Beijing_Automotive_Group> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/National_Institute_of_Technology__Trichy> <http://xmlns.com/foaf/0.1/homepage> "http://www.nitt.edu/" .
 <http://www.gra.fo/publication/resource/National_Institute_of_Technology__Trichy> <http://xmlns.com/foaf/0.1/name> "National Institute of Technology, Trichy" .
+<http://www.gra.fo/publication/resource/National_Institute_of_Technology__Trichy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/China_National_Building_Material_Group> <http://xmlns.com/foaf/0.1/homepage> "" .
 <http://www.gra.fo/publication/resource/China_National_Building_Material_Group> <http://xmlns.com/foaf/0.1/name> "China National Building Material Group" .
+<http://www.gra.fo/publication/resource/China_National_Building_Material_Group> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Universidad_del_Magdalena> <http://xmlns.com/foaf/0.1/homepage> "http://www.unimagdalena.edu.co/" .
 <http://www.gra.fo/publication/resource/Universidad_del_Magdalena> <http://xmlns.com/foaf/0.1/name> "Universidad del Magdalena" .
-<http://www.gra.fo/publication/resource/Universit矇_de_Caen_Basse_Normandie> <http://xmlns.com/foaf/0.1/homepage> "http://www.unicaen.fr/" .
-<http://www.gra.fo/publication/resource/Universit矇_de_Caen_Basse_Normandie> <http://xmlns.com/foaf/0.1/name> "Universit矇 de Caen Basse Normandie" .
+<http://www.gra.fo/publication/resource/Universidad_del_Magdalena> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/University_of_Ghana> <http://xmlns.com/foaf/0.1/homepage> "http://www.ug.edu.gh/" .
 <http://www.gra.fo/publication/resource/University_of_Ghana> <http://xmlns.com/foaf/0.1/name> "University of Ghana" .
+<http://www.gra.fo/publication/resource/University_of_Ghana> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/University_of_East_Srarajevo> <http://xmlns.com/foaf/0.1/homepage> "http://www.unssa.rs.ba/" .
 <http://www.gra.fo/publication/resource/University_of_East_Srarajevo> <http://xmlns.com/foaf/0.1/name> "University of East Srarajevo" .
+<http://www.gra.fo/publication/resource/University_of_East_Srarajevo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Universidad_Tecnologica_de_la_Mixteca> <http://xmlns.com/foaf/0.1/homepage> "http://www.utm.mx/" .
 <http://www.gra.fo/publication/resource/Universidad_Tecnologica_de_la_Mixteca> <http://xmlns.com/foaf/0.1/name> "Universidad Tecnologica de la Mixteca" .
+<http://www.gra.fo/publication/resource/Universidad_Tecnologica_de_la_Mixteca> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Kia_Motors> <http://xmlns.com/foaf/0.1/homepage> "" .
 <http://www.gra.fo/publication/resource/Kia_Motors> <http://xmlns.com/foaf/0.1/name> "Kia Motors" .
+<http://www.gra.fo/publication/resource/Kia_Motors> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/East_Somalia_University> <http://xmlns.com/foaf/0.1/homepage> "http://www.eastsomaliauniversity.com/" .
 <http://www.gra.fo/publication/resource/East_Somalia_University> <http://xmlns.com/foaf/0.1/name> "East Somalia University" .
+<http://www.gra.fo/publication/resource/East_Somalia_University> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/United_Technologies> <http://xmlns.com/foaf/0.1/homepage> "" .
 <http://www.gra.fo/publication/resource/United_Technologies> <http://xmlns.com/foaf/0.1/name> "United Technologies" .
+<http://www.gra.fo/publication/resource/United_Technologies> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Bayer> <http://xmlns.com/foaf/0.1/homepage> "" .
 <http://www.gra.fo/publication/resource/Bayer> <http://xmlns.com/foaf/0.1/name> "Bayer" .
+<http://www.gra.fo/publication/resource/Bayer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Mitsubishi_Heavy_Industries> <http://xmlns.com/foaf/0.1/homepage> "" .
 <http://www.gra.fo/publication/resource/Mitsubishi_Heavy_Industries> <http://xmlns.com/foaf/0.1/name> "Mitsubishi Heavy Industries" .
+<http://www.gra.fo/publication/resource/Mitsubishi_Heavy_Industries> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Siam_Technology_College> <http://xmlns.com/foaf/0.1/homepage> "http://www.siamtechu.net/" .
 <http://www.gra.fo/publication/resource/Siam_Technology_College> <http://xmlns.com/foaf/0.1/name> "Siam Technology College" .
+<http://www.gra.fo/publication/resource/Siam_Technology_College> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Coker_College> <http://xmlns.com/foaf/0.1/homepage> "http://www.coker.edu/" .
 <http://www.gra.fo/publication/resource/Coker_College> <http://xmlns.com/foaf/0.1/name> "Coker College" .
+<http://www.gra.fo/publication/resource/Coker_College> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Lancaster_University_Ghana> <http://xmlns.com/foaf/0.1/homepage> "http://www.lancaster.edu.gh/" .
 <http://www.gra.fo/publication/resource/Lancaster_University_Ghana> <http://xmlns.com/foaf/0.1/name> "Lancaster University Ghana" .
+<http://www.gra.fo/publication/resource/Lancaster_University_Ghana> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Universidade_Federal_Rural_do_Rio_de_Janeiro> <http://xmlns.com/foaf/0.1/homepage> "http://www.ufrrj.br/" .
 <http://www.gra.fo/publication/resource/Universidade_Federal_Rural_do_Rio_de_Janeiro> <http://xmlns.com/foaf/0.1/name> "Universidade Federal Rural do Rio de Janeiro" .
+<http://www.gra.fo/publication/resource/Universidade_Federal_Rural_do_Rio_de_Janeiro> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Sanofi> <http://xmlns.com/foaf/0.1/homepage> "" .
 <http://www.gra.fo/publication/resource/Sanofi> <http://xmlns.com/foaf/0.1/name> "Sanofi" .
+<http://www.gra.fo/publication/resource/Sanofi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/POSCO> <http://xmlns.com/foaf/0.1/homepage> "" .
 <http://www.gra.fo/publication/resource/POSCO> <http://xmlns.com/foaf/0.1/name> "POSCO" .
+<http://www.gra.fo/publication/resource/POSCO> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Dongfeng_Motor_Group> <http://xmlns.com/foaf/0.1/homepage> "" .
 <http://www.gra.fo/publication/resource/Dongfeng_Motor_Group> <http://xmlns.com/foaf/0.1/name> "Dongfeng Motor Group" .
+<http://www.gra.fo/publication/resource/Dongfeng_Motor_Group> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/University_of_Texas_at_Brownsville> <http://xmlns.com/foaf/0.1/homepage> "http://www.utb.edu/" .
 <http://www.gra.fo/publication/resource/University_of_Texas_at_Brownsville> <http://xmlns.com/foaf/0.1/name> "University of Texas at Brownsville" .
+<http://www.gra.fo/publication/resource/University_of_Texas_at_Brownsville> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Dayalbagh_Educational_Institute> <http://xmlns.com/foaf/0.1/homepage> "http://www.dei.ac.in/" .
 <http://www.gra.fo/publication/resource/Dayalbagh_Educational_Institute> <http://xmlns.com/foaf/0.1/name> "Dayalbagh Educational Institute" .
+<http://www.gra.fo/publication/resource/Dayalbagh_Educational_Institute> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/University_of_Nigeria> <http://xmlns.com/foaf/0.1/homepage> "http://www.unn.edu.ng/" .
 <http://www.gra.fo/publication/resource/University_of_Nigeria> <http://xmlns.com/foaf/0.1/name> "University of Nigeria" .
+<http://www.gra.fo/publication/resource/University_of_Nigeria> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Pegatron> <http://xmlns.com/foaf/0.1/homepage> "" .
 <http://www.gra.fo/publication/resource/Pegatron> <http://xmlns.com/foaf/0.1/name> "Pegatron" .
+<http://www.gra.fo/publication/resource/Pegatron> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Universidade_Estadual_de_Campinas> <http://xmlns.com/foaf/0.1/homepage> "http://www.unicamp.br/" .
 <http://www.gra.fo/publication/resource/Universidade_Estadual_de_Campinas> <http://xmlns.com/foaf/0.1/name> "Universidade Estadual de Campinas" .
+<http://www.gra.fo/publication/resource/Universidade_Estadual_de_Campinas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Bosch> <http://xmlns.com/foaf/0.1/homepage> "" .
 <http://www.gra.fo/publication/resource/Bosch> <http://xmlns.com/foaf/0.1/name> "Bosch" .
+<http://www.gra.fo/publication/resource/Bosch> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Universitas_Negeri_Padang> <http://xmlns.com/foaf/0.1/homepage> "http://www.unp.ac.id/" .
 <http://www.gra.fo/publication/resource/Universitas_Negeri_Padang> <http://xmlns.com/foaf/0.1/name> "Universitas Negeri Padang" .
+<http://www.gra.fo/publication/resource/Universitas_Negeri_Padang> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Japan_Advanced_Institute_of_Science_and_Technology> <http://xmlns.com/foaf/0.1/homepage> "http://www.jaist.ac.jp/" .
 <http://www.gra.fo/publication/resource/Japan_Advanced_Institute_of_Science_and_Technology> <http://xmlns.com/foaf/0.1/name> "Japan Advanced Institute of Science and Technology" .
+<http://www.gra.fo/publication/resource/Japan_Advanced_Institute_of_Science_and_Technology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Lyceum_of_the_Philippines_University> <http://xmlns.com/foaf/0.1/homepage> "http://www.lpu.edu.ph/" .
 <http://www.gra.fo/publication/resource/Lyceum_of_the_Philippines_University> <http://xmlns.com/foaf/0.1/name> "Lyceum of the Philippines University" .
+<http://www.gra.fo/publication/resource/Lyceum_of_the_Philippines_University> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Agricultural_University_of_Georgia> <http://xmlns.com/foaf/0.1/homepage> "http://www.agruni.edu.ge/" .
 <http://www.gra.fo/publication/resource/Agricultural_University_of_Georgia> <http://xmlns.com/foaf/0.1/name> "Agricultural University of Georgia" .
+<http://www.gra.fo/publication/resource/Agricultural_University_of_Georgia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Higher_Institute_of_Business_Administration> <http://xmlns.com/foaf/0.1/homepage> "http://www.hiba.edu.sy/" .
 <http://www.gra.fo/publication/resource/Higher_Institute_of_Business_Administration> <http://xmlns.com/foaf/0.1/name> "Higher Institute of Business Administration" .
+<http://www.gra.fo/publication/resource/Higher_Institute_of_Business_Administration> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Institut_National_Polytechnique_de_Grenoble> <http://xmlns.com/foaf/0.1/homepage> "http://www.inpg.fr/" .
 <http://www.gra.fo/publication/resource/Institut_National_Polytechnique_de_Grenoble> <http://xmlns.com/foaf/0.1/name> "Institut National Polytechnique de Grenoble" .
+<http://www.gra.fo/publication/resource/Institut_National_Polytechnique_de_Grenoble> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Moscow_Power_Engineering_Institute__Technical_University_> <http://xmlns.com/foaf/0.1/homepage> "http://www.mpei.ac.ru/" .
 <http://www.gra.fo/publication/resource/Moscow_Power_Engineering_Institute__Technical_University_> <http://xmlns.com/foaf/0.1/name> "Moscow Power Engineering Institute (Technical University)" .
+<http://www.gra.fo/publication/resource/Moscow_Power_Engineering_Institute__Technical_University_> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/International_Culinary_Institute__ICI_> <http://xmlns.com/foaf/0.1/homepage> "http://www.ici-luzern.com/" .
 <http://www.gra.fo/publication/resource/International_Culinary_Institute__ICI_> <http://xmlns.com/foaf/0.1/name> "International Culinary Institute (ICI)" .
+<http://www.gra.fo/publication/resource/International_Culinary_Institute__ICI_> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Harding_University_Graduate_School_of_Religion> <http://xmlns.com/foaf/0.1/homepage> "http://www.hugsr.edu/" .
 <http://www.gra.fo/publication/resource/Harding_University_Graduate_School_of_Religion> <http://xmlns.com/foaf/0.1/name> "Harding University Graduate School of Religion" .
+<http://www.gra.fo/publication/resource/Harding_University_Graduate_School_of_Religion> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
+<http://www.gra.fo/publication/resource/Université_Protestante_au_Congo> <http://xmlns.com/foaf/0.1/homepage> "http://www.upc.ac.cd/" .
+<http://www.gra.fo/publication/resource/Université_Protestante_au_Congo> <http://xmlns.com/foaf/0.1/name> "Université Protestante au Congo" .
+<http://www.gra.fo/publication/resource/Université_Protestante_au_Congo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Caterpillar> <http://xmlns.com/foaf/0.1/homepage> "" .
 <http://www.gra.fo/publication/resource/Caterpillar> <http://xmlns.com/foaf/0.1/name> "Caterpillar" .
+<http://www.gra.fo/publication/resource/Caterpillar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Honda> <http://xmlns.com/foaf/0.1/homepage> "" .
 <http://www.gra.fo/publication/resource/Honda> <http://xmlns.com/foaf/0.1/name> "Honda" .
+<http://www.gra.fo/publication/resource/Honda> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Huawei> <http://xmlns.com/foaf/0.1/homepage> "" .
 <http://www.gra.fo/publication/resource/Huawei> <http://xmlns.com/foaf/0.1/name> "Huawei" .
+<http://www.gra.fo/publication/resource/Huawei> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
+<http://www.gra.fo/publication/resource/Universidad_Agroforestal_Fernando_A_Meriño> <http://xmlns.com/foaf/0.1/homepage> "http://www.uafam.edu.do/" .
+<http://www.gra.fo/publication/resource/Universidad_Agroforestal_Fernando_A_Meriño> <http://xmlns.com/foaf/0.1/name> "Universidad Agroforestal Fernando A.Meriño" .
+<http://www.gra.fo/publication/resource/Universidad_Agroforestal_Fernando_A_Meriño> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Universidad_Albert_Einstein> <http://xmlns.com/foaf/0.1/homepage> "http://www.uae.edu.sv/" .
 <http://www.gra.fo/publication/resource/Universidad_Albert_Einstein> <http://xmlns.com/foaf/0.1/name> "Universidad Albert Einstein" .
+<http://www.gra.fo/publication/resource/Universidad_Albert_Einstein> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Arkansas_State_University__Mountain_Home> <http://xmlns.com/foaf/0.1/homepage> "http://www.asumh.edu/" .
 <http://www.gra.fo/publication/resource/Arkansas_State_University__Mountain_Home> <http://xmlns.com/foaf/0.1/name> "Arkansas State University, Mountain Home" .
+<http://www.gra.fo/publication/resource/Arkansas_State_University__Mountain_Home> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/General_Electric> <http://xmlns.com/foaf/0.1/homepage> "" .
 <http://www.gra.fo/publication/resource/General_Electric> <http://xmlns.com/foaf/0.1/name> "General Electric" .
+<http://www.gra.fo/publication/resource/General_Electric> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/ChemChina> <http://xmlns.com/foaf/0.1/homepage> "" .
 <http://www.gra.fo/publication/resource/ChemChina> <http://xmlns.com/foaf/0.1/name> "ChemChina" .
+<http://www.gra.fo/publication/resource/ChemChina> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Queensland_University_of_Technology> <http://xmlns.com/foaf/0.1/homepage> "http://www.qut.edu.au/" .
 <http://www.gra.fo/publication/resource/Queensland_University_of_Technology> <http://xmlns.com/foaf/0.1/name> "Queensland University of Technology" .
+<http://www.gra.fo/publication/resource/Queensland_University_of_Technology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Meio_University> <http://xmlns.com/foaf/0.1/homepage> "http://www.meio-u.ac.jp/" .
 <http://www.gra.fo/publication/resource/Meio_University> <http://xmlns.com/foaf/0.1/name> "Meio University" .
+<http://www.gra.fo/publication/resource/Meio_University> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/_Huaihua_University> <http://xmlns.com/foaf/0.1/homepage> "http://www.hhu.edu.cn/" .
 <http://www.gra.fo/publication/resource/_Huaihua_University> <http://xmlns.com/foaf/0.1/name> " Huaihua University" .
+<http://www.gra.fo/publication/resource/_Huaihua_University> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Universidad_Nacional_del_Nordeste> <http://xmlns.com/foaf/0.1/homepage> "http://www.unne.edu.ar/" .
 <http://www.gra.fo/publication/resource/Universidad_Nacional_del_Nordeste> <http://xmlns.com/foaf/0.1/name> "Universidad Nacional del Nordeste" .
-<http://www.gra.fo/publication/resource/Corporaci籀n_Universitaria_Tecnol籀gica_de_Bolivar> <http://xmlns.com/foaf/0.1/homepage> "http://www.cutb.edu.co/" .
-<http://www.gra.fo/publication/resource/Corporaci籀n_Universitaria_Tecnol籀gica_de_Bolivar> <http://xmlns.com/foaf/0.1/name> "Corporaci籀n Universitaria Tecnol籀gica de Bolivar" .
+<http://www.gra.fo/publication/resource/Universidad_Nacional_del_Nordeste> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
+<http://www.gra.fo/publication/resource/Université_Chrétienne_Bilingue_du_Congo> <http://xmlns.com/foaf/0.1/homepage> "http://www.ucbc.org/" .
+<http://www.gra.fo/publication/resource/Université_Chrétienne_Bilingue_du_Congo> <http://xmlns.com/foaf/0.1/name> "Université Chrétienne Bilingue du Congo" .
+<http://www.gra.fo/publication/resource/Université_Chrétienne_Bilingue_du_Congo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Quantum_Veritas_International_University> <http://xmlns.com/foaf/0.1/homepage> "http://www.qvius.edu/" .
 <http://www.gra.fo/publication/resource/Quantum_Veritas_International_University> <http://xmlns.com/foaf/0.1/name> "Quantum-Veritas International University" .
+<http://www.gra.fo/publication/resource/Quantum_Veritas_International_University> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Al_al_Bayt_University> <http://xmlns.com/foaf/0.1/homepage> "http://www.aabu.edu.jo/" .
 <http://www.gra.fo/publication/resource/Al_al_Bayt_University> <http://xmlns.com/foaf/0.1/name> "Al al-Bayt University" .
+<http://www.gra.fo/publication/resource/Al_al_Bayt_University> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Hon_Hai_Precision_Industry> <http://xmlns.com/foaf/0.1/homepage> "" .
 <http://www.gra.fo/publication/resource/Hon_Hai_Precision_Industry> <http://xmlns.com/foaf/0.1/name> "Hon Hai Precision Industry" .
+<http://www.gra.fo/publication/resource/Hon_Hai_Precision_Industry> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Dai_Ichi_University__College_of_Technology> <http://xmlns.com/foaf/0.1/homepage> "http://www.daiichi-koudai.ac.jp/" .
 <http://www.gra.fo/publication/resource/Dai_Ichi_University__College_of_Technology> <http://xmlns.com/foaf/0.1/name> "Dai Ichi University, College of Technology" .
-<http://www.gra.fo/publication/resource/Ecole_Nationale_Sup矇rieure_du_P矇trole_et_des_Monteurs> <http://xmlns.com/foaf/0.1/homepage> "http://www.ifp.fr/EC/EC000GP1.html" .
-<http://www.gra.fo/publication/resource/Ecole_Nationale_Sup矇rieure_du_P矇trole_et_des_Monteurs> <http://xmlns.com/foaf/0.1/name> "Ecole Nationale Sup矇rieure du P矇trole et des Monteurs" .
+<http://www.gra.fo/publication/resource/Dai_Ichi_University__College_of_Technology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
+<http://www.gra.fo/publication/resource/Corporación_Universitaria_Tecnológica_de_Bolivar> <http://xmlns.com/foaf/0.1/homepage> "http://www.cutb.edu.co/" .
+<http://www.gra.fo/publication/resource/Corporación_Universitaria_Tecnológica_de_Bolivar> <http://xmlns.com/foaf/0.1/name> "Corporación Universitaria Tecnológica de Bolivar" .
+<http://www.gra.fo/publication/resource/Corporación_Universitaria_Tecnológica_de_Bolivar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Aluminum_Corporation_of_China> <http://xmlns.com/foaf/0.1/homepage> "" .
 <http://www.gra.fo/publication/resource/Aluminum_Corporation_of_China> <http://xmlns.com/foaf/0.1/name> "Aluminum Corporation of China" .
+<http://www.gra.fo/publication/resource/Aluminum_Corporation_of_China> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
+<http://www.gra.fo/publication/resource/Ecole_Nationale_Vétérinaire_d_Alfort> <http://xmlns.com/foaf/0.1/homepage> "http://www.vet-alfort.fr/" .
+<http://www.gra.fo/publication/resource/Ecole_Nationale_Vétérinaire_d_Alfort> <http://xmlns.com/foaf/0.1/name> "Ecole Nationale Vétérinaire d'Alfort" .
+<http://www.gra.fo/publication/resource/Ecole_Nationale_Vétérinaire_d_Alfort> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Bard_College> <http://xmlns.com/foaf/0.1/homepage> "http://www.bard.edu/" .
 <http://www.gra.fo/publication/resource/Bard_College> <http://xmlns.com/foaf/0.1/name> "Bard College" .
+<http://www.gra.fo/publication/resource/Bard_College> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Jardine_Matheson> <http://xmlns.com/foaf/0.1/homepage> "" .
 <http://www.gra.fo/publication/resource/Jardine_Matheson> <http://xmlns.com/foaf/0.1/name> "Jardine Matheson" .
+<http://www.gra.fo/publication/resource/Jardine_Matheson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
+<http://www.gra.fo/publication/resource/Johannes_Gutenberg_Universität_Mainz> <http://xmlns.com/foaf/0.1/homepage> "http://www.uni-mainz.de/" .
+<http://www.gra.fo/publication/resource/Johannes_Gutenberg_Universität_Mainz> <http://xmlns.com/foaf/0.1/name> "Johannes-Gutenberg Universität Mainz" .
+<http://www.gra.fo/publication/resource/Johannes_Gutenberg_Universität_Mainz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
+<http://www.gra.fo/publication/resource/Ecole_Nationale_Supérieure_du_Pétrole_et_des_Monteurs> <http://xmlns.com/foaf/0.1/homepage> "http://www.ifp.fr/EC/EC000GP1.html" .
+<http://www.gra.fo/publication/resource/Ecole_Nationale_Supérieure_du_Pétrole_et_des_Monteurs> <http://xmlns.com/foaf/0.1/name> "Ecole Nationale Supérieure du Pétrole et des Monteurs" .
+<http://www.gra.fo/publication/resource/Ecole_Nationale_Supérieure_du_Pétrole_et_des_Monteurs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/GlaxoSmithKline> <http://xmlns.com/foaf/0.1/homepage> "" .
 <http://www.gra.fo/publication/resource/GlaxoSmithKline> <http://xmlns.com/foaf/0.1/name> "GlaxoSmithKline" .
-<http://www.gra.fo/publication/resource/Les_Roches_Gruy癡re_University_of_Applied_Sciences> <http://xmlns.com/foaf/0.1/homepage> "http://www.lrguas.ch/" .
-<http://www.gra.fo/publication/resource/Les_Roches_Gruy癡re_University_of_Applied_Sciences> <http://xmlns.com/foaf/0.1/name> "Les Roches Gruy癡re University of Applied Sciences" .
+<http://www.gra.fo/publication/resource/GlaxoSmithKline> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Pennsylvania_State_University___Abington> <http://xmlns.com/foaf/0.1/homepage> "http://www.abington.psu.edu/" .
 <http://www.gra.fo/publication/resource/Pennsylvania_State_University___Abington> <http://xmlns.com/foaf/0.1/name> "Pennsylvania State University - Abington" .
+<http://www.gra.fo/publication/resource/Pennsylvania_State_University___Abington> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Kanazawa_University> <http://xmlns.com/foaf/0.1/homepage> "http://www.kanazawa-u.ac.jp/" .
 <http://www.gra.fo/publication/resource/Kanazawa_University> <http://xmlns.com/foaf/0.1/name> "Kanazawa University" .
+<http://www.gra.fo/publication/resource/Kanazawa_University> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Sree_Rama_Krishna_Degree_College> <http://xmlns.com/foaf/0.1/homepage> "http://www.srkdc.org/" .
 <http://www.gra.fo/publication/resource/Sree_Rama_Krishna_Degree_College> <http://xmlns.com/foaf/0.1/name> "Sree Rama Krishna Degree College" .
+<http://www.gra.fo/publication/resource/Sree_Rama_Krishna_Degree_College> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Hamdan_Bin_Mohammed_e_University> <http://xmlns.com/foaf/0.1/homepage> "http://www.hbmeu.ac.ae/" .
 <http://www.gra.fo/publication/resource/Hamdan_Bin_Mohammed_e_University> <http://xmlns.com/foaf/0.1/name> "Hamdan Bin Mohammed e-University" .
+<http://www.gra.fo/publication/resource/Hamdan_Bin_Mohammed_e_University> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Cisco_Systems> <http://xmlns.com/foaf/0.1/homepage> "" .
 <http://www.gra.fo/publication/resource/Cisco_Systems> <http://xmlns.com/foaf/0.1/name> "Cisco Systems" .
+<http://www.gra.fo/publication/resource/Cisco_Systems> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Ecole_Centrale_de_Lyon> <http://xmlns.com/foaf/0.1/homepage> "http://www.ec-lyon.fr/" .
 <http://www.gra.fo/publication/resource/Ecole_Centrale_de_Lyon> <http://xmlns.com/foaf/0.1/name> "Ecole Centrale de Lyon" .
+<http://www.gra.fo/publication/resource/Ecole_Centrale_de_Lyon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Hyundai_Motor_Company> <http://xmlns.com/foaf/0.1/homepage> "" .
 <http://www.gra.fo/publication/resource/Hyundai_Motor_Company> <http://xmlns.com/foaf/0.1/name> "Hyundai Motor Company" .
+<http://www.gra.fo/publication/resource/Hyundai_Motor_Company> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/British_Columbia_Institute_of_Technology> <http://xmlns.com/foaf/0.1/homepage> "http://www.bcit.ca/" .
 <http://www.gra.fo/publication/resource/British_Columbia_Institute_of_Technology> <http://xmlns.com/foaf/0.1/name> "British Columbia Institute of Technology" .
+<http://www.gra.fo/publication/resource/British_Columbia_Institute_of_Technology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/IBM> <http://xmlns.com/foaf/0.1/homepage> "" .
 <http://www.gra.fo/publication/resource/IBM> <http://xmlns.com/foaf/0.1/name> "IBM" .
+<http://www.gra.fo/publication/resource/IBM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Gifu_University_for_Education_and_Languages> <http://xmlns.com/foaf/0.1/homepage> "http://www.gifu-kyoiku.ac.jp/" .
 <http://www.gra.fo/publication/resource/Gifu_University_for_Education_and_Languages> <http://xmlns.com/foaf/0.1/name> "Gifu University for Education and Languages" .
+<http://www.gra.fo/publication/resource/Gifu_University_for_Education_and_Languages> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Honeywell> <http://xmlns.com/foaf/0.1/homepage> "" .
 <http://www.gra.fo/publication/resource/Honeywell> <http://xmlns.com/foaf/0.1/name> "Honeywell" .
-<http://www.gra.fo/publication/resource/Instituto_Universitario_de_Ciencias_de_la_Salud_Fundaci籀n_H_A__Barcel籀> <http://xmlns.com/foaf/0.1/homepage> "http://www.barcelo.edu.ar/" .
-<http://www.gra.fo/publication/resource/Instituto_Universitario_de_Ciencias_de_la_Salud_Fundaci籀n_H_A__Barcel籀> <http://xmlns.com/foaf/0.1/name> "Instituto Universitario de Ciencias de la Salud Fundaci籀n H.A. Barcel籀" .
+<http://www.gra.fo/publication/resource/Honeywell> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Wuhan_University> <http://xmlns.com/foaf/0.1/homepage> "http://www.whu.edu.cn/" .
 <http://www.gra.fo/publication/resource/Wuhan_University> <http://xmlns.com/foaf/0.1/name> "Wuhan University" .
+<http://www.gra.fo/publication/resource/Wuhan_University> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/University_of_the_Air> <http://xmlns.com/foaf/0.1/homepage> "http://www.u-air.ac.jp/" .
 <http://www.gra.fo/publication/resource/University_of_the_Air> <http://xmlns.com/foaf/0.1/name> "University of the Air" .
+<http://www.gra.fo/publication/resource/University_of_the_Air> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
+<http://www.gra.fo/publication/resource/Universität_Hildesheim> <http://xmlns.com/foaf/0.1/homepage> "http://www.uni-hildesheim.de/" .
+<http://www.gra.fo/publication/resource/Universität_Hildesheim> <http://xmlns.com/foaf/0.1/name> "Universität Hildesheim" .
+<http://www.gra.fo/publication/resource/Universität_Hildesheim> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Perm_State_Pharmaceutical_Academy> <http://xmlns.com/foaf/0.1/homepage> "http://www.psfa.ru/" .
 <http://www.gra.fo/publication/resource/Perm_State_Pharmaceutical_Academy> <http://xmlns.com/foaf/0.1/name> "Perm State Pharmaceutical Academy" .
+<http://www.gra.fo/publication/resource/Perm_State_Pharmaceutical_Academy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Grodno_State_University_Yanka_Kupaly> <http://xmlns.com/foaf/0.1/homepage> "http://www.grsu.by/" .
 <http://www.gra.fo/publication/resource/Grodno_State_University_Yanka_Kupaly> <http://xmlns.com/foaf/0.1/name> "Grodno State University Yanka Kupaly" .
+<http://www.gra.fo/publication/resource/Grodno_State_University_Yanka_Kupaly> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Michigan_School_of_Professional_Psychology> <http://xmlns.com/foaf/0.1/homepage> "http://www.mispp.edu/" .
 <http://www.gra.fo/publication/resource/Michigan_School_of_Professional_Psychology> <http://xmlns.com/foaf/0.1/name> "Michigan School of Professional Psychology" .
+<http://www.gra.fo/publication/resource/Michigan_School_of_Professional_Psychology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Continental> <http://xmlns.com/foaf/0.1/homepage> "" .
 <http://www.gra.fo/publication/resource/Continental> <http://xmlns.com/foaf/0.1/name> "Continental" .
+<http://www.gra.fo/publication/resource/Continental> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Tata_Motors> <http://xmlns.com/foaf/0.1/homepage> "" .
 <http://www.gra.fo/publication/resource/Tata_Motors> <http://xmlns.com/foaf/0.1/name> "Tata Motors" .
+<http://www.gra.fo/publication/resource/Tata_Motors> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Intel> <http://xmlns.com/foaf/0.1/homepage> "" .
 <http://www.gra.fo/publication/resource/Intel> <http://xmlns.com/foaf/0.1/name> "Intel" .
+<http://www.gra.fo/publication/resource/Intel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Voronezh_State_University> <http://xmlns.com/foaf/0.1/homepage> "http://www.vsu.ru/" .
 <http://www.gra.fo/publication/resource/Voronezh_State_University> <http://xmlns.com/foaf/0.1/name> "Voronezh State University" .
+<http://www.gra.fo/publication/resource/Voronezh_State_University> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Novartis> <http://xmlns.com/foaf/0.1/homepage> "" .
 <http://www.gra.fo/publication/resource/Novartis> <http://xmlns.com/foaf/0.1/name> "Novartis" .
+<http://www.gra.fo/publication/resource/Novartis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Sibelius_Academy> <http://xmlns.com/foaf/0.1/homepage> "http://www.siba.fi/" .
 <http://www.gra.fo/publication/resource/Sibelius_Academy> <http://xmlns.com/foaf/0.1/name> "Sibelius Academy" .
+<http://www.gra.fo/publication/resource/Sibelius_Academy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .
 <http://www.gra.fo/publication/resource/Unilever> <http://xmlns.com/foaf/0.1/homepage> "" .
 <http://www.gra.fo/publication/resource/Unilever> <http://xmlns.com/foaf/0.1/name> "Unilever" .
+<http://www.gra.fo/publication/resource/Unilever> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/University> .

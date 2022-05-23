@@ -15,12 +15,12 @@ import java.util.Random;
 import java.util.*;
 
 public class Creator {
-	
+
     public static void createALL() throws IOException {
-		
-		//Company
+
+        //Company
         Model companies_model = ModelFactory.createDefaultModel();
-		
+
         BufferedReader companies_csvReader = new BufferedReader(new FileReader(Config.COMPANIES_PATH));
         String companies_row;
         while ((companies_row = companies_csvReader.readLine()) != null) {
@@ -30,19 +30,19 @@ public class Creator {
             String business = row_data[1];
 
             String companyUri = companyName.replaceAll("[^\\p{IsAlphabetic}]", "_");
-            Resource currentCompany = companies_model.createResource(Config.RESOURCE_URL+companyUri)
+            Resource currentCompany = companies_model.createResource(Config.RESOURCE_URL + companyUri)
                     .addProperty(RDF.type, companies_model.getResource("http://www.gra.fo/publication/Company"))
-                    .addProperty(companies_model.createProperty(Config.PROPERTY_URL+"business"),business)
+                    .addProperty(companies_model.createProperty(Config.PROPERTY_URL + "business"), business)
                     .addProperty(FOAF.name, companyName);
         }
         companies_csvReader.close();
 
         companies_model.write(new PrintStream(
                 new BufferedOutputStream(
-                        new FileOutputStream(Config.OUTPUT_PATH+"company.nt")), true), "NT");   
-/*
-		//University
-		Model university_model = ModelFactory.createDefaultModel();
+                        new FileOutputStream(Config.OUTPUT_PATH + "company.nt")), true), "NT");
+
+        //University
+        Model university_model = ModelFactory.createDefaultModel();
 
         BufferedReader university_csvReader = new BufferedReader(new FileReader(Config.AUTHOR_UNIVERSITY_PATH));
         String university_row;
@@ -54,11 +54,12 @@ public class Creator {
             String universityName = row_data[2];
             String universityHomepage = row_data[3];
 
-            if (!(universityHomepage.equals("N/A"))){
+            if (!(universityHomepage.equals("N/A"))) {
                 String universityUri = universityName.replaceAll("[^\\p{IsAlphabetic}]", "_");
-                Resource currentUniversity = university_model.createResource(Config.RESOURCE_URL+universityUri)
+                Resource currentUniversity = university_model.createResource(Config.RESOURCE_URL + universityUri)
+                        .addProperty(RDF.type, university_model.getResource("http://www.gra.fo/publication/University"))
                         .addProperty(FOAF.name, universityName)
-                        .addProperty(FOAF.homepage,universityHomepage);
+                        .addProperty(FOAF.homepage, universityHomepage);
             }
 
         }
@@ -66,10 +67,10 @@ public class Creator {
 
         university_model.write(new PrintStream(
                 new BufferedOutputStream(
-                        new FileOutputStream(Config.OUTPUT_PATH+"university.nt")), true), "NT");   
-		
-		
-		//review
+                        new FileOutputStream(Config.OUTPUT_PATH + "university.nt")), true), "NT");
+
+
+        //review
         // booktitle,editor,ee,isbn,key,mdate,publisher,series,title,volume,year,location
         Model review_model = ModelFactory.createDefaultModel();
         Random rand = new Random();
@@ -78,97 +79,97 @@ public class Creator {
                 Arrays.asList("Approved", "Rejected"));
         // read the csv line by line
         BufferedReader review_csvReader = new BufferedReader(new FileReader(Config.REVIEW_PATH));
-		//name,paper_key
+        //name,paper_key
         String review_row;
-		List<String> reviewUri_list = new ArrayList<>(Arrays.asList("first"));
-		
+        List<String> reviewUri_list = new ArrayList<>(Arrays.asList("first"));
+
         while ((review_row = review_csvReader.readLine()) != null) {
             String[] row_data = review_row.split(",");
 
             String paperKey = row_data[1].replaceAll("[^\\p{IsAlphabetic}]", "_");
-            String paperUri = Config.RESOURCE_URL+paperKey;
+            String paperUri = Config.RESOURCE_URL + paperKey;
 
             String name = row_data[0].replaceAll("[^\\p{IsAlphabetic}]", "_");
 
-            String reviewUri = Config.RESOURCE_URL + name + "_" + paperKey; 
-			reviewUri_list.add(reviewUri);
+            String reviewUri = Config.RESOURCE_URL + name + "_" + paperKey;
+            reviewUri_list.add(reviewUri);
             String personUri = Config.RESOURCE_URL + name;
 
             int randomIndex = rand.nextInt(decisionList.size());
             String decision = decisionList.get(randomIndex);
 
             Resource currentReview = review_model.createResource(reviewUri)
-                    .addProperty(review_model.createProperty(Config.PROPERTY_URL+"decision"), decision)
-                    .addProperty(review_model.createProperty(Config.PROPERTY_URL+"comment"), Utils.getComment(decision))
-                    .addProperty(review_model.createProperty(Config.PROPERTY_URL+"about_paper"),review_model.createResource(paperUri));
+                    .addProperty(RDF.type, review_model.getResource("http://www.gra.fo/publication/Review"))
+                    .addProperty(review_model.createProperty(Config.PROPERTY_URL + "decision"), decision)
+                    .addProperty(review_model.createProperty(Config.PROPERTY_URL + "comment"), Utils.getComment(decision))
+                    .addProperty(review_model.createProperty(Config.PROPERTY_URL + "about_paper"), review_model.createResource(paperUri));
 
         }
         review_csvReader.close();
 
         review_model.write(new PrintStream(
                 new BufferedOutputStream(
-                        new FileOutputStream(Config.OUTPUT_PATH+"reviews.nt")), true), "NT");
-						
-							
-		
+                        new FileOutputStream(Config.OUTPUT_PATH + "reviews.nt")), true), "NT");
 
-		//Person
+
+        //Person
         Model person_model = ModelFactory.createDefaultModel();
 
         BufferedReader person_csvReader = new BufferedReader(new FileReader(Config.AUTHOR_UNIVERSITY_PATH));
         String person_row;
-		List<String> personUri_list = new ArrayList<>(Arrays.asList("asList"));
+        List<String> personUri_list = new ArrayList<>(Arrays.asList("asList"));
 
         while ((person_row = person_csvReader.readLine()) != null) {
             String[] row_data = person_row.split(";");
-			String ori_name = row_data[0];
+            String ori_name = row_data[0];
             String[] names = row_data[0].split(" ");
             //String[] papers = row_data[1].split("\\|");
 
-            String lastName = names[names.length-1];
+            String lastName = names[names.length - 1];
             String firstName = names[0];
-			
-			String ori_lastName = names[names.length-1];
-			String ori_firstName = names[0];
-			
+
+            String ori_lastName = names[names.length - 1];
+            String ori_firstName = names[0];
+
             //String personUri = names[0];
-            for(String name:names){
-                if(!(name.equals(lastName) || name.equals(firstName))){
-                    firstName += " "+name;
+            for (String name : names) {
+                if (!(name.equals(lastName) || name.equals(firstName))) {
+                    firstName += " " + name;
                     //personUri += "_"+name;
                 }
             }
 
             String reviewedPaper = row_data[4];
             String personUri = Config.RESOURCE_URL + ori_name.replaceAll("[^\\p{IsAlphabetic}]", "_");
-			personUri_list.add(personUri);
-            
-            String workplaceUri = Config.RESOURCE_URL+row_data[2].replaceAll("[^\\p{IsAlphabetic}]", "_");
-			
+            personUri_list.add(personUri);
+
+            String workplaceUri = Config.RESOURCE_URL + row_data[2].replaceAll("[^\\p{IsAlphabetic}]", "_");
+
             Resource currentPerson = person_model.createResource(personUri)
+                    .addProperty(RDF.type, person_model.getResource("http://www.gra.fo/publication/Author"))
                     .addProperty(FOAF.firstName, firstName)
                     .addProperty(FOAF.lastName, lastName)
-                    .addProperty(person_model.createProperty(Config.PROPERTY_URL+"works_in"),person_model.createResource(workplaceUri));
+                    .addProperty(person_model.createProperty(Config.PROPERTY_URL + "works_in"), person_model.createResource(workplaceUri));
 
-			//link to review 
-			for(String reUri:reviewUri_list){
-				if(reUri.contains(ori_lastName) && reUri.contains(ori_firstName)){
-					currentPerson.addProperty(person_model.createProperty(Config.PROPERTY_URL+"gives_review"),
-					person_model.createResource(reUri));
-				}
-			}
+            //link to review
+            for (String reUri : reviewUri_list) {
+                if (reUri.contains(ori_lastName) && reUri.contains(ori_firstName)) {
+                    currentPerson.addProperty(person_model.createProperty(Config.PROPERTY_URL + "gives_review"),
+                            person_model.createResource(reUri));
+                }
+            }
 
         }
         person_csvReader.close();
-		
-		//System.out.println(personUri_list.size());
-		
+
+        //System.out.println(personUri_list.size());
+
         person_model.write(new PrintStream(
                 new BufferedOutputStream(
-                        new FileOutputStream(Config.OUTPUT_PATH+"person.nt")), true), "NT");
-						
-						
-		//Paper
+                        new FileOutputStream(Config.OUTPUT_PATH + "person.nt")), true), "NT");
+
+
+        //Paper
         Random randomGenerator = new Random();
         // cite,ee,journal,key,mdate,pages,title,volume,year,type,booktitle,crossref,author,keyword,reviewer
         Model paper_model = ModelFactory.createDefaultModel();
@@ -178,61 +179,64 @@ public class Creator {
         String paper_row;
         while ((paper_row = paper_csvReader.readLine()) != null) {
             String[] row_data = paper_row.split(",");
-			
+
             String title = row_data[6];
             String year = row_data[8];
-			String keyword = row_data[13];
-			String ori_name = row_data[12];
-			
-			String[] names = row_data[12].split(" ");
-			
-			String lastName = names[names.length-1];
+            String keyword = row_data[13];
+            String ori_name = row_data[12];
+
+            String[] names = row_data[12].split(" ");
+
+            String lastName = names[names.length - 1];
 
             String firstName = names[0];
             String personUri = names[0];
-            for(String name:names){
-                if(!(name.equals(lastName) || name.equals(firstName))){
-                    firstName += " "+name;
-                    personUri += "_"+name;
+            for (String name : names) {
+                if (!(name.equals(lastName) || name.equals(firstName))) {
+                    firstName += " " + name;
+                    personUri += "_" + name;
                 }
             }
-			
-			//personUri = Config.RESOURCE_URL + personUri + lastName;
-			personUri = Config.RESOURCE_URL + ori_name.replaceAll("[^\\p{IsAlphabetic}]", "_");
-			
+
+            //personUri = Config.RESOURCE_URL + personUri + lastName;
+            personUri = Config.RESOURCE_URL + ori_name.replaceAll("[^\\p{IsAlphabetic}]", "_");
+
             // the URI of paper is name
-            String paperUri = Config.RESOURCE_URL+row_data[3].replaceAll("[^\\p{IsAlphabetic}]", "_");
+            String paperUri = Config.RESOURCE_URL + row_data[3].replaceAll("[^\\p{IsAlphabetic}]", "_");
 
             Resource currentPaper = paper_model.createResource(paperUri)
-					.addProperty(paper_model.createProperty(Config.PROPERTY_URL+"written_by"),paper_model.createResource(personUri))
-                    .addProperty(paper_model.createProperty(Config.PROPERTY_URL+"title"), title)
-                    .addProperty(paper_model.createProperty(Config.PROPERTY_URL+"publication_year"),year);
+                    .addProperty(paper_model.createProperty(Config.PROPERTY_URL + "written_by"), paper_model.createResource(personUri))
+                    .addProperty(paper_model.createProperty(Config.PROPERTY_URL + "title"), title)
+                    .addProperty(paper_model.createProperty(Config.PROPERTY_URL + "publication_year"), year);
 
-			String paperKey = row_data[3].replaceAll("[^\\p{IsAlphabetic}]", "_");
+            String paperKey = row_data[3].replaceAll("[^\\p{IsAlphabetic}]", "_");
             String[] rw_names = row_data[14].split("\\|");
-            for(String rw_name:rw_names){
-				String rw_name_ = rw_name.replaceAll("[^\\p{IsAlphabetic}]", "_");
-				String reviewUri = Config.RESOURCE_URL + rw_name_ + "_" + paperKey;
-				currentPaper.addProperty(paper_model.createProperty(Config.PROPERTY_URL+"submiited_for"),paper_model.createResource(reviewUri));
-			}
-			
-	
-			
+            for (String rw_name : rw_names) {
+                String rw_name_ = rw_name.replaceAll("[^\\p{IsAlphabetic}]", "_");
+                String reviewUri = Config.RESOURCE_URL + rw_name_ + "_" + paperKey;
+                currentPaper.addProperty(paper_model.createProperty(Config.PROPERTY_URL + "submitted_for"), paper_model.createResource(reviewUri));
+            }
+
+
             Double randomDouble = Math.random();
-            if(randomDouble < 0.25) {
+            if (randomDouble < 0.25) {
                 // shortPaper
-                currentPaper.addProperty(paper_model.createProperty(Config.PROPERTY_URL+"short_page_size"), String.valueOf(Utils.getRandomNumberInRange(3,5)));
-            } else if(randomDouble > 0.25 && randomDouble < 0.5) {
+                currentPaper.addProperty(RDF.type, paper_model.getResource("http://www.gra.fo/publication/Short_paper"));
+                currentPaper.addProperty(paper_model.createProperty(Config.PROPERTY_URL + "short_page_size"), String.valueOf(Utils.getRandomNumberInRange(3, 5)));
+            } else if (randomDouble > 0.25 && randomDouble < 0.5) {
                 // demoPaper
-                String randomVideoUrl= RandomStringUtils.randomAlphanumeric(15);
-                currentPaper.addProperty(paper_model.createProperty(Config.PROPERTY_URL+"demo_link"),"http://demo.com/"+randomVideoUrl);
+                currentPaper.addProperty(RDF.type, paper_model.getResource("http://www.gra.fo/publication/Demo_paper"));
+                String randomVideoUrl = RandomStringUtils.randomAlphanumeric(15);
+                currentPaper.addProperty(paper_model.createProperty(Config.PROPERTY_URL + "demo_link"), "http://demo.com/" + randomVideoUrl);
             } else if (randomDouble > 0.5 && randomDouble < 0.75) {
-                // surveyPaper
+                // poster
+                currentPaper.addProperty(RDF.type, paper_model.getResource("http://www.gra.fo/publication/Poster"));
                 String randomFormUrl = RandomStringUtils.randomAlphanumeric(15);
-                currentPaper.addProperty(paper_model.createProperty(Config.PROPERTY_URL+"survey_link"),"https://www.survey.com/"+randomFormUrl);
+                currentPaper.addProperty(paper_model.createProperty(Config.PROPERTY_URL + "poster_link"), "https://www.poster.com/" + randomFormUrl);
             } else {
                 // fullPaper
-                currentPaper.addProperty(paper_model.createProperty(Config.PROPERTY_URL+"long_page_size"), String.valueOf(Utils.getRandomNumberInRange(10,15)));
+                currentPaper.addProperty(RDF.type, paper_model.getResource("http://www.gra.fo/publication/Full_paper"));
+                currentPaper.addProperty(paper_model.createProperty(Config.PROPERTY_URL + "long_page_size"), String.valueOf(Utils.getRandomNumberInRange(10, 15)));
             }
 			
 			/*
@@ -243,83 +247,88 @@ public class Creator {
 				}
 			}
 			*/
-			
-/*            // Add keyword (taking any from the title that have length > 3)
-            for(String kw:title.split(" ")){
-                if (kw.length()>3){
-                    currentPaper.addProperty(paper_model.createProperty(Config.PROPERTY_URL+"contains"),paper_model.createResource(Config.RESOURCE_URL+"keyword_"+kw.replaceAll("[^\\p{IsAlphabetic}]", "_")));
+
+            // Add keyword (taking any from the title that have length > 3)
+            for (String kw : title.split(" ")) {
+                if (kw.length() > 3) {
+                    currentPaper.addProperty(paper_model.createProperty(Config.PROPERTY_URL + "contains"), paper_model.createResource(Config.RESOURCE_URL + "keyword_" + kw.replaceAll("[^\\p{IsAlphabetic}]", "_")));
                 }
             }
-			
-			String[] paperKey_list = row_data[3].split("\\/");
+
+            String journal = row_data[2];
+            String conference = row_data[10];
+            //String jorc =  row_data[9];
+
             // Published In
-			if(paperKey_list.length>1)
-				currentPaper.addProperty(paper_model.createProperty(Config.PROPERTY_URL+"published_in"),paper_model.createResource(Config.RESOURCE_URL+paperKey_list[0]+"_"+paperKey_list[1]));
+            if (conference.length() > 1)
+                currentPaper.addProperty(paper_model.createProperty(Config.PROPERTY_URL + "published_in"), paper_model.createResource(Config.RESOURCE_URL + "conf_" + conference.replaceAll("[^\\p{IsAlphabetic}]", "_")));
+            if (journal.length() > 1)
+                currentPaper.addProperty(paper_model.createProperty(Config.PROPERTY_URL + "published_in"), paper_model.createResource(Config.RESOURCE_URL + "journals_" + journal.replaceAll("[^\\p{IsAlphabetic}]", "_")));
         }
         paper_csvReader.close();
 
         paper_model.write(new PrintStream(
                 new BufferedOutputStream(
-                        new FileOutputStream(Config.OUTPUT_PATH+"paper.nt")), true), "NT");
-						
-						
-		//conference
+                        new FileOutputStream(Config.OUTPUT_PATH + "paper.nt")), true), "NT");
+
+
+        //conference
         Model conferenc_model = ModelFactory.createDefaultModel();
 
         // read the csv line by line
-        BufferedReader conferenc_csvReader = new BufferedReader(new FileReader(Config.PAPER_PATH));
-		
+        BufferedReader conferenc_csvReader = new BufferedReader(new FileReader(Config.PROCEEDING_PATH));
+
         String conferenc_row;
         while ((conferenc_row = conferenc_csvReader.readLine()) != null) {
 
-			String[] row_data = conferenc_row.split(",");
-			String title = row_data[6];
-			String[] paperKey_list = row_data[3].split("\\/");
-			if(paperKey_list.length>1){
-				String conferenceUri = Config.RESOURCE_URL+paperKey_list[0]+"_"+paperKey_list[1];
-			
-                if(conferenceUri.contains("conf")){
-                    Resource currentConference = conferenc_model.createResource(conferenceUri)
-                            .addProperty(conferenc_model.createProperty(Config.PROPERTY_URL + "confName"), title)
-                            .addProperty(conferenc_model.createProperty(Config.PROPERTY_URL+"handled_byc"), conferenc_model.createResource(personUri_list.get(Utils.getRandomNumberInRange(0,personUri_list.size()-1))));
-                }
-            }
+            String[] row_data = conferenc_row.split(";");
+            String title = row_data[0];
+            String publisher = row_data[6];
+            String conferenceUri = Config.RESOURCE_URL + "conf_" + title.replaceAll("[^\\p{IsAlphabetic}]", "_");
+
+            Resource currentConference = conferenc_model.createResource(conferenceUri)
+                    .addProperty(RDF.type, conferenc_model.getResource("http://www.gra.fo/publication/Conference"))
+                    .addProperty(conferenc_model.createProperty(Config.PROPERTY_URL + "confName"), title)
+                    .addProperty(conferenc_model.createProperty(Config.PROPERTY_URL + "confPublisher"), publisher)
+                    .addProperty(conferenc_model.createProperty(Config.PROPERTY_URL + "handled_byc"), conferenc_model.createResource(personUri_list.get(Utils.getRandomNumberInRange(0, personUri_list.size() - 1))));
+
         }
         conferenc_csvReader.close();
 
         conferenc_model.write(new PrintStream(
                 new BufferedOutputStream(
-                        new FileOutputStream(Config.OUTPUT_PATH+"conference.nt")), true), "NT");
-						
-		
-/*		
-		//juornal
+                        new FileOutputStream(Config.OUTPUT_PATH + "conference.nt")), true), "NT");
+
+
+        //journal
         // title, volume, year
-        Model juornal_model = ModelFactory.createDefaultModel();
+        Model journal_model = ModelFactory.createDefaultModel();
 
         // read the csv line by line
-        BufferedReader juornal_csvReader = new BufferedReader(new FileReader(Config.PAPER_PATH));
-        String juornal_row;
-        while ((juornal_row = juornal_csvReader.readLine()) != null) {
-            String[] row_data = juornal_row.split(",");
-			String[] paperKey_list = row_data[3].split("\\/");
-            String journalUri = Config.RESOURCE_URL+row_data[0].replaceAll("[^\\p{IsAlphabetic}]", "_");
+        BufferedReader journal_csvReader = new BufferedReader(new FileReader(Config.JOURNAL_PATH));
+        String journal_row;
+        while ((journal_row = journal_csvReader.readLine()) != null) {
+            String[] row_data = journal_row.split(",");
+            String journal = row_data[0];
+            //String year = row_data[2];
+            String publisher = row_data[3];
+            String journalUri = Config.RESOURCE_URL + "journals_" + journal.replaceAll("[^\\p{IsAlphabetic}]", "_");
 
-            Resource currentJournalVolume = juornal_model.createResource(journalUri)
-                    .addProperty(juornal_model.createProperty(Config.PROPERTY_URL+"handled_byj"),juornal_model.createResource(personUri_list.get(Utils.getRandomNumberInRange(0,personUri_list.size()-1))))
-                    .addProperty(juornal_model.createProperty(Config.PROPERTY_URL+"jourName"), row_data[0]);
+            Resource currentJournalVolume = journal_model.createResource(journalUri)
+                    .addProperty(RDF.type, journal_model.getResource("http://www.gra.fo/publication/Journal"))
+                    .addProperty(journal_model.createProperty(Config.PROPERTY_URL + "journalName"), journal)
+                    .addProperty(journal_model.createProperty(Config.PROPERTY_URL + "handled_byj"), journal_model.createResource(personUri_list.get(Utils.getRandomNumberInRange(0, personUri_list.size() - 1))))
+                    .addProperty(journal_model.createProperty(Config.PROPERTY_URL + "journalPublisher"), publisher);
         }
-        juornal_csvReader.close();
+        journal_csvReader.close();
 
-        juornal_model.write(new PrintStream(
+        journal_model.write(new PrintStream(
                 new BufferedOutputStream(
-                        new FileOutputStream(Config.OUTPUT_PATH+"journal.nt")), true), "NT");
-						
-        */
-	
-/*
-		//keyword
-		
+                        new FileOutputStream(Config.OUTPUT_PATH + "journal.nt")), true), "NT");
+
+
+        //keyword
+
         Model keyword_model = ModelFactory.createDefaultModel();
 
         BufferedReader keyword_csvReader = new BufferedReader(new FileReader(Config.PAPER_PATH));
@@ -328,11 +337,12 @@ public class Creator {
             String[] row_data = keyword_row.split(",");
 
             String title = row_data[6];
-            for(String kw: title.split(" ")){
-                if (kw.length() > 3){
-                    String keywordUri = Config.RESOURCE_URL+"keyword_"+kw.replaceAll("[^\\p{IsAlphabetic}]", "_");
+            for (String kw : title.split(" ")) {
+                if (kw.length() > 3) {
+                    String keywordUri = Config.RESOURCE_URL + "keyword_" + kw.replaceAll("[^\\p{IsAlphabetic}]", "_");
                     Resource currentTitle = keyword_model.createResource(keywordUri)
-                            .addProperty(keyword_model.createProperty(Config.PROPERTY_URL+"keyword"),kw);
+                            .addProperty(RDF.type, keyword_model.getResource("http://www.gra.fo/publication/Keyword"))
+                            .addProperty(keyword_model.createProperty(Config.PROPERTY_URL + "keyword"), kw);
                 }
             }
 
@@ -341,8 +351,7 @@ public class Creator {
 
         keyword_model.write(new PrintStream(
                 new BufferedOutputStream(
-                        new FileOutputStream(Config.OUTPUT_PATH+"keyword.nt")), true), "NT");
-	*/
-	}
+                        new FileOutputStream(Config.OUTPUT_PATH + "keyword.nt")), true), "NT");
 
+    }
 }
