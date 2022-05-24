@@ -11,6 +11,6 @@ public class Config {
     public static final String OUTPUT_PATH = "src/main/resources/out/";
 
     public static final String BASE_URL = "http://www.gra.fo/publication/";
-    public static final String PROPERTY_URL = BASE_URL+"property/";
-    public static final String RESOURCE_URL = BASE_URL+"resource/";
+    public static final String PROPERTY_URL = BASE_URL;
+    public static final String RESOURCE_URL = BASE_URL;
 }

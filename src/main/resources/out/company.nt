@@ -1,303 +1,303 @@
-<http://www.gra.fo/publication/resource/LG_Electronics> <http://xmlns.com/foaf/0.1/name> "LG Electronics" .
-<http://www.gra.fo/publication/resource/LG_Electronics> <http://www.gra.fo/publication/property/business> "Electronics" .
-<http://www.gra.fo/publication/resource/LG_Electronics> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
-<http://www.gra.fo/publication/resource/AB_Volvo> <http://xmlns.com/foaf/0.1/name> "AB Volvo" .
-<http://www.gra.fo/publication/resource/AB_Volvo> <http://www.gra.fo/publication/property/business> "Automotive" .
-<http://www.gra.fo/publication/resource/AB_Volvo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
-<http://www.gra.fo/publication/resource/General_Motors> <http://xmlns.com/foaf/0.1/name> "General Motors" .
-<http://www.gra.fo/publication/resource/General_Motors> <http://www.gra.fo/publication/property/business> "Automotive" .
-<http://www.gra.fo/publication/resource/General_Motors> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
-<http://www.gra.fo/publication/resource/ThyssenKrupp> <http://xmlns.com/foaf/0.1/name> "ThyssenKrupp" .
-<http://www.gra.fo/publication/resource/ThyssenKrupp> <http://www.gra.fo/publication/property/business> "Steel" .
-<http://www.gra.fo/publication/resource/ThyssenKrupp> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
-<http://www.gra.fo/publication/resource/Apple> <http://xmlns.com/foaf/0.1/name> "Apple" .
-<http://www.gra.fo/publication/resource/Apple> <http://www.gra.fo/publication/property/business> "Electronics" .
-<http://www.gra.fo/publication/resource/Apple> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
-<http://www.gra.fo/publication/resource/Nippon_Steel> <http://xmlns.com/foaf/0.1/name> "Nippon Steel" .
-<http://www.gra.fo/publication/resource/Nippon_Steel> <http://www.gra.fo/publication/property/business> "Steel" .
-<http://www.gra.fo/publication/resource/Nippon_Steel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
-<http://www.gra.fo/publication/resource/Panasonic> <http://xmlns.com/foaf/0.1/name> "Panasonic" .
-<http://www.gra.fo/publication/resource/Panasonic> <http://www.gra.fo/publication/property/business> "Engineering, various" .
-<http://www.gra.fo/publication/resource/Panasonic> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
-<http://www.gra.fo/publication/resource/Fujitsu> <http://xmlns.com/foaf/0.1/name> "Fujitsu" .
-<http://www.gra.fo/publication/resource/Fujitsu> <http://www.gra.fo/publication/property/business> "Electronics" .
-<http://www.gra.fo/publication/resource/Fujitsu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
-<http://www.gra.fo/publication/resource/Nissan> <http://xmlns.com/foaf/0.1/name> "Nissan" .
-<http://www.gra.fo/publication/resource/Nissan> <http://www.gra.fo/publication/property/business> "Automotive" .
-<http://www.gra.fo/publication/resource/Nissan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
-<http://www.gra.fo/publication/resource/Oracle_Corporation> <http://xmlns.com/foaf/0.1/name> "Oracle Corporation" .
-<http://www.gra.fo/publication/resource/Oracle_Corporation> <http://www.gra.fo/publication/property/business> "Electronics" .
-<http://www.gra.fo/publication/resource/Oracle_Corporation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
-<http://www.gra.fo/publication/resource/Bayer> <http://xmlns.com/foaf/0.1/name> "Bayer" .
-<http://www.gra.fo/publication/resource/Bayer> <http://www.gra.fo/publication/property/business> "Pharmaceuticals" .
-<http://www.gra.fo/publication/resource/Bayer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
-<http://www.gra.fo/publication/resource/Eni> <http://xmlns.com/foaf/0.1/name> "Eni" .
-<http://www.gra.fo/publication/resource/Eni> <http://www.gra.fo/publication/property/business> "Oil & gas" .
-<http://www.gra.fo/publication/resource/Eni> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
-<http://www.gra.fo/publication/resource/Boeing> <http://xmlns.com/foaf/0.1/name> "Boeing" .
-<http://www.gra.fo/publication/resource/Boeing> <http://www.gra.fo/publication/property/business> "Aerospace & Defense" .
-<http://www.gra.fo/publication/resource/Boeing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
-<http://www.gra.fo/publication/resource/Mitsubishi> <http://xmlns.com/foaf/0.1/name> "Mitsubishi" .
-<http://www.gra.fo/publication/resource/Mitsubishi> <http://www.gra.fo/publication/property/business> "Engineering, various" .
-<http://www.gra.fo/publication/resource/Mitsubishi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
-<http://www.gra.fo/publication/resource/Wilmar_International> <http://xmlns.com/foaf/0.1/name> "Wilmar International" .
-<http://www.gra.fo/publication/resource/Wilmar_International> <http://www.gra.fo/publication/property/business> "Food & Beverages" .
-<http://www.gra.fo/publication/resource/Wilmar_International> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
-<http://www.gra.fo/publication/resource/BASF> <http://xmlns.com/foaf/0.1/name> "BASF" .
-<http://www.gra.fo/publication/resource/BASF> <http://www.gra.fo/publication/property/business> "Chemicals" .
-<http://www.gra.fo/publication/resource/BASF> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
-<http://www.gra.fo/publication/resource/SABIC> <http://xmlns.com/foaf/0.1/name> "SABIC" .
-<http://www.gra.fo/publication/resource/SABIC> <http://www.gra.fo/publication/property/business> "Chemicals" .
-<http://www.gra.fo/publication/resource/SABIC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
-<http://www.gra.fo/publication/resource/Denso> <http://xmlns.com/foaf/0.1/name> "Denso" .
-<http://www.gra.fo/publication/resource/Denso> <http://www.gra.fo/publication/property/business> "Engineering, various" .
-<http://www.gra.fo/publication/resource/Denso> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
-<http://www.gra.fo/publication/resource/Procter___Gamble> <http://xmlns.com/foaf/0.1/name> "Procter & Gamble" .
-<http://www.gra.fo/publication/resource/Procter___Gamble> <http://www.gra.fo/publication/property/business> "Consumer goods" .
-<http://www.gra.fo/publication/resource/Procter___Gamble> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
-<http://www.gra.fo/publication/resource/Guangzhou_Automobile_Industry_Group> <http://xmlns.com/foaf/0.1/name> "Guangzhou Automobile Industry Group" .
-<http://www.gra.fo/publication/resource/Guangzhou_Automobile_Industry_Group> <http://www.gra.fo/publication/property/business> "Automotive" .
-<http://www.gra.fo/publication/resource/Guangzhou_Automobile_Industry_Group> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
-<http://www.gra.fo/publication/resource/Sinomach> <http://xmlns.com/foaf/0.1/name> "Sinomach" .
-<http://www.gra.fo/publication/resource/Sinomach> <http://www.gra.fo/publication/property/business> "Industrial Machinery" .
-<http://www.gra.fo/publication/resource/Sinomach> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
-<http://www.gra.fo/publication/resource/Continental> <http://xmlns.com/foaf/0.1/name> "Continental" .
-<http://www.gra.fo/publication/resource/Continental> <http://www.gra.fo/publication/property/business> "Tyres" .
-<http://www.gra.fo/publication/resource/Continental> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
-<http://www.gra.fo/publication/resource/Shandong_Weiqiao_Pioneering_Group> <http://xmlns.com/foaf/0.1/name> "Shandong Weiqiao Pioneering Group" .
-<http://www.gra.fo/publication/resource/Shandong_Weiqiao_Pioneering_Group> <http://www.gra.fo/publication/property/business> "Textiles" .
-<http://www.gra.fo/publication/resource/Shandong_Weiqiao_Pioneering_Group> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
-<http://www.gra.fo/publication/resource/Saint_Gobain> <http://xmlns.com/foaf/0.1/name> "Saint-Gobain" .
-<http://www.gra.fo/publication/resource/Saint_Gobain> <http://www.gra.fo/publication/property/business> "Building materials" .
-<http://www.gra.fo/publication/resource/Saint_Gobain> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
-<http://www.gra.fo/publication/resource/Tyson_Foods> <http://xmlns.com/foaf/0.1/name> "Tyson Foods" .
-<http://www.gra.fo/publication/resource/Tyson_Foods> <http://www.gra.fo/publication/property/business> "Food & Beverages" .
-<http://www.gra.fo/publication/resource/Tyson_Foods> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
-<http://www.gra.fo/publication/resource/Bunge_Limited> <http://xmlns.com/foaf/0.1/name> "Bunge Limited" .
-<http://www.gra.fo/publication/resource/Bunge_Limited> <http://www.gra.fo/publication/property/business> "Food, Beverages & Tabacco" .
-<http://www.gra.fo/publication/resource/Bunge_Limited> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
-<http://www.gra.fo/publication/resource/Sinopharm> <http://xmlns.com/foaf/0.1/name> "Sinopharm" .
-<http://www.gra.fo/publication/resource/Sinopharm> <http://www.gra.fo/publication/property/business> "Pharmaceuticals" .
-<http://www.gra.fo/publication/resource/Sinopharm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
-<http://www.gra.fo/publication/resource/Huawei> <http://xmlns.com/foaf/0.1/name> "Huawei" .
-<http://www.gra.fo/publication/resource/Huawei> <http://www.gra.fo/publication/property/business> "Telecommunications equipment, Electronics" .
-<http://www.gra.fo/publication/resource/Huawei> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
-<http://www.gra.fo/publication/resource/FAW_Group> <http://xmlns.com/foaf/0.1/name> "FAW Group" .
-<http://www.gra.fo/publication/resource/FAW_Group> <http://www.gra.fo/publication/property/business> "Automotive" .
-<http://www.gra.fo/publication/resource/FAW_Group> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
-<http://www.gra.fo/publication/resource/Anheuser_Busch_InBev> <http://xmlns.com/foaf/0.1/name> "Anheuser-Busch InBev" .
-<http://www.gra.fo/publication/resource/Anheuser_Busch_InBev> <http://www.gra.fo/publication/property/business> "Food & Beverages" .
-<http://www.gra.fo/publication/resource/Anheuser_Busch_InBev> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
-<http://www.gra.fo/publication/resource/Sinochem> <http://xmlns.com/foaf/0.1/name> "Sinochem" .
-<http://www.gra.fo/publication/resource/Sinochem> <http://www.gra.fo/publication/property/business> "Chemicals" .
-<http://www.gra.fo/publication/resource/Sinochem> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
-<http://www.gra.fo/publication/resource/GlaxoSmithKline> <http://xmlns.com/foaf/0.1/name> "GlaxoSmithKline" .
-<http://www.gra.fo/publication/resource/GlaxoSmithKline> <http://www.gra.fo/publication/property/business> "Pharmaceuticals" .
-<http://www.gra.fo/publication/resource/GlaxoSmithKline> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
-<http://www.gra.fo/publication/resource/Merck___Co_> <http://xmlns.com/foaf/0.1/name> "Merck & Co." .
-<http://www.gra.fo/publication/resource/Merck___Co_> <http://www.gra.fo/publication/property/business> "Pharmaceuticals" .
-<http://www.gra.fo/publication/resource/Merck___Co_> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
-<http://www.gra.fo/publication/resource/Norinco> <http://xmlns.com/foaf/0.1/name> "Norinco" .
-<http://www.gra.fo/publication/resource/Norinco> <http://www.gra.fo/publication/property/business> "Aerospace & Defense" .
-<http://www.gra.fo/publication/resource/Norinco> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
-<http://www.gra.fo/publication/resource/BMW> <http://xmlns.com/foaf/0.1/name> "BMW" .
-<http://www.gra.fo/publication/resource/BMW> <http://www.gra.fo/publication/property/business> "Automotive" .
-<http://www.gra.fo/publication/resource/BMW> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
-<http://www.gra.fo/publication/resource/Hewlett_Packard> <http://xmlns.com/foaf/0.1/name> "Hewlett-Packard" .
-<http://www.gra.fo/publication/resource/Hewlett_Packard> <http://www.gra.fo/publication/property/business> "Electronics" .
-<http://www.gra.fo/publication/resource/Hewlett_Packard> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
-<http://www.gra.fo/publication/resource/JBS_S_A_> <http://xmlns.com/foaf/0.1/name> "JBS S.A." .
-<http://www.gra.fo/publication/resource/JBS_S_A_> <http://www.gra.fo/publication/property/business> "Food & Beverages" .
-<http://www.gra.fo/publication/resource/JBS_S_A_> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
-<http://www.gra.fo/publication/resource/Pfizer> <http://xmlns.com/foaf/0.1/name> "Pfizer" .
-<http://www.gra.fo/publication/resource/Pfizer> <http://www.gra.fo/publication/property/business> "Pharmaceuticals" .
-<http://www.gra.fo/publication/resource/Pfizer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
-<http://www.gra.fo/publication/resource/Honeywell> <http://xmlns.com/foaf/0.1/name> "Honeywell" .
-<http://www.gra.fo/publication/resource/Honeywell> <http://www.gra.fo/publication/property/business> "Engineering, various" .
-<http://www.gra.fo/publication/resource/Honeywell> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
-<http://www.gra.fo/publication/resource/Enel> <http://xmlns.com/foaf/0.1/name> "Enel" .
-<http://www.gra.fo/publication/resource/Enel> <http://www.gra.fo/publication/property/business> "Renewable energy" .
-<http://www.gra.fo/publication/resource/Enel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
-<http://www.gra.fo/publication/resource/Samsung_Electronics> <http://xmlns.com/foaf/0.1/name> "Samsung Electronics" .
-<http://www.gra.fo/publication/resource/Samsung_Electronics> <http://www.gra.fo/publication/property/business> "Electronics, various" .
-<http://www.gra.fo/publication/resource/Samsung_Electronics> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
-<http://www.gra.fo/publication/resource/Peugeot> <http://xmlns.com/foaf/0.1/name> "Peugeot" .
-<http://www.gra.fo/publication/resource/Peugeot> <http://www.gra.fo/publication/property/business> "Automotive" .
-<http://www.gra.fo/publication/resource/Peugeot> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
-<http://www.gra.fo/publication/resource/China_Minmetals> <http://xmlns.com/foaf/0.1/name> "China Minmetals" .
-<http://www.gra.fo/publication/resource/China_Minmetals> <http://www.gra.fo/publication/property/business> "Metals" .
-<http://www.gra.fo/publication/resource/China_Minmetals> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
-<http://www.gra.fo/publication/resource/Exor> <http://xmlns.com/foaf/0.1/name> "Exor" .
-<http://www.gra.fo/publication/resource/Exor> <http://www.gra.fo/publication/property/business> "Automotive" .
-<http://www.gra.fo/publication/resource/Exor> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
-<http://www.gra.fo/publication/resource/China_National_Building_Material_Group> <http://xmlns.com/foaf/0.1/name> "China National Building Material Group" .
-<http://www.gra.fo/publication/resource/China_National_Building_Material_Group> <http://www.gra.fo/publication/property/business> "Building Materials, Glass" .
-<http://www.gra.fo/publication/resource/China_National_Building_Material_Group> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
-<http://www.gra.fo/publication/resource/Cisco_Systems> <http://xmlns.com/foaf/0.1/name> "Cisco Systems" .
-<http://www.gra.fo/publication/resource/Cisco_Systems> <http://www.gra.fo/publication/property/business> "Telecommunications equipment" .
-<http://www.gra.fo/publication/resource/Cisco_Systems> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
-<http://www.gra.fo/publication/resource/Hitachi> <http://xmlns.com/foaf/0.1/name> "Hitachi" .
-<http://www.gra.fo/publication/resource/Hitachi> <http://www.gra.fo/publication/property/business> "Engineering, various" .
-<http://www.gra.fo/publication/resource/Hitachi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
-<http://www.gra.fo/publication/resource/ArcelorMittal> <http://xmlns.com/foaf/0.1/name> "ArcelorMittal" .
-<http://www.gra.fo/publication/resource/ArcelorMittal> <http://www.gra.fo/publication/property/business> "Steel" .
-<http://www.gra.fo/publication/resource/ArcelorMittal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
-<http://www.gra.fo/publication/resource/Hengli_Group> <http://xmlns.com/foaf/0.1/name> "Hengli Group" .
-<http://www.gra.fo/publication/resource/Hengli_Group> <http://www.gra.fo/publication/property/business> "Textiles" .
-<http://www.gra.fo/publication/resource/Hengli_Group> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
-<http://www.gra.fo/publication/resource/Lockheed_Martin> <http://xmlns.com/foaf/0.1/name> "Lockheed Martin" .
-<http://www.gra.fo/publication/resource/Lockheed_Martin> <http://www.gra.fo/publication/property/business> "Aerospace & Defense" .
-<http://www.gra.fo/publication/resource/Lockheed_Martin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
-<http://www.gra.fo/publication/resource/Renault> <http://xmlns.com/foaf/0.1/name> "Renault" .
-<http://www.gra.fo/publication/resource/Renault> <http://www.gra.fo/publication/property/business> "Automotive" .
-<http://www.gra.fo/publication/resource/Renault> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
-<http://www.gra.fo/publication/resource/Tata_Motors> <http://xmlns.com/foaf/0.1/name> "Tata Motors" .
-<http://www.gra.fo/publication/resource/Tata_Motors> <http://www.gra.fo/publication/property/business> "Automotive" .
-<http://www.gra.fo/publication/resource/Tata_Motors> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
-<http://www.gra.fo/publication/resource/Kia_Motors> <http://xmlns.com/foaf/0.1/name> "Kia Motors" .
-<http://www.gra.fo/publication/resource/Kia_Motors> <http://www.gra.fo/publication/property/business> "Automotive" .
-<http://www.gra.fo/publication/resource/Kia_Motors> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
-<http://www.gra.fo/publication/resource/Sanofi> <http://xmlns.com/foaf/0.1/name> "Sanofi" .
-<http://www.gra.fo/publication/resource/Sanofi> <http://www.gra.fo/publication/property/business> "Pharmaceuticals" .
-<http://www.gra.fo/publication/resource/Sanofi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
-<http://www.gra.fo/publication/resource/China_Railway_and_Engineering_Group> <http://xmlns.com/foaf/0.1/name> "China Railway and Engineering Group" .
-<http://www.gra.fo/publication/resource/China_Railway_and_Engineering_Group> <http://www.gra.fo/publication/property/business> "Engineering" .
-<http://www.gra.fo/publication/resource/China_Railway_and_Engineering_Group> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
-<http://www.gra.fo/publication/resource/Unilever> <http://xmlns.com/foaf/0.1/name> "Unilever" .
-<http://www.gra.fo/publication/resource/Unilever> <http://www.gra.fo/publication/property/business> "Consumer goods" .
-<http://www.gra.fo/publication/resource/Unilever> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
-<http://www.gra.fo/publication/resource/Aviation_Industry_Corporation_of_China> <http://xmlns.com/foaf/0.1/name> "Aviation Industry Corporation of China" .
-<http://www.gra.fo/publication/resource/Aviation_Industry_Corporation_of_China> <http://www.gra.fo/publication/property/business> "Aerospace & Defense" .
-<http://www.gra.fo/publication/resource/Aviation_Industry_Corporation_of_China> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
-<http://www.gra.fo/publication/resource/Beijing_Automotive_Group> <http://xmlns.com/foaf/0.1/name> "Beijing Automotive Group" .
-<http://www.gra.fo/publication/resource/Beijing_Automotive_Group> <http://www.gra.fo/publication/property/business> "Automotive" .
-<http://www.gra.fo/publication/resource/Beijing_Automotive_Group> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
-<http://www.gra.fo/publication/resource/Mitsubishi_Heavy_Industries> <http://xmlns.com/foaf/0.1/name> "Mitsubishi Heavy Industries" .
-<http://www.gra.fo/publication/resource/Mitsubishi_Heavy_Industries> <http://www.gra.fo/publication/property/business> "Engineering, various" .
-<http://www.gra.fo/publication/resource/Mitsubishi_Heavy_Industries> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
-<http://www.gra.fo/publication/resource/Nestle> <http://xmlns.com/foaf/0.1/name> "Nestle" .
-<http://www.gra.fo/publication/resource/Nestle> <http://www.gra.fo/publication/property/business> "Food & Beverages" .
-<http://www.gra.fo/publication/resource/Nestle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
-<http://www.gra.fo/publication/resource/Mitsui> <http://xmlns.com/foaf/0.1/name> "Mitsui" .
-<http://www.gra.fo/publication/resource/Mitsui> <http://www.gra.fo/publication/property/business> "Engineering, various" .
-<http://www.gra.fo/publication/resource/Mitsui> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
-<http://www.gra.fo/publication/resource/POSCO> <http://xmlns.com/foaf/0.1/name> "POSCO" .
-<http://www.gra.fo/publication/resource/POSCO> <http://www.gra.fo/publication/property/business> "Steel" .
-<http://www.gra.fo/publication/resource/POSCO> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
-<http://www.gra.fo/publication/resource/SAIC_Motor> <http://xmlns.com/foaf/0.1/name> "SAIC Motor" .
-<http://www.gra.fo/publication/resource/SAIC_Motor> <http://www.gra.fo/publication/property/business> "Automotive" .
-<http://www.gra.fo/publication/resource/SAIC_Motor> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
-<http://www.gra.fo/publication/resource/Johnson___Johnson> <http://xmlns.com/foaf/0.1/name> "Johnson & Johnson" .
-<http://www.gra.fo/publication/resource/Johnson___Johnson> <http://www.gra.fo/publication/property/business> "Personal care products" .
-<http://www.gra.fo/publication/resource/Johnson___Johnson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
-<http://www.gra.fo/publication/resource/Dongfeng_Motor_Group> <http://xmlns.com/foaf/0.1/name> "Dongfeng Motor Group" .
-<http://www.gra.fo/publication/resource/Dongfeng_Motor_Group> <http://www.gra.fo/publication/property/business> "Automotive" .
-<http://www.gra.fo/publication/resource/Dongfeng_Motor_Group> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
-<http://www.gra.fo/publication/resource/DowDuPont> <http://xmlns.com/foaf/0.1/name> "DowDuPont" .
-<http://www.gra.fo/publication/resource/DowDuPont> <http://www.gra.fo/publication/property/business> "Chemicals" .
-<http://www.gra.fo/publication/resource/DowDuPont> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
-<http://www.gra.fo/publication/resource/Honda> <http://xmlns.com/foaf/0.1/name> "Honda" .
-<http://www.gra.fo/publication/resource/Honda> <http://www.gra.fo/publication/property/business> "Automotive" .
-<http://www.gra.fo/publication/resource/Honda> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
-<http://www.gra.fo/publication/resource/Dell> <http://xmlns.com/foaf/0.1/name> "Dell" .
-<http://www.gra.fo/publication/resource/Dell> <http://www.gra.fo/publication/property/business> "Electronics" .
-<http://www.gra.fo/publication/resource/Dell> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
-<http://www.gra.fo/publication/resource/China_Baowu_Steel_Group> <http://xmlns.com/foaf/0.1/name> "China Baowu Steel Group" .
-<http://www.gra.fo/publication/resource/China_Baowu_Steel_Group> <http://www.gra.fo/publication/property/business> "Steel" .
-<http://www.gra.fo/publication/resource/China_Baowu_Steel_Group> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
-<http://www.gra.fo/publication/resource/Hyundai_Motor_Company> <http://xmlns.com/foaf/0.1/name> "Hyundai Motor Company" .
-<http://www.gra.fo/publication/resource/Hyundai_Motor_Company> <http://www.gra.fo/publication/property/business> "Automotive" .
-<http://www.gra.fo/publication/resource/Hyundai_Motor_Company> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
-<http://www.gra.fo/publication/resource/Sony> <http://xmlns.com/foaf/0.1/name> "Sony" .
-<http://www.gra.fo/publication/resource/Sony> <http://www.gra.fo/publication/property/business> "Electronics" .
-<http://www.gra.fo/publication/resource/Sony> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
-<http://www.gra.fo/publication/resource/Volkswagen_Group> <http://xmlns.com/foaf/0.1/name> "Volkswagen Group" .
-<http://www.gra.fo/publication/resource/Volkswagen_Group> <http://www.gra.fo/publication/property/business> "Automotive" .
-<http://www.gra.fo/publication/resource/Volkswagen_Group> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
-<http://www.gra.fo/publication/resource/United_Technologies> <http://xmlns.com/foaf/0.1/name> "United Technologies" .
-<http://www.gra.fo/publication/resource/United_Technologies> <http://www.gra.fo/publication/property/business> "Engineering, various" .
-<http://www.gra.fo/publication/resource/United_Technologies> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
-<http://www.gra.fo/publication/resource/Bosch> <http://xmlns.com/foaf/0.1/name> "Bosch" .
-<http://www.gra.fo/publication/resource/Bosch> <http://www.gra.fo/publication/property/business> "Engineering, various" .
-<http://www.gra.fo/publication/resource/Bosch> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
-<http://www.gra.fo/publication/resource/Toyota_Group> <http://xmlns.com/foaf/0.1/name> "Toyota Group" .
-<http://www.gra.fo/publication/resource/Toyota_Group> <http://www.gra.fo/publication/property/business> "Engineering, various" .
-<http://www.gra.fo/publication/resource/Toyota_Group> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
-<http://www.gra.fo/publication/resource/Daimler> <http://xmlns.com/foaf/0.1/name> "Daimler" .
-<http://www.gra.fo/publication/resource/Daimler> <http://www.gra.fo/publication/property/business> "Automotive" .
-<http://www.gra.fo/publication/resource/Daimler> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
-<http://www.gra.fo/publication/resource/Siemens> <http://xmlns.com/foaf/0.1/name> "Siemens" .
-<http://www.gra.fo/publication/resource/Siemens> <http://www.gra.fo/publication/property/business> "Engineering, various" .
-<http://www.gra.fo/publication/resource/Siemens> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
-<http://www.gra.fo/publication/resource/Airbus> <http://xmlns.com/foaf/0.1/name> "Airbus" .
-<http://www.gra.fo/publication/resource/Airbus> <http://www.gra.fo/publication/property/business> "Aerospace & Defense" .
-<http://www.gra.fo/publication/resource/Airbus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
-<http://www.gra.fo/publication/resource/General_Electric> <http://xmlns.com/foaf/0.1/name> "General Electric" .
-<http://www.gra.fo/publication/resource/General_Electric> <http://www.gra.fo/publication/property/business> "Engineering, various" .
-<http://www.gra.fo/publication/resource/General_Electric> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
-<http://www.gra.fo/publication/resource/Caterpillar> <http://xmlns.com/foaf/0.1/name> "Caterpillar" .
-<http://www.gra.fo/publication/resource/Caterpillar> <http://www.gra.fo/publication/property/business> "Construction equipment" .
-<http://www.gra.fo/publication/resource/Caterpillar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
-<http://www.gra.fo/publication/resource/Pegatron> <http://xmlns.com/foaf/0.1/name> "Pegatron" .
-<http://www.gra.fo/publication/resource/Pegatron> <http://www.gra.fo/publication/property/business> "Electronics" .
-<http://www.gra.fo/publication/resource/Pegatron> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
-<http://www.gra.fo/publication/resource/Ford> <http://xmlns.com/foaf/0.1/name> "Ford" .
-<http://www.gra.fo/publication/resource/Ford> <http://www.gra.fo/publication/property/business> "Automotive" .
-<http://www.gra.fo/publication/resource/Ford> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
-<http://www.gra.fo/publication/resource/Mitsubishi_Electric> <http://xmlns.com/foaf/0.1/name> "Mitsubishi Electric" .
-<http://www.gra.fo/publication/resource/Mitsubishi_Electric> <http://www.gra.fo/publication/property/business> "Engineering, various" .
-<http://www.gra.fo/publication/resource/Mitsubishi_Electric> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
-<http://www.gra.fo/publication/resource/Cardinal_Health> <http://xmlns.com/foaf/0.1/name> "Cardinal Health" .
-<http://www.gra.fo/publication/resource/Cardinal_Health> <http://www.gra.fo/publication/property/business> "Pharmaceuticals" .
-<http://www.gra.fo/publication/resource/Cardinal_Health> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
-<http://www.gra.fo/publication/resource/Hoffmann_La_Roche> <http://xmlns.com/foaf/0.1/name> "Hoffmann-La Roche" .
-<http://www.gra.fo/publication/resource/Hoffmann_La_Roche> <http://www.gra.fo/publication/property/business> "Pharmaceuticals" .
-<http://www.gra.fo/publication/resource/Hoffmann_La_Roche> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
-<http://www.gra.fo/publication/resource/Magna_International> <http://xmlns.com/foaf/0.1/name> "Magna International" .
-<http://www.gra.fo/publication/resource/Magna_International> <http://www.gra.fo/publication/property/business> "Motor Vehicles & Parts" .
-<http://www.gra.fo/publication/resource/Magna_International> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
-<http://www.gra.fo/publication/resource/Novartis> <http://xmlns.com/foaf/0.1/name> "Novartis" .
-<http://www.gra.fo/publication/resource/Novartis> <http://www.gra.fo/publication/property/business> "Pharmaceuticals" .
-<http://www.gra.fo/publication/resource/Novartis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
-<http://www.gra.fo/publication/resource/Christian_Dior> <http://xmlns.com/foaf/0.1/name> "Christian Dior" .
-<http://www.gra.fo/publication/resource/Christian_Dior> <http://www.gra.fo/publication/property/business> "Luxury goods" .
-<http://www.gra.fo/publication/resource/Christian_Dior> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
-<http://www.gra.fo/publication/resource/IBM> <http://xmlns.com/foaf/0.1/name> "IBM" .
-<http://www.gra.fo/publication/resource/IBM> <http://www.gra.fo/publication/property/business> "Engineering, various" .
-<http://www.gra.fo/publication/resource/IBM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
-<http://www.gra.fo/publication/resource/China_Shipbuilding_Industry_Corporation> <http://xmlns.com/foaf/0.1/name> "China Shipbuilding Industry Corporation" .
-<http://www.gra.fo/publication/resource/China_Shipbuilding_Industry_Corporation> <http://www.gra.fo/publication/property/business> "Shipbuilding" .
-<http://www.gra.fo/publication/resource/China_Shipbuilding_Industry_Corporation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
-<http://www.gra.fo/publication/resource/PepsiCo> <http://xmlns.com/foaf/0.1/name> "PepsiCo" .
-<http://www.gra.fo/publication/resource/PepsiCo> <http://www.gra.fo/publication/property/business> "Food & Beverages" .
-<http://www.gra.fo/publication/resource/PepsiCo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
-<http://www.gra.fo/publication/resource/Geely> <http://xmlns.com/foaf/0.1/name> "Geely" .
-<http://www.gra.fo/publication/resource/Geely> <http://www.gra.fo/publication/property/business> "Automotive" .
-<http://www.gra.fo/publication/resource/Geely> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
-<http://www.gra.fo/publication/resource/Lenovo> <http://xmlns.com/foaf/0.1/name> "Lenovo" .
-<http://www.gra.fo/publication/resource/Lenovo> <http://www.gra.fo/publication/property/business> "Electronics" .
-<http://www.gra.fo/publication/resource/Lenovo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
-<http://www.gra.fo/publication/resource/ZF_Friedrichshafen> <http://xmlns.com/foaf/0.1/name> "ZF Friedrichshafen" .
-<http://www.gra.fo/publication/resource/ZF_Friedrichshafen> <http://www.gra.fo/publication/property/business> "Motor Vehicles & Parts" .
-<http://www.gra.fo/publication/resource/ZF_Friedrichshafen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
-<http://www.gra.fo/publication/resource/ChemChina> <http://xmlns.com/foaf/0.1/name> "ChemChina" .
-<http://www.gra.fo/publication/resource/ChemChina> <http://www.gra.fo/publication/property/business> "Chemicals" .
-<http://www.gra.fo/publication/resource/ChemChina> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
-<http://www.gra.fo/publication/resource/Hon_Hai_Precision_Industry> <http://xmlns.com/foaf/0.1/name> "Hon Hai Precision Industry" .
-<http://www.gra.fo/publication/resource/Hon_Hai_Precision_Industry> <http://www.gra.fo/publication/property/business> "Electronics" .
-<http://www.gra.fo/publication/resource/Hon_Hai_Precision_Industry> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
-<http://www.gra.fo/publication/resource/China_South_Industries_Group> <http://xmlns.com/foaf/0.1/name> "China South Industries Group" .
-<http://www.gra.fo/publication/resource/China_South_Industries_Group> <http://www.gra.fo/publication/property/business> "Automotive, Electronics" .
-<http://www.gra.fo/publication/resource/China_South_Industries_Group> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
-<http://www.gra.fo/publication/resource/Aluminum_Corporation_of_China> <http://xmlns.com/foaf/0.1/name> "Aluminum Corporation of China" .
-<http://www.gra.fo/publication/resource/Aluminum_Corporation_of_China> <http://www.gra.fo/publication/property/business> "Aluminium" .
-<http://www.gra.fo/publication/resource/Aluminum_Corporation_of_China> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
-<http://www.gra.fo/publication/resource/Intel> <http://xmlns.com/foaf/0.1/name> "Intel" .
-<http://www.gra.fo/publication/resource/Intel> <http://www.gra.fo/publication/property/business> "Electronics" .
-<http://www.gra.fo/publication/resource/Intel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
-<http://www.gra.fo/publication/resource/Jardine_Matheson> <http://xmlns.com/foaf/0.1/name> "Jardine Matheson" .
-<http://www.gra.fo/publication/resource/Jardine_Matheson> <http://www.gra.fo/publication/property/business> "Motor Vehicles & Parts" .
-<http://www.gra.fo/publication/resource/Jardine_Matheson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
-<http://www.gra.fo/publication/resource/HBIS_Group> <http://xmlns.com/foaf/0.1/name> "HBIS Group" .
-<http://www.gra.fo/publication/resource/HBIS_Group> <http://www.gra.fo/publication/property/business> "Metals" .
-<http://www.gra.fo/publication/resource/HBIS_Group> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
+<http://www.gra.fo/publication/Sanofi> <http://xmlns.com/foaf/0.1/name> "Sanofi" .
+<http://www.gra.fo/publication/Sanofi> <http://www.gra.fo/publication/business> "Pharmaceuticals" .
+<http://www.gra.fo/publication/Sanofi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
+<http://www.gra.fo/publication/China_South_Industries_Group> <http://xmlns.com/foaf/0.1/name> "China South Industries Group" .
+<http://www.gra.fo/publication/China_South_Industries_Group> <http://www.gra.fo/publication/business> "Automotive, Electronics" .
+<http://www.gra.fo/publication/China_South_Industries_Group> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
+<http://www.gra.fo/publication/Eni> <http://xmlns.com/foaf/0.1/name> "Eni" .
+<http://www.gra.fo/publication/Eni> <http://www.gra.fo/publication/business> "Oil & gas" .
+<http://www.gra.fo/publication/Eni> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
+<http://www.gra.fo/publication/Nestle> <http://xmlns.com/foaf/0.1/name> "Nestle" .
+<http://www.gra.fo/publication/Nestle> <http://www.gra.fo/publication/business> "Food & Beverages" .
+<http://www.gra.fo/publication/Nestle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
+<http://www.gra.fo/publication/Mitsui> <http://xmlns.com/foaf/0.1/name> "Mitsui" .
+<http://www.gra.fo/publication/Mitsui> <http://www.gra.fo/publication/business> "Engineering, various" .
+<http://www.gra.fo/publication/Mitsui> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
+<http://www.gra.fo/publication/JBS_S_A_> <http://xmlns.com/foaf/0.1/name> "JBS S.A." .
+<http://www.gra.fo/publication/JBS_S_A_> <http://www.gra.fo/publication/business> "Food & Beverages" .
+<http://www.gra.fo/publication/JBS_S_A_> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
+<http://www.gra.fo/publication/China_National_Building_Material_Group> <http://xmlns.com/foaf/0.1/name> "China National Building Material Group" .
+<http://www.gra.fo/publication/China_National_Building_Material_Group> <http://www.gra.fo/publication/business> "Building Materials, Glass" .
+<http://www.gra.fo/publication/China_National_Building_Material_Group> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
+<http://www.gra.fo/publication/ZF_Friedrichshafen> <http://xmlns.com/foaf/0.1/name> "ZF Friedrichshafen" .
+<http://www.gra.fo/publication/ZF_Friedrichshafen> <http://www.gra.fo/publication/business> "Motor Vehicles & Parts" .
+<http://www.gra.fo/publication/ZF_Friedrichshafen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
+<http://www.gra.fo/publication/Lenovo> <http://xmlns.com/foaf/0.1/name> "Lenovo" .
+<http://www.gra.fo/publication/Lenovo> <http://www.gra.fo/publication/business> "Electronics" .
+<http://www.gra.fo/publication/Lenovo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
+<http://www.gra.fo/publication/Honeywell> <http://xmlns.com/foaf/0.1/name> "Honeywell" .
+<http://www.gra.fo/publication/Honeywell> <http://www.gra.fo/publication/business> "Engineering, various" .
+<http://www.gra.fo/publication/Honeywell> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
+<http://www.gra.fo/publication/Ford> <http://xmlns.com/foaf/0.1/name> "Ford" .
+<http://www.gra.fo/publication/Ford> <http://www.gra.fo/publication/business> "Automotive" .
+<http://www.gra.fo/publication/Ford> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
+<http://www.gra.fo/publication/POSCO> <http://xmlns.com/foaf/0.1/name> "POSCO" .
+<http://www.gra.fo/publication/POSCO> <http://www.gra.fo/publication/business> "Steel" .
+<http://www.gra.fo/publication/POSCO> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
+<http://www.gra.fo/publication/Cisco_Systems> <http://xmlns.com/foaf/0.1/name> "Cisco Systems" .
+<http://www.gra.fo/publication/Cisco_Systems> <http://www.gra.fo/publication/business> "Telecommunications equipment" .
+<http://www.gra.fo/publication/Cisco_Systems> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
+<http://www.gra.fo/publication/Wilmar_International> <http://xmlns.com/foaf/0.1/name> "Wilmar International" .
+<http://www.gra.fo/publication/Wilmar_International> <http://www.gra.fo/publication/business> "Food & Beverages" .
+<http://www.gra.fo/publication/Wilmar_International> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
+<http://www.gra.fo/publication/Sinomach> <http://xmlns.com/foaf/0.1/name> "Sinomach" .
+<http://www.gra.fo/publication/Sinomach> <http://www.gra.fo/publication/business> "Industrial Machinery" .
+<http://www.gra.fo/publication/Sinomach> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
+<http://www.gra.fo/publication/Hoffmann_La_Roche> <http://xmlns.com/foaf/0.1/name> "Hoffmann-La Roche" .
+<http://www.gra.fo/publication/Hoffmann_La_Roche> <http://www.gra.fo/publication/business> "Pharmaceuticals" .
+<http://www.gra.fo/publication/Hoffmann_La_Roche> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
+<http://www.gra.fo/publication/Airbus> <http://xmlns.com/foaf/0.1/name> "Airbus" .
+<http://www.gra.fo/publication/Airbus> <http://www.gra.fo/publication/business> "Aerospace & Defense" .
+<http://www.gra.fo/publication/Airbus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
+<http://www.gra.fo/publication/China_Railway_and_Engineering_Group> <http://xmlns.com/foaf/0.1/name> "China Railway and Engineering Group" .
+<http://www.gra.fo/publication/China_Railway_and_Engineering_Group> <http://www.gra.fo/publication/business> "Engineering" .
+<http://www.gra.fo/publication/China_Railway_and_Engineering_Group> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
+<http://www.gra.fo/publication/Caterpillar> <http://xmlns.com/foaf/0.1/name> "Caterpillar" .
+<http://www.gra.fo/publication/Caterpillar> <http://www.gra.fo/publication/business> "Construction equipment" .
+<http://www.gra.fo/publication/Caterpillar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
+<http://www.gra.fo/publication/Christian_Dior> <http://xmlns.com/foaf/0.1/name> "Christian Dior" .
+<http://www.gra.fo/publication/Christian_Dior> <http://www.gra.fo/publication/business> "Luxury goods" .
+<http://www.gra.fo/publication/Christian_Dior> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
+<http://www.gra.fo/publication/Aviation_Industry_Corporation_of_China> <http://xmlns.com/foaf/0.1/name> "Aviation Industry Corporation of China" .
+<http://www.gra.fo/publication/Aviation_Industry_Corporation_of_China> <http://www.gra.fo/publication/business> "Aerospace & Defense" .
+<http://www.gra.fo/publication/Aviation_Industry_Corporation_of_China> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
+<http://www.gra.fo/publication/Procter___Gamble> <http://xmlns.com/foaf/0.1/name> "Procter & Gamble" .
+<http://www.gra.fo/publication/Procter___Gamble> <http://www.gra.fo/publication/business> "Consumer goods" .
+<http://www.gra.fo/publication/Procter___Gamble> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
+<http://www.gra.fo/publication/Tata_Motors> <http://xmlns.com/foaf/0.1/name> "Tata Motors" .
+<http://www.gra.fo/publication/Tata_Motors> <http://www.gra.fo/publication/business> "Automotive" .
+<http://www.gra.fo/publication/Tata_Motors> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
+<http://www.gra.fo/publication/ThyssenKrupp> <http://xmlns.com/foaf/0.1/name> "ThyssenKrupp" .
+<http://www.gra.fo/publication/ThyssenKrupp> <http://www.gra.fo/publication/business> "Steel" .
+<http://www.gra.fo/publication/ThyssenKrupp> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
+<http://www.gra.fo/publication/Anheuser_Busch_InBev> <http://xmlns.com/foaf/0.1/name> "Anheuser-Busch InBev" .
+<http://www.gra.fo/publication/Anheuser_Busch_InBev> <http://www.gra.fo/publication/business> "Food & Beverages" .
+<http://www.gra.fo/publication/Anheuser_Busch_InBev> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
+<http://www.gra.fo/publication/BMW> <http://xmlns.com/foaf/0.1/name> "BMW" .
+<http://www.gra.fo/publication/BMW> <http://www.gra.fo/publication/business> "Automotive" .
+<http://www.gra.fo/publication/BMW> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
+<http://www.gra.fo/publication/Nippon_Steel> <http://xmlns.com/foaf/0.1/name> "Nippon Steel" .
+<http://www.gra.fo/publication/Nippon_Steel> <http://www.gra.fo/publication/business> "Steel" .
+<http://www.gra.fo/publication/Nippon_Steel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
+<http://www.gra.fo/publication/Kia_Motors> <http://xmlns.com/foaf/0.1/name> "Kia Motors" .
+<http://www.gra.fo/publication/Kia_Motors> <http://www.gra.fo/publication/business> "Automotive" .
+<http://www.gra.fo/publication/Kia_Motors> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
+<http://www.gra.fo/publication/Johnson___Johnson> <http://xmlns.com/foaf/0.1/name> "Johnson & Johnson" .
+<http://www.gra.fo/publication/Johnson___Johnson> <http://www.gra.fo/publication/business> "Personal care products" .
+<http://www.gra.fo/publication/Johnson___Johnson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
+<http://www.gra.fo/publication/Beijing_Automotive_Group> <http://xmlns.com/foaf/0.1/name> "Beijing Automotive Group" .
+<http://www.gra.fo/publication/Beijing_Automotive_Group> <http://www.gra.fo/publication/business> "Automotive" .
+<http://www.gra.fo/publication/Beijing_Automotive_Group> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
+<http://www.gra.fo/publication/BASF> <http://xmlns.com/foaf/0.1/name> "BASF" .
+<http://www.gra.fo/publication/BASF> <http://www.gra.fo/publication/business> "Chemicals" .
+<http://www.gra.fo/publication/BASF> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
+<http://www.gra.fo/publication/Unilever> <http://xmlns.com/foaf/0.1/name> "Unilever" .
+<http://www.gra.fo/publication/Unilever> <http://www.gra.fo/publication/business> "Consumer goods" .
+<http://www.gra.fo/publication/Unilever> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
+<http://www.gra.fo/publication/Norinco> <http://xmlns.com/foaf/0.1/name> "Norinco" .
+<http://www.gra.fo/publication/Norinco> <http://www.gra.fo/publication/business> "Aerospace & Defense" .
+<http://www.gra.fo/publication/Norinco> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
+<http://www.gra.fo/publication/Oracle_Corporation> <http://xmlns.com/foaf/0.1/name> "Oracle Corporation" .
+<http://www.gra.fo/publication/Oracle_Corporation> <http://www.gra.fo/publication/business> "Electronics" .
+<http://www.gra.fo/publication/Oracle_Corporation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
+<http://www.gra.fo/publication/Nissan> <http://xmlns.com/foaf/0.1/name> "Nissan" .
+<http://www.gra.fo/publication/Nissan> <http://www.gra.fo/publication/business> "Automotive" .
+<http://www.gra.fo/publication/Nissan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
+<http://www.gra.fo/publication/Apple> <http://xmlns.com/foaf/0.1/name> "Apple" .
+<http://www.gra.fo/publication/Apple> <http://www.gra.fo/publication/business> "Electronics" .
+<http://www.gra.fo/publication/Apple> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
+<http://www.gra.fo/publication/Fujitsu> <http://xmlns.com/foaf/0.1/name> "Fujitsu" .
+<http://www.gra.fo/publication/Fujitsu> <http://www.gra.fo/publication/business> "Electronics" .
+<http://www.gra.fo/publication/Fujitsu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
+<http://www.gra.fo/publication/Bayer> <http://xmlns.com/foaf/0.1/name> "Bayer" .
+<http://www.gra.fo/publication/Bayer> <http://www.gra.fo/publication/business> "Pharmaceuticals" .
+<http://www.gra.fo/publication/Bayer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
+<http://www.gra.fo/publication/DowDuPont> <http://xmlns.com/foaf/0.1/name> "DowDuPont" .
+<http://www.gra.fo/publication/DowDuPont> <http://www.gra.fo/publication/business> "Chemicals" .
+<http://www.gra.fo/publication/DowDuPont> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
+<http://www.gra.fo/publication/Geely> <http://xmlns.com/foaf/0.1/name> "Geely" .
+<http://www.gra.fo/publication/Geely> <http://www.gra.fo/publication/business> "Automotive" .
+<http://www.gra.fo/publication/Geely> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
+<http://www.gra.fo/publication/Saint_Gobain> <http://xmlns.com/foaf/0.1/name> "Saint-Gobain" .
+<http://www.gra.fo/publication/Saint_Gobain> <http://www.gra.fo/publication/business> "Building materials" .
+<http://www.gra.fo/publication/Saint_Gobain> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
+<http://www.gra.fo/publication/LG_Electronics> <http://xmlns.com/foaf/0.1/name> "LG Electronics" .
+<http://www.gra.fo/publication/LG_Electronics> <http://www.gra.fo/publication/business> "Electronics" .
+<http://www.gra.fo/publication/LG_Electronics> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
+<http://www.gra.fo/publication/Samsung_Electronics> <http://xmlns.com/foaf/0.1/name> "Samsung Electronics" .
+<http://www.gra.fo/publication/Samsung_Electronics> <http://www.gra.fo/publication/business> "Electronics, various" .
+<http://www.gra.fo/publication/Samsung_Electronics> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
+<http://www.gra.fo/publication/Peugeot> <http://xmlns.com/foaf/0.1/name> "Peugeot" .
+<http://www.gra.fo/publication/Peugeot> <http://www.gra.fo/publication/business> "Automotive" .
+<http://www.gra.fo/publication/Peugeot> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
+<http://www.gra.fo/publication/Hon_Hai_Precision_Industry> <http://xmlns.com/foaf/0.1/name> "Hon Hai Precision Industry" .
+<http://www.gra.fo/publication/Hon_Hai_Precision_Industry> <http://www.gra.fo/publication/business> "Electronics" .
+<http://www.gra.fo/publication/Hon_Hai_Precision_Industry> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
+<http://www.gra.fo/publication/Lockheed_Martin> <http://xmlns.com/foaf/0.1/name> "Lockheed Martin" .
+<http://www.gra.fo/publication/Lockheed_Martin> <http://www.gra.fo/publication/business> "Aerospace & Defense" .
+<http://www.gra.fo/publication/Lockheed_Martin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
+<http://www.gra.fo/publication/SABIC> <http://xmlns.com/foaf/0.1/name> "SABIC" .
+<http://www.gra.fo/publication/SABIC> <http://www.gra.fo/publication/business> "Chemicals" .
+<http://www.gra.fo/publication/SABIC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
+<http://www.gra.fo/publication/ArcelorMittal> <http://xmlns.com/foaf/0.1/name> "ArcelorMittal" .
+<http://www.gra.fo/publication/ArcelorMittal> <http://www.gra.fo/publication/business> "Steel" .
+<http://www.gra.fo/publication/ArcelorMittal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
+<http://www.gra.fo/publication/General_Motors> <http://xmlns.com/foaf/0.1/name> "General Motors" .
+<http://www.gra.fo/publication/General_Motors> <http://www.gra.fo/publication/business> "Automotive" .
+<http://www.gra.fo/publication/General_Motors> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
+<http://www.gra.fo/publication/Shandong_Weiqiao_Pioneering_Group> <http://xmlns.com/foaf/0.1/name> "Shandong Weiqiao Pioneering Group" .
+<http://www.gra.fo/publication/Shandong_Weiqiao_Pioneering_Group> <http://www.gra.fo/publication/business> "Textiles" .
+<http://www.gra.fo/publication/Shandong_Weiqiao_Pioneering_Group> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
+<http://www.gra.fo/publication/GlaxoSmithKline> <http://xmlns.com/foaf/0.1/name> "GlaxoSmithKline" .
+<http://www.gra.fo/publication/GlaxoSmithKline> <http://www.gra.fo/publication/business> "Pharmaceuticals" .
+<http://www.gra.fo/publication/GlaxoSmithKline> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
+<http://www.gra.fo/publication/Hitachi> <http://xmlns.com/foaf/0.1/name> "Hitachi" .
+<http://www.gra.fo/publication/Hitachi> <http://www.gra.fo/publication/business> "Engineering, various" .
+<http://www.gra.fo/publication/Hitachi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
+<http://www.gra.fo/publication/Pegatron> <http://xmlns.com/foaf/0.1/name> "Pegatron" .
+<http://www.gra.fo/publication/Pegatron> <http://www.gra.fo/publication/business> "Electronics" .
+<http://www.gra.fo/publication/Pegatron> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
+<http://www.gra.fo/publication/Renault> <http://xmlns.com/foaf/0.1/name> "Renault" .
+<http://www.gra.fo/publication/Renault> <http://www.gra.fo/publication/business> "Automotive" .
+<http://www.gra.fo/publication/Renault> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
+<http://www.gra.fo/publication/Volkswagen_Group> <http://xmlns.com/foaf/0.1/name> "Volkswagen Group" .
+<http://www.gra.fo/publication/Volkswagen_Group> <http://www.gra.fo/publication/business> "Automotive" .
+<http://www.gra.fo/publication/Volkswagen_Group> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
+<http://www.gra.fo/publication/Intel> <http://xmlns.com/foaf/0.1/name> "Intel" .
+<http://www.gra.fo/publication/Intel> <http://www.gra.fo/publication/business> "Electronics" .
+<http://www.gra.fo/publication/Intel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
+<http://www.gra.fo/publication/Hewlett_Packard> <http://xmlns.com/foaf/0.1/name> "Hewlett-Packard" .
+<http://www.gra.fo/publication/Hewlett_Packard> <http://www.gra.fo/publication/business> "Electronics" .
+<http://www.gra.fo/publication/Hewlett_Packard> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
+<http://www.gra.fo/publication/Boeing> <http://xmlns.com/foaf/0.1/name> "Boeing" .
+<http://www.gra.fo/publication/Boeing> <http://www.gra.fo/publication/business> "Aerospace & Defense" .
+<http://www.gra.fo/publication/Boeing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
+<http://www.gra.fo/publication/China_Minmetals> <http://xmlns.com/foaf/0.1/name> "China Minmetals" .
+<http://www.gra.fo/publication/China_Minmetals> <http://www.gra.fo/publication/business> "Metals" .
+<http://www.gra.fo/publication/China_Minmetals> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
+<http://www.gra.fo/publication/SAIC_Motor> <http://xmlns.com/foaf/0.1/name> "SAIC Motor" .
+<http://www.gra.fo/publication/SAIC_Motor> <http://www.gra.fo/publication/business> "Automotive" .
+<http://www.gra.fo/publication/SAIC_Motor> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
+<http://www.gra.fo/publication/Dongfeng_Motor_Group> <http://xmlns.com/foaf/0.1/name> "Dongfeng Motor Group" .
+<http://www.gra.fo/publication/Dongfeng_Motor_Group> <http://www.gra.fo/publication/business> "Automotive" .
+<http://www.gra.fo/publication/Dongfeng_Motor_Group> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
+<http://www.gra.fo/publication/Aluminum_Corporation_of_China> <http://xmlns.com/foaf/0.1/name> "Aluminum Corporation of China" .
+<http://www.gra.fo/publication/Aluminum_Corporation_of_China> <http://www.gra.fo/publication/business> "Aluminium" .
+<http://www.gra.fo/publication/Aluminum_Corporation_of_China> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
+<http://www.gra.fo/publication/ChemChina> <http://xmlns.com/foaf/0.1/name> "ChemChina" .
+<http://www.gra.fo/publication/ChemChina> <http://www.gra.fo/publication/business> "Chemicals" .
+<http://www.gra.fo/publication/ChemChina> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
+<http://www.gra.fo/publication/Denso> <http://xmlns.com/foaf/0.1/name> "Denso" .
+<http://www.gra.fo/publication/Denso> <http://www.gra.fo/publication/business> "Engineering, various" .
+<http://www.gra.fo/publication/Denso> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
+<http://www.gra.fo/publication/Huawei> <http://xmlns.com/foaf/0.1/name> "Huawei" .
+<http://www.gra.fo/publication/Huawei> <http://www.gra.fo/publication/business> "Telecommunications equipment, Electronics" .
+<http://www.gra.fo/publication/Huawei> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
+<http://www.gra.fo/publication/Daimler> <http://xmlns.com/foaf/0.1/name> "Daimler" .
+<http://www.gra.fo/publication/Daimler> <http://www.gra.fo/publication/business> "Automotive" .
+<http://www.gra.fo/publication/Daimler> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
+<http://www.gra.fo/publication/United_Technologies> <http://xmlns.com/foaf/0.1/name> "United Technologies" .
+<http://www.gra.fo/publication/United_Technologies> <http://www.gra.fo/publication/business> "Engineering, various" .
+<http://www.gra.fo/publication/United_Technologies> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
+<http://www.gra.fo/publication/IBM> <http://xmlns.com/foaf/0.1/name> "IBM" .
+<http://www.gra.fo/publication/IBM> <http://www.gra.fo/publication/business> "Engineering, various" .
+<http://www.gra.fo/publication/IBM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
+<http://www.gra.fo/publication/Mitsubishi_Electric> <http://xmlns.com/foaf/0.1/name> "Mitsubishi Electric" .
+<http://www.gra.fo/publication/Mitsubishi_Electric> <http://www.gra.fo/publication/business> "Engineering, various" .
+<http://www.gra.fo/publication/Mitsubishi_Electric> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
+<http://www.gra.fo/publication/Enel> <http://xmlns.com/foaf/0.1/name> "Enel" .
+<http://www.gra.fo/publication/Enel> <http://www.gra.fo/publication/business> "Renewable energy" .
+<http://www.gra.fo/publication/Enel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
+<http://www.gra.fo/publication/Dell> <http://xmlns.com/foaf/0.1/name> "Dell" .
+<http://www.gra.fo/publication/Dell> <http://www.gra.fo/publication/business> "Electronics" .
+<http://www.gra.fo/publication/Dell> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
+<http://www.gra.fo/publication/Jardine_Matheson> <http://xmlns.com/foaf/0.1/name> "Jardine Matheson" .
+<http://www.gra.fo/publication/Jardine_Matheson> <http://www.gra.fo/publication/business> "Motor Vehicles & Parts" .
+<http://www.gra.fo/publication/Jardine_Matheson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
+<http://www.gra.fo/publication/General_Electric> <http://xmlns.com/foaf/0.1/name> "General Electric" .
+<http://www.gra.fo/publication/General_Electric> <http://www.gra.fo/publication/business> "Engineering, various" .
+<http://www.gra.fo/publication/General_Electric> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
+<http://www.gra.fo/publication/Merck___Co_> <http://xmlns.com/foaf/0.1/name> "Merck & Co." .
+<http://www.gra.fo/publication/Merck___Co_> <http://www.gra.fo/publication/business> "Pharmaceuticals" .
+<http://www.gra.fo/publication/Merck___Co_> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
+<http://www.gra.fo/publication/Novartis> <http://xmlns.com/foaf/0.1/name> "Novartis" .
+<http://www.gra.fo/publication/Novartis> <http://www.gra.fo/publication/business> "Pharmaceuticals" .
+<http://www.gra.fo/publication/Novartis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
+<http://www.gra.fo/publication/Guangzhou_Automobile_Industry_Group> <http://xmlns.com/foaf/0.1/name> "Guangzhou Automobile Industry Group" .
+<http://www.gra.fo/publication/Guangzhou_Automobile_Industry_Group> <http://www.gra.fo/publication/business> "Automotive" .
+<http://www.gra.fo/publication/Guangzhou_Automobile_Industry_Group> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
+<http://www.gra.fo/publication/Sony> <http://xmlns.com/foaf/0.1/name> "Sony" .
+<http://www.gra.fo/publication/Sony> <http://www.gra.fo/publication/business> "Electronics" .
+<http://www.gra.fo/publication/Sony> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
+<http://www.gra.fo/publication/Exor> <http://xmlns.com/foaf/0.1/name> "Exor" .
+<http://www.gra.fo/publication/Exor> <http://www.gra.fo/publication/business> "Automotive" .
+<http://www.gra.fo/publication/Exor> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
+<http://www.gra.fo/publication/Magna_International> <http://xmlns.com/foaf/0.1/name> "Magna International" .
+<http://www.gra.fo/publication/Magna_International> <http://www.gra.fo/publication/business> "Motor Vehicles & Parts" .
+<http://www.gra.fo/publication/Magna_International> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
+<http://www.gra.fo/publication/Pfizer> <http://xmlns.com/foaf/0.1/name> "Pfizer" .
+<http://www.gra.fo/publication/Pfizer> <http://www.gra.fo/publication/business> "Pharmaceuticals" .
+<http://www.gra.fo/publication/Pfizer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
+<http://www.gra.fo/publication/PepsiCo> <http://xmlns.com/foaf/0.1/name> "PepsiCo" .
+<http://www.gra.fo/publication/PepsiCo> <http://www.gra.fo/publication/business> "Food & Beverages" .
+<http://www.gra.fo/publication/PepsiCo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
+<http://www.gra.fo/publication/Panasonic> <http://xmlns.com/foaf/0.1/name> "Panasonic" .
+<http://www.gra.fo/publication/Panasonic> <http://www.gra.fo/publication/business> "Engineering, various" .
+<http://www.gra.fo/publication/Panasonic> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
+<http://www.gra.fo/publication/China_Baowu_Steel_Group> <http://xmlns.com/foaf/0.1/name> "China Baowu Steel Group" .
+<http://www.gra.fo/publication/China_Baowu_Steel_Group> <http://www.gra.fo/publication/business> "Steel" .
+<http://www.gra.fo/publication/China_Baowu_Steel_Group> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
+<http://www.gra.fo/publication/Mitsubishi> <http://xmlns.com/foaf/0.1/name> "Mitsubishi" .
+<http://www.gra.fo/publication/Mitsubishi> <http://www.gra.fo/publication/business> "Engineering, various" .
+<http://www.gra.fo/publication/Mitsubishi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
+<http://www.gra.fo/publication/Toyota_Group> <http://xmlns.com/foaf/0.1/name> "Toyota Group" .
+<http://www.gra.fo/publication/Toyota_Group> <http://www.gra.fo/publication/business> "Engineering, various" .
+<http://www.gra.fo/publication/Toyota_Group> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
+<http://www.gra.fo/publication/Honda> <http://xmlns.com/foaf/0.1/name> "Honda" .
+<http://www.gra.fo/publication/Honda> <http://www.gra.fo/publication/business> "Automotive" .
+<http://www.gra.fo/publication/Honda> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
+<http://www.gra.fo/publication/Bunge_Limited> <http://xmlns.com/foaf/0.1/name> "Bunge Limited" .
+<http://www.gra.fo/publication/Bunge_Limited> <http://www.gra.fo/publication/business> "Food, Beverages & Tabacco" .
+<http://www.gra.fo/publication/Bunge_Limited> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
+<http://www.gra.fo/publication/Continental> <http://xmlns.com/foaf/0.1/name> "Continental" .
+<http://www.gra.fo/publication/Continental> <http://www.gra.fo/publication/business> "Tyres" .
+<http://www.gra.fo/publication/Continental> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
+<http://www.gra.fo/publication/Hengli_Group> <http://xmlns.com/foaf/0.1/name> "Hengli Group" .
+<http://www.gra.fo/publication/Hengli_Group> <http://www.gra.fo/publication/business> "Textiles" .
+<http://www.gra.fo/publication/Hengli_Group> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
+<http://www.gra.fo/publication/Mitsubishi_Heavy_Industries> <http://xmlns.com/foaf/0.1/name> "Mitsubishi Heavy Industries" .
+<http://www.gra.fo/publication/Mitsubishi_Heavy_Industries> <http://www.gra.fo/publication/business> "Engineering, various" .
+<http://www.gra.fo/publication/Mitsubishi_Heavy_Industries> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
+<http://www.gra.fo/publication/Cardinal_Health> <http://xmlns.com/foaf/0.1/name> "Cardinal Health" .
+<http://www.gra.fo/publication/Cardinal_Health> <http://www.gra.fo/publication/business> "Pharmaceuticals" .
+<http://www.gra.fo/publication/Cardinal_Health> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
+<http://www.gra.fo/publication/HBIS_Group> <http://xmlns.com/foaf/0.1/name> "HBIS Group" .
+<http://www.gra.fo/publication/HBIS_Group> <http://www.gra.fo/publication/business> "Metals" .
+<http://www.gra.fo/publication/HBIS_Group> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
+<http://www.gra.fo/publication/Tyson_Foods> <http://xmlns.com/foaf/0.1/name> "Tyson Foods" .
+<http://www.gra.fo/publication/Tyson_Foods> <http://www.gra.fo/publication/business> "Food & Beverages" .
+<http://www.gra.fo/publication/Tyson_Foods> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
+<http://www.gra.fo/publication/Siemens> <http://xmlns.com/foaf/0.1/name> "Siemens" .
+<http://www.gra.fo/publication/Siemens> <http://www.gra.fo/publication/business> "Engineering, various" .
+<http://www.gra.fo/publication/Siemens> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
+<http://www.gra.fo/publication/Bosch> <http://xmlns.com/foaf/0.1/name> "Bosch" .
+<http://www.gra.fo/publication/Bosch> <http://www.gra.fo/publication/business> "Engineering, various" .
+<http://www.gra.fo/publication/Bosch> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
+<http://www.gra.fo/publication/China_Shipbuilding_Industry_Corporation> <http://xmlns.com/foaf/0.1/name> "China Shipbuilding Industry Corporation" .
+<http://www.gra.fo/publication/China_Shipbuilding_Industry_Corporation> <http://www.gra.fo/publication/business> "Shipbuilding" .
+<http://www.gra.fo/publication/China_Shipbuilding_Industry_Corporation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
+<http://www.gra.fo/publication/AB_Volvo> <http://xmlns.com/foaf/0.1/name> "AB Volvo" .
+<http://www.gra.fo/publication/AB_Volvo> <http://www.gra.fo/publication/business> "Automotive" .
+<http://www.gra.fo/publication/AB_Volvo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
+<http://www.gra.fo/publication/Sinochem> <http://xmlns.com/foaf/0.1/name> "Sinochem" .
+<http://www.gra.fo/publication/Sinochem> <http://www.gra.fo/publication/business> "Chemicals" .
+<http://www.gra.fo/publication/Sinochem> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
+<http://www.gra.fo/publication/Sinopharm> <http://xmlns.com/foaf/0.1/name> "Sinopharm" .
+<http://www.gra.fo/publication/Sinopharm> <http://www.gra.fo/publication/business> "Pharmaceuticals" .
+<http://www.gra.fo/publication/Sinopharm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
+<http://www.gra.fo/publication/FAW_Group> <http://xmlns.com/foaf/0.1/name> "FAW Group" .
+<http://www.gra.fo/publication/FAW_Group> <http://www.gra.fo/publication/business> "Automotive" .
+<http://www.gra.fo/publication/FAW_Group> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .
+<http://www.gra.fo/publication/Hyundai_Motor_Company> <http://xmlns.com/foaf/0.1/name> "Hyundai Motor Company" .
+<http://www.gra.fo/publication/Hyundai_Motor_Company> <http://www.gra.fo/publication/business> "Automotive" .
+<http://www.gra.fo/publication/Hyundai_Motor_Company> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Company> .

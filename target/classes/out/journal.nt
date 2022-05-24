@@ -1,204 +1,203 @@
-<http://www.gra.fo/publication/resource/journals_IEEE_Trans__Knowl__Data_Eng_> <http://www.gra.fo/publication/property/handled_byj> <http://www.gra.fo/publication/resource/Francis_Vaughan> .
-<http://www.gra.fo/publication/resource/journals_IEEE_Trans__Knowl__Data_Eng_> <http://www.gra.fo/publication/property/handled_byj> <http://www.gra.fo/publication/resource/Tom_Kehler> .
-<http://www.gra.fo/publication/resource/journals_IEEE_Trans__Knowl__Data_Eng_> <http://www.gra.fo/publication/property/handled_byj> <http://www.gra.fo/publication/resource/Barbara_J__Bell> .
-<http://www.gra.fo/publication/resource/journals_IEEE_Trans__Knowl__Data_Eng_> <http://www.gra.fo/publication/property/handled_byj> <http://www.gra.fo/publication/resource/Jim_Q__Ning> .
-<http://www.gra.fo/publication/resource/journals_IEEE_Trans__Knowl__Data_Eng_> <http://www.gra.fo/publication/property/handled_byj> <http://www.gra.fo/publication/resource/Stanislas_Brysgalov> .
-<http://www.gra.fo/publication/resource/journals_IEEE_Trans__Knowl__Data_Eng_> <http://www.gra.fo/publication/property/handled_byj> <http://www.gra.fo/publication/resource/John_R__Cameron> .
-<http://www.gra.fo/publication/resource/journals_IEEE_Trans__Knowl__Data_Eng_> <http://www.gra.fo/publication/property/handled_byj> <http://www.gra.fo/publication/resource/Edward_H__Shortliffe> .
-<http://www.gra.fo/publication/resource/journals_IEEE_Trans__Knowl__Data_Eng_> <http://www.gra.fo/publication/property/journalPublisher> "IEEE" .
-<http://www.gra.fo/publication/resource/journals_IEEE_Trans__Knowl__Data_Eng_> <http://www.gra.fo/publication/property/handled_byj> <http://www.gra.fo/publication/resource/Fiona_White> .
-<http://www.gra.fo/publication/resource/journals_IEEE_Trans__Knowl__Data_Eng_> <http://www.gra.fo/publication/property/handled_byj> <http://www.gra.fo/publication/resource/David_B__Golub> .
-<http://www.gra.fo/publication/resource/journals_IEEE_Trans__Knowl__Data_Eng_> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Journal> .
-<http://www.gra.fo/publication/resource/journals_IEEE_Trans__Knowl__Data_Eng_> <http://www.gra.fo/publication/property/handled_byj> <http://www.gra.fo/publication/resource/John_Raitz> .
-<http://www.gra.fo/publication/resource/journals_IEEE_Trans__Knowl__Data_Eng_> <http://www.gra.fo/publication/property/journalName> "IEEE Trans. Knowl. Data Eng." .
-<http://www.gra.fo/publication/resource/journals_VLDB_J_> <http://www.gra.fo/publication/property/handled_byj> <http://www.gra.fo/publication/resource/Ashid_Metha> .
-<http://www.gra.fo/publication/resource/journals_VLDB_J_> <http://www.gra.fo/publication/property/handled_byj> <http://www.gra.fo/publication/resource/James_O_Toole> .
-<http://www.gra.fo/publication/resource/journals_VLDB_J_> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Journal> .
-<http://www.gra.fo/publication/resource/journals_VLDB_J_> <http://www.gra.fo/publication/property/journalName> "VLDB J." .
-<http://www.gra.fo/publication/resource/journals_VLDB_J_> <http://www.gra.fo/publication/property/handled_byj> <http://www.gra.fo/publication/resource/Eliseo_Clementini> .
-<http://www.gra.fo/publication/resource/journals_VLDB_J_> <http://www.gra.fo/publication/property/handled_byj> <http://www.gra.fo/publication/resource/Minder_Chen> .
-<http://www.gra.fo/publication/resource/journals_VLDB_J_> <http://www.gra.fo/publication/property/handled_byj> <http://www.gra.fo/publication/resource/Mansoor_Ansari> .
-<http://www.gra.fo/publication/resource/journals_VLDB_J_> <http://www.gra.fo/publication/property/handled_byj> <http://www.gra.fo/publication/resource/Padhraic_Smyth> .
-<http://www.gra.fo/publication/resource/journals_VLDB_J_> <http://www.gra.fo/publication/property/journalPublisher> "ACM" .
-<http://www.gra.fo/publication/resource/journals_VLDB_J_> <http://www.gra.fo/publication/property/handled_byj> <http://www.gra.fo/publication/resource/Baiju_V__Patel> .
-<http://www.gra.fo/publication/resource/journals_VLDB_J_> <http://www.gra.fo/publication/property/handled_byj> <http://www.gra.fo/publication/resource/Sivakumar_Ravada> .
-<http://www.gra.fo/publication/resource/journals_VLDB_J_> <http://www.gra.fo/publication/property/handled_byj> <http://www.gra.fo/publication/resource/Peter_J__Bailey> .
-<http://www.gra.fo/publication/resource/journals_Journal_of_Systems_Architecture___Embedded_Systems_Design> <http://www.gra.fo/publication/property/journalPublisher> "Elsevier" .
-<http://www.gra.fo/publication/resource/journals_Journal_of_Systems_Architecture___Embedded_Systems_Design> <http://www.gra.fo/publication/property/handled_byj> <http://www.gra.fo/publication/resource/John_D__Gannon> .
-<http://www.gra.fo/publication/resource/journals_Journal_of_Systems_Architecture___Embedded_Systems_Design> <http://www.gra.fo/publication/property/journalName> "Journal of Systems Architecture - Embedded Systems Design" .
-<http://www.gra.fo/publication/resource/journals_Journal_of_Systems_Architecture___Embedded_Systems_Design> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Journal> .
-<http://www.gra.fo/publication/resource/journals_Electr__Notes_Theor__Comput__Sci_> <http://www.gra.fo/publication/property/journalPublisher> "Elsevier" .
-<http://www.gra.fo/publication/resource/journals_Electr__Notes_Theor__Comput__Sci_> <http://www.gra.fo/publication/property/handled_byj> <http://www.gra.fo/publication/resource/Debbie_Dunn> .
-<http://www.gra.fo/publication/resource/journals_Electr__Notes_Theor__Comput__Sci_> <http://www.gra.fo/publication/property/journalName> "Electr. Notes Theor. Comput. Sci." .
-<http://www.gra.fo/publication/resource/journals_Electr__Notes_Theor__Comput__Sci_> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Journal> .
-<http://www.gra.fo/publication/resource/journals_J__Symb__Comput_> <http://www.gra.fo/publication/property/journalPublisher> "Elsevier" .
-<http://www.gra.fo/publication/resource/journals_J__Symb__Comput_> <http://www.gra.fo/publication/property/handled_byj> <http://www.gra.fo/publication/resource/Vladimir_Yu__Sazonov> .
-<http://www.gra.fo/publication/resource/journals_J__Symb__Comput_> <http://www.gra.fo/publication/property/journalName> "J. Symb. Comput." .
-<http://www.gra.fo/publication/resource/journals_J__Symb__Comput_> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Journal> .
-<http://www.gra.fo/publication/resource/journals_Commun__ACM> <http://www.gra.fo/publication/property/handled_byj> <http://www.gra.fo/publication/resource/Richard_Hedges> .
-<http://www.gra.fo/publication/resource/journals_Commun__ACM> <http://www.gra.fo/publication/property/handled_byj> <http://www.gra.fo/publication/resource/E__A__Hershey> .
-<http://www.gra.fo/publication/resource/journals_Commun__ACM> <http://www.gra.fo/publication/property/handled_byj> <http://www.gra.fo/publication/resource/Antonio_Albano> .
-<http://www.gra.fo/publication/resource/journals_Commun__ACM> <http://www.gra.fo/publication/property/handled_byj> <http://www.gra.fo/publication/resource/Rajiv_Mehrotra> .
-<http://www.gra.fo/publication/resource/journals_Commun__ACM> <http://www.gra.fo/publication/property/handled_byj> <http://www.gra.fo/publication/resource/Pratul_Dublish> .
-<http://www.gra.fo/publication/resource/journals_Commun__ACM> <http://www.gra.fo/publication/property/journalName> "Commun. ACM" .
-<http://www.gra.fo/publication/resource/journals_Commun__ACM> <http://www.gra.fo/publication/property/journalPublisher> "Elsevier" .
-<http://www.gra.fo/publication/resource/journals_Commun__ACM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Journal> .
-<http://www.gra.fo/publication/resource/journals_Commun__ACM> <http://www.gra.fo/publication/property/handled_byj> <http://www.gra.fo/publication/resource/Mark_Ireton> .
-<http://www.gra.fo/publication/resource/journals_Commun__ACM> <http://www.gra.fo/publication/property/handled_byj> <http://www.gra.fo/publication/resource/James_Renegar> .
-<http://www.gra.fo/publication/resource/journals_Commun__ACM> <http://www.gra.fo/publication/property/handled_byj> <http://www.gra.fo/publication/resource/M__Rajini_Kanth> .
-<http://www.gra.fo/publication/resource/journals_Commun__ACM> <http://www.gra.fo/publication/property/handled_byj> <http://www.gra.fo/publication/resource/Vivek_Bansal> .
-<http://www.gra.fo/publication/resource/journals_BMC_Systems_Biology> <http://www.gra.fo/publication/property/journalPublisher> "Elsevier" .
-<http://www.gra.fo/publication/resource/journals_BMC_Systems_Biology> <http://www.gra.fo/publication/property/handled_byj> <http://www.gra.fo/publication/resource/Shyamsundar_Sarkar> .
-<http://www.gra.fo/publication/resource/journals_BMC_Systems_Biology> <http://www.gra.fo/publication/property/journalName> "BMC Systems Biology" .
-<http://www.gra.fo/publication/resource/journals_BMC_Systems_Biology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Journal> .
-<http://www.gra.fo/publication/resource/journals_Signal_Processing> <http://www.gra.fo/publication/property/journalPublisher> "Elsevier" .
-<http://www.gra.fo/publication/resource/journals_Signal_Processing> <http://www.gra.fo/publication/property/handled_byj> <http://www.gra.fo/publication/resource/Christian_Stary> .
-<http://www.gra.fo/publication/resource/journals_Signal_Processing> <http://www.gra.fo/publication/property/journalName> "Signal Processing" .
-<http://www.gra.fo/publication/resource/journals_Signal_Processing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Journal> .
-<http://www.gra.fo/publication/resource/journals_IEEE_Data_Eng__Bull_> <http://www.gra.fo/publication/property/handled_byj> <http://www.gra.fo/publication/resource/William_O_Connell> .
-<http://www.gra.fo/publication/resource/journals_IEEE_Data_Eng__Bull_> <http://www.gra.fo/publication/property/handled_byj> <http://www.gra.fo/publication/resource/Pui_Ng> .
-<http://www.gra.fo/publication/resource/journals_IEEE_Data_Eng__Bull_> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Journal> .
-<http://www.gra.fo/publication/resource/journals_IEEE_Data_Eng__Bull_> <http://www.gra.fo/publication/property/handled_byj> <http://www.gra.fo/publication/resource/Donald_A__Varvel> .
-<http://www.gra.fo/publication/resource/journals_IEEE_Data_Eng__Bull_> <http://www.gra.fo/publication/property/handled_byj> <http://www.gra.fo/publication/resource/André_M__Van_Tilborg> .
-<http://www.gra.fo/publication/resource/journals_IEEE_Data_Eng__Bull_> <http://www.gra.fo/publication/property/handled_byj> <http://www.gra.fo/publication/resource/Laura_E__Dusterhoft> .
-<http://www.gra.fo/publication/resource/journals_IEEE_Data_Eng__Bull_> <http://www.gra.fo/publication/property/handled_byj> <http://www.gra.fo/publication/resource/Walter_F__Tichy> .
-<http://www.gra.fo/publication/resource/journals_IEEE_Data_Eng__Bull_> <http://www.gra.fo/publication/property/handled_byj> <http://www.gra.fo/publication/resource/Timothy_Griffin> .
-<http://www.gra.fo/publication/resource/journals_IEEE_Data_Eng__Bull_> <http://www.gra.fo/publication/property/handled_byj> <http://www.gra.fo/publication/resource/Bahram_Niamir> .
-<http://www.gra.fo/publication/resource/journals_IEEE_Data_Eng__Bull_> <http://www.gra.fo/publication/property/journalPublisher> "IEEE" .
-<http://www.gra.fo/publication/resource/journals_IEEE_Data_Eng__Bull_> <http://www.gra.fo/publication/property/journalName> "IEEE Data Eng. Bull." .
-<http://www.gra.fo/publication/resource/journals_IEEE_Data_Eng__Bull_> <http://www.gra.fo/publication/property/handled_byj> <http://www.gra.fo/publication/resource/Lawrence_McNamee> .
-<http://www.gra.fo/publication/resource/journals_Journal_of_Biomedical_Informatics> <http://www.gra.fo/publication/property/journalPublisher> "Elsevier" .
-<http://www.gra.fo/publication/resource/journals_Journal_of_Biomedical_Informatics> <http://www.gra.fo/publication/property/handled_byj> <http://www.gra.fo/publication/resource/Yoshitomo_Osawa> .
-<http://www.gra.fo/publication/resource/journals_Journal_of_Biomedical_Informatics> <http://www.gra.fo/publication/property/journalName> "Journal of Biomedical Informatics" .
-<http://www.gra.fo/publication/resource/journals_Journal_of_Biomedical_Informatics> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Journal> .
-<http://www.gra.fo/publication/resource/journals_Computers___Education> <http://www.gra.fo/publication/property/journalPublisher> "Elsevier" .
-<http://www.gra.fo/publication/resource/journals_Computers___Education> <http://www.gra.fo/publication/property/handled_byj> <http://www.gra.fo/publication/resource/Rainer_Hoch> .
-<http://www.gra.fo/publication/resource/journals_Computers___Education> <http://www.gra.fo/publication/property/journalName> "Computers & Education" .
-<http://www.gra.fo/publication/resource/journals_Computers___Education> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Journal> .
-<http://www.gra.fo/publication/resource/journals_Appl__Math__Lett_> <http://www.gra.fo/publication/property/journalPublisher> "Elsevier" .
-<http://www.gra.fo/publication/resource/journals_Appl__Math__Lett_> <http://www.gra.fo/publication/property/handled_byj> <http://www.gra.fo/publication/resource/William_I__Chang> .
-<http://www.gra.fo/publication/resource/journals_Appl__Math__Lett_> <http://www.gra.fo/publication/property/journalName> "Appl. Math. Lett." .
-<http://www.gra.fo/publication/resource/journals_Appl__Math__Lett_> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Journal> .
-<http://www.gra.fo/publication/resource/journals_I__J__Medical_Informatics> <http://www.gra.fo/publication/property/journalPublisher> "Elsevier" .
-<http://www.gra.fo/publication/resource/journals_I__J__Medical_Informatics> <http://www.gra.fo/publication/property/handled_byj> <http://www.gra.fo/publication/resource/Leon_D__Wald> .
-<http://www.gra.fo/publication/resource/journals_I__J__Medical_Informatics> <http://www.gra.fo/publication/property/journalName> "I. J. Medical Informatics" .
-<http://www.gra.fo/publication/resource/journals_I__J__Medical_Informatics> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Journal> .
-<http://www.gra.fo/publication/resource/journals_Robotics_and_Autonomous_Systems> <http://www.gra.fo/publication/property/journalPublisher> "Elsevier" .
-<http://www.gra.fo/publication/resource/journals_Robotics_and_Autonomous_Systems> <http://www.gra.fo/publication/property/handled_byj> <http://www.gra.fo/publication/resource/Indrajit_Ray> .
-<http://www.gra.fo/publication/resource/journals_Robotics_and_Autonomous_Systems> <http://www.gra.fo/publication/property/journalName> "Robotics and Autonomous Systems" .
-<http://www.gra.fo/publication/resource/journals_Robotics_and_Autonomous_Systems> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Journal> .
-<http://www.gra.fo/publication/resource/journals_Informatik_Spektrum> <http://www.gra.fo/publication/property/journalPublisher> "Elsevier" .
-<http://www.gra.fo/publication/resource/journals_Informatik_Spektrum> <http://www.gra.fo/publication/property/handled_byj> <http://www.gra.fo/publication/resource/Miroslaw_Malek> .
-<http://www.gra.fo/publication/resource/journals_Informatik_Spektrum> <http://www.gra.fo/publication/property/journalName> "Informatik Spektrum" .
-<http://www.gra.fo/publication/resource/journals_Informatik_Spektrum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Journal> .
-<http://www.gra.fo/publication/resource/journals_J__Symb__Log_> <http://www.gra.fo/publication/property/journalPublisher> "Elsevier" .
-<http://www.gra.fo/publication/resource/journals_J__Symb__Log_> <http://www.gra.fo/publication/property/handled_byj> <http://www.gra.fo/publication/resource/Maguelonne_Teisseire> .
-<http://www.gra.fo/publication/resource/journals_J__Symb__Log_> <http://www.gra.fo/publication/property/journalName> "J. Symb. Log." .
-<http://www.gra.fo/publication/resource/journals_J__Symb__Log_> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Journal> .
-<http://www.gra.fo/publication/resource/journals_Computers___Mathematics_with_Applications> <http://www.gra.fo/publication/property/journalPublisher> "Elsevier" .
-<http://www.gra.fo/publication/resource/journals_Computers___Mathematics_with_Applications> <http://www.gra.fo/publication/property/handled_byj> <http://www.gra.fo/publication/resource/Svetlozar_Nestorov> .
-<http://www.gra.fo/publication/resource/journals_Computers___Mathematics_with_Applications> <http://www.gra.fo/publication/property/journalName> "Computers & Mathematics with Applications" .
-<http://www.gra.fo/publication/resource/journals_Computers___Mathematics_with_Applications> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Journal> .
-<http://www.gra.fo/publication/resource/journals_ACM_Comput__Surv_> <http://www.gra.fo/publication/property/handled_byj> <http://www.gra.fo/publication/resource/Jia_Ling_Koh> .
-<http://www.gra.fo/publication/resource/journals_ACM_Comput__Surv_> <http://www.gra.fo/publication/property/handled_byj> <http://www.gra.fo/publication/resource/Donald_Perlis> .
-<http://www.gra.fo/publication/resource/journals_ACM_Comput__Surv_> <http://www.gra.fo/publication/property/handled_byj> <http://www.gra.fo/publication/resource/Tian_Zhang> .
-<http://www.gra.fo/publication/resource/journals_ACM_Comput__Surv_> <http://www.gra.fo/publication/property/handled_byj> <http://www.gra.fo/publication/resource/Thomas_Hardjono> .
-<http://www.gra.fo/publication/resource/journals_ACM_Comput__Surv_> <http://www.gra.fo/publication/property/journalName> "ACM Comput. Surv." .
-<http://www.gra.fo/publication/resource/journals_ACM_Comput__Surv_> <http://www.gra.fo/publication/property/handled_byj> <http://www.gra.fo/publication/resource/Silvana_Castano> .
-<http://www.gra.fo/publication/resource/journals_ACM_Comput__Surv_> <http://www.gra.fo/publication/property/handled_byj> <http://www.gra.fo/publication/resource/David_B__Kemp> .
-<http://www.gra.fo/publication/resource/journals_ACM_Comput__Surv_> <http://www.gra.fo/publication/property/handled_byj> <http://www.gra.fo/publication/resource/Carmel_Domshlak> .
-<http://www.gra.fo/publication/resource/journals_ACM_Comput__Surv_> <http://www.gra.fo/publication/property/handled_byj> <http://www.gra.fo/publication/resource/Eyk_Hildebrandt> .
-<http://www.gra.fo/publication/resource/journals_ACM_Comput__Surv_> <http://www.gra.fo/publication/property/handled_byj> <http://www.gra.fo/publication/resource/Yuri_Breitbart> .
-<http://www.gra.fo/publication/resource/journals_ACM_Comput__Surv_> <http://www.gra.fo/publication/property/handled_byj> <http://www.gra.fo/publication/resource/Henry_F__Ledgard> .
-<http://www.gra.fo/publication/resource/journals_ACM_Comput__Surv_> <http://www.gra.fo/publication/property/handled_byj> <http://www.gra.fo/publication/resource/Clifford_Brunk> .
-<http://www.gra.fo/publication/resource/journals_ACM_Comput__Surv_> <http://www.gra.fo/publication/property/handled_byj> <http://www.gra.fo/publication/resource/Yoon_J__Lee> .
-<http://www.gra.fo/publication/resource/journals_ACM_Comput__Surv_> <http://www.gra.fo/publication/property/handled_byj> <http://www.gra.fo/publication/resource/David_Myers> .
-<http://www.gra.fo/publication/resource/journals_ACM_Comput__Surv_> <http://www.gra.fo/publication/property/handled_byj> <http://www.gra.fo/publication/resource/Nina_Edelweiss> .
-<http://www.gra.fo/publication/resource/journals_ACM_Comput__Surv_> <http://www.gra.fo/publication/property/handled_byj> <http://www.gra.fo/publication/resource/Fernando_J__Corbató> .
-<http://www.gra.fo/publication/resource/journals_ACM_Comput__Surv_> <http://www.gra.fo/publication/property/handled_byj> <http://www.gra.fo/publication/resource/Yong_Ik_Yoon_____> .
-<http://www.gra.fo/publication/resource/journals_ACM_Comput__Surv_> <http://www.gra.fo/publication/property/handled_byj> <http://www.gra.fo/publication/resource/Harald_Kosch> .
-<http://www.gra.fo/publication/resource/journals_ACM_Comput__Surv_> <http://www.gra.fo/publication/property/handled_byj> <http://www.gra.fo/publication/resource/Yooshin_Lee> .
-<http://www.gra.fo/publication/resource/journals_ACM_Comput__Surv_> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Journal> .
-<http://www.gra.fo/publication/resource/journals_ACM_Comput__Surv_> <http://www.gra.fo/publication/property/journalPublisher> "ACM" .
-<http://www.gra.fo/publication/resource/journals_ACM_Comput__Surv_> <http://www.gra.fo/publication/property/handled_byj> <http://www.gra.fo/publication/resource/James_W__Hunt> .
-<http://www.gra.fo/publication/resource/journals_ACM_Comput__Surv_> <http://www.gra.fo/publication/property/handled_byj> <http://www.gra.fo/publication/resource/Anany_Levitin> .
-<http://www.gra.fo/publication/resource/journals_ACM_Comput__Surv_> <http://www.gra.fo/publication/property/handled_byj> <http://www.gra.fo/publication/resource/Ivor_P__Page> .
-<http://www.gra.fo/publication/resource/journals_Applied_Mathematics_and_Computation> <http://www.gra.fo/publication/property/journalPublisher> "Elsevier" .
-<http://www.gra.fo/publication/resource/journals_Applied_Mathematics_and_Computation> <http://www.gra.fo/publication/property/handled_byj> <http://www.gra.fo/publication/resource/J__M__Akkermans> .
-<http://www.gra.fo/publication/resource/journals_Applied_Mathematics_and_Computation> <http://www.gra.fo/publication/property/journalName> "Applied Mathematics and Computation" .
-<http://www.gra.fo/publication/resource/journals_Applied_Mathematics_and_Computation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Journal> .
-<http://www.gra.fo/publication/resource/journals_SIGMOD_Record> <http://www.gra.fo/publication/property/journalName> "SIGMOD Record" .
-<http://www.gra.fo/publication/resource/journals_SIGMOD_Record> <http://www.gra.fo/publication/property/handled_byj> <http://www.gra.fo/publication/resource/Philip_C__Treleaven> .
-<http://www.gra.fo/publication/resource/journals_SIGMOD_Record> <http://www.gra.fo/publication/property/handled_byj> <http://www.gra.fo/publication/resource/Arne_Sølvberg> .
-<http://www.gra.fo/publication/resource/journals_SIGMOD_Record> <http://www.gra.fo/publication/property/handled_byj> <http://www.gra.fo/publication/resource/Jerry_Waxman> .
-<http://www.gra.fo/publication/resource/journals_SIGMOD_Record> <http://www.gra.fo/publication/property/handled_byj> <http://www.gra.fo/publication/resource/Pedro_I__Rivera_Vega> .
-<http://www.gra.fo/publication/resource/journals_SIGMOD_Record> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Journal> .
-<http://www.gra.fo/publication/resource/journals_SIGMOD_Record> <http://www.gra.fo/publication/property/handled_byj> <http://www.gra.fo/publication/resource/Toshihide_Ibaraki> .
-<http://www.gra.fo/publication/resource/journals_SIGMOD_Record> <http://www.gra.fo/publication/property/handled_byj> <http://www.gra.fo/publication/resource/Arthur_Evans_Jr_> .
-<http://www.gra.fo/publication/resource/journals_SIGMOD_Record> <http://www.gra.fo/publication/property/journalPublisher> "SIGMOD" .
-<http://www.gra.fo/publication/resource/journals_SIGMOD_Record> <http://www.gra.fo/publication/property/handled_byj> <http://www.gra.fo/publication/resource/Pierre_America> .
-<http://www.gra.fo/publication/resource/journals_SIGMOD_Record> <http://www.gra.fo/publication/property/handled_byj> <http://www.gra.fo/publication/resource/Michael_Wilens> .
-<http://www.gra.fo/publication/resource/journals_ACM_Trans__Database_Syst_> <http://www.gra.fo/publication/property/handled_byj> <http://www.gra.fo/publication/resource/Lawrence_D__Rogers> .
-<http://www.gra.fo/publication/resource/journals_ACM_Trans__Database_Syst_> <http://www.gra.fo/publication/property/handled_byj> <http://www.gra.fo/publication/resource/William_C__Athas> .
-<http://www.gra.fo/publication/resource/journals_ACM_Trans__Database_Syst_> <http://www.gra.fo/publication/property/handled_byj> <http://www.gra.fo/publication/resource/Yin_Yin_Wong> .
-<http://www.gra.fo/publication/resource/journals_ACM_Trans__Database_Syst_> <http://www.gra.fo/publication/property/handled_byj> <http://www.gra.fo/publication/resource/Manuel_García_Solaco> .
-<http://www.gra.fo/publication/resource/journals_ACM_Trans__Database_Syst_> <http://www.gra.fo/publication/property/handled_byj> <http://www.gra.fo/publication/resource/V__S__Moore> .
-<http://www.gra.fo/publication/resource/journals_ACM_Trans__Database_Syst_> <http://www.gra.fo/publication/property/handled_byj> <http://www.gra.fo/publication/resource/J__Richard_Swenson> .
-<http://www.gra.fo/publication/resource/journals_ACM_Trans__Database_Syst_> <http://www.gra.fo/publication/property/handled_byj> <http://www.gra.fo/publication/resource/Tat_Seng_Chua> .
-<http://www.gra.fo/publication/resource/journals_ACM_Trans__Database_Syst_> <http://www.gra.fo/publication/property/handled_byj> <http://www.gra.fo/publication/resource/Kenichi_Hagihara> .
-<http://www.gra.fo/publication/resource/journals_ACM_Trans__Database_Syst_> <http://www.gra.fo/publication/property/handled_byj> <http://www.gra.fo/publication/resource/Solomon_W__Golomb> .
-<http://www.gra.fo/publication/resource/journals_ACM_Trans__Database_Syst_> <http://www.gra.fo/publication/property/handled_byj> <http://www.gra.fo/publication/resource/James_W__Brown> .
-<http://www.gra.fo/publication/resource/journals_ACM_Trans__Database_Syst_> <http://www.gra.fo/publication/property/handled_byj> <http://www.gra.fo/publication/resource/Subbu_N__Subramanian> .
-<http://www.gra.fo/publication/resource/journals_ACM_Trans__Database_Syst_> <http://www.gra.fo/publication/property/handled_byj> <http://www.gra.fo/publication/resource/Agma_J__M__Traina> .
-<http://www.gra.fo/publication/resource/journals_ACM_Trans__Database_Syst_> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Journal> .
-<http://www.gra.fo/publication/resource/journals_ACM_Trans__Database_Syst_> <http://www.gra.fo/publication/property/handled_byj> <http://www.gra.fo/publication/resource/Y__Hebrail> .
-<http://www.gra.fo/publication/resource/journals_ACM_Trans__Database_Syst_> <http://www.gra.fo/publication/property/journalPublisher> "ACM" .
-<http://www.gra.fo/publication/resource/journals_ACM_Trans__Database_Syst_> <http://www.gra.fo/publication/property/handled_byj> <http://www.gra.fo/publication/resource/Ryuichi_Ogawa> .
-<http://www.gra.fo/publication/resource/journals_ACM_Trans__Database_Syst_> <http://www.gra.fo/publication/property/handled_byj> <http://www.gra.fo/publication/resource/Michael_Penner> .
-<http://www.gra.fo/publication/resource/journals_ACM_Trans__Database_Syst_> <http://www.gra.fo/publication/property/handled_byj> <http://www.gra.fo/publication/resource/Lawrence_V__Saxton> .
-<http://www.gra.fo/publication/resource/journals_ACM_Trans__Database_Syst_> <http://www.gra.fo/publication/property/handled_byj> <http://www.gra.fo/publication/resource/Ke_Wang_____> .
-<http://www.gra.fo/publication/resource/journals_ACM_Trans__Database_Syst_> <http://www.gra.fo/publication/property/handled_byj> <http://www.gra.fo/publication/resource/Michael_J__Jipping> .
-<http://www.gra.fo/publication/resource/journals_ACM_Trans__Database_Syst_> <http://www.gra.fo/publication/property/handled_byj> <http://www.gra.fo/publication/resource/Karen_Botnich> .
-<http://www.gra.fo/publication/resource/journals_ACM_Trans__Database_Syst_> <http://www.gra.fo/publication/property/handled_byj> <http://www.gra.fo/publication/resource/Claude_Kirchner> .
-<http://www.gra.fo/publication/resource/journals_ACM_Trans__Database_Syst_> <http://www.gra.fo/publication/property/handled_byj> <http://www.gra.fo/publication/resource/Gianfranco_Rossi> .
-<http://www.gra.fo/publication/resource/journals_ACM_Trans__Database_Syst_> <http://www.gra.fo/publication/property/handled_byj> <http://www.gra.fo/publication/resource/David_B__Winkler> .
-<http://www.gra.fo/publication/resource/journals_ACM_Trans__Database_Syst_> <http://www.gra.fo/publication/property/journalName> "ACM Trans. Database Syst." .
-<http://www.gra.fo/publication/resource/journals_ACM_Trans__Database_Syst_> <http://www.gra.fo/publication/property/handled_byj> <http://www.gra.fo/publication/resource/Wei_Li> .
-<http://www.gra.fo/publication/resource/journals_ACM_Trans__Database_Syst_> <http://www.gra.fo/publication/property/handled_byj> <http://www.gra.fo/publication/resource/Fenghua_Yu> .
-<http://www.gra.fo/publication/resource/journals_Computing> <http://www.gra.fo/publication/property/journalPublisher> "Elsevier" .
-<http://www.gra.fo/publication/resource/journals_Computing> <http://www.gra.fo/publication/property/handled_byj> <http://www.gra.fo/publication/resource/Michael_O_Donnell> .
-<http://www.gra.fo/publication/resource/journals_Computing> <http://www.gra.fo/publication/property/journalName> "Computing" .
-<http://www.gra.fo/publication/resource/journals_Computing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Journal> .
-<http://www.gra.fo/publication/resource/journals_Pattern_Recognition_Letters> <http://www.gra.fo/publication/property/handled_byj> <http://www.gra.fo/publication/resource/Michael_W__Condry> .
-<http://www.gra.fo/publication/resource/journals_Pattern_Recognition_Letters> <http://www.gra.fo/publication/property/journalPublisher> "Elsevier" .
-<http://www.gra.fo/publication/resource/journals_Pattern_Recognition_Letters> <http://www.gra.fo/publication/property/handled_byj> <http://www.gra.fo/publication/resource/Manfred_Pflügl> .
-<http://www.gra.fo/publication/resource/journals_Pattern_Recognition_Letters> <http://www.gra.fo/publication/property/journalName> "Pattern Recognition Letters" .
-<http://www.gra.fo/publication/resource/journals_Pattern_Recognition_Letters> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Journal> .
-<http://www.gra.fo/publication/resource/journals_ACM_SIGMOD_Digital_Review> <http://www.gra.fo/publication/property/handled_byj> <http://www.gra.fo/publication/resource/Karen_E__Lochbaum> .
-<http://www.gra.fo/publication/resource/journals_ACM_SIGMOD_Digital_Review> <http://www.gra.fo/publication/property/handled_byj> <http://www.gra.fo/publication/resource/Peter_A__Bloniarz> .
-<http://www.gra.fo/publication/resource/journals_ACM_SIGMOD_Digital_Review> <http://www.gra.fo/publication/property/journalPublisher> "ACM" .
-<http://www.gra.fo/publication/resource/journals_ACM_SIGMOD_Digital_Review> <http://www.gra.fo/publication/property/handled_byj> <http://www.gra.fo/publication/resource/Michael_Minock> .
-<http://www.gra.fo/publication/resource/journals_ACM_SIGMOD_Digital_Review> <http://www.gra.fo/publication/property/journalName> "ACM SIGMOD Digital Review" .
-<http://www.gra.fo/publication/resource/journals_ACM_SIGMOD_Digital_Review> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Journal> .
-<http://www.gra.fo/publication/resource/journals_Finance_and_Stochastics> <http://www.gra.fo/publication/property/journalPublisher> "Elsevier" .
-<http://www.gra.fo/publication/resource/journals_Finance_and_Stochastics> <http://www.gra.fo/publication/property/handled_byj> <http://www.gra.fo/publication/resource/Graham_Eddy> .
-<http://www.gra.fo/publication/resource/journals_Finance_and_Stochastics> <http://www.gra.fo/publication/property/journalName> "Finance and Stochastics" .
-<http://www.gra.fo/publication/resource/journals_Finance_and_Stochastics> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Journal> .
-<http://www.gra.fo/publication/resource/journals_Neural_Computing_and_Applications> <http://www.gra.fo/publication/property/journalPublisher> "Elsevier" .
-<http://www.gra.fo/publication/resource/journals_Neural_Computing_and_Applications> <http://www.gra.fo/publication/property/handled_byj> <http://www.gra.fo/publication/resource/Yuji_Wada> .
-<http://www.gra.fo/publication/resource/journals_Neural_Computing_and_Applications> <http://www.gra.fo/publication/property/journalName> "Neural Computing and Applications" .
-<http://www.gra.fo/publication/resource/journals_Neural_Computing_and_Applications> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Journal> .
-<http://www.gra.fo/publication/resource/journals_Applied_Categorical_Structures> <http://www.gra.fo/publication/property/journalPublisher> "Springer" .
-<http://www.gra.fo/publication/resource/journals_Applied_Categorical_Structures> <http://www.gra.fo/publication/property/handled_byj> <http://www.gra.fo/publication/resource/Adam_J__Grove> .
-<http://www.gra.fo/publication/resource/journals_Applied_Categorical_Structures> <http://www.gra.fo/publication/property/journalName> "Applied Categorical Structures" .
-<http://www.gra.fo/publication/resource/journals_Applied_Categorical_Structures> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Journal> .
-<http://www.gra.fo/publication/resource/journals_Expert_Syst__Appl_> <http://www.gra.fo/publication/property/handled_byj> <http://www.gra.fo/publication/resource/Evgueni_N__Smirnov> .
-<http://www.gra.fo/publication/resource/journals_Expert_Syst__Appl_> <http://www.gra.fo/publication/property/handled_byj> <http://www.gra.fo/publication/resource/Judy_A__Townley> .
-<http://www.gra.fo/publication/resource/journals_Expert_Syst__Appl_> <http://www.gra.fo/publication/property/journalPublisher> "Elsevier" .
-<http://www.gra.fo/publication/resource/journals_Expert_Syst__Appl_> <http://www.gra.fo/publication/property/handled_byj> <http://www.gra.fo/publication/resource/F__Fernandez> .
-<http://www.gra.fo/publication/resource/journals_Expert_Syst__Appl_> <http://www.gra.fo/publication/property/journalName> "Expert Syst. Appl." .
-<http://www.gra.fo/publication/resource/journals_Expert_Syst__Appl_> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Journal> .
-<http://www.gra.fo/publication/resource/journals_Computational_Statistics___Data_Analysis> <http://www.gra.fo/publication/property/journalPublisher> "Elsevier" .
-<http://www.gra.fo/publication/resource/journals_Computational_Statistics___Data_Analysis> <http://www.gra.fo/publication/property/handled_byj> <http://www.gra.fo/publication/resource/M__Samy_Gamal_Eldin> .
-<http://www.gra.fo/publication/resource/journals_Computational_Statistics___Data_Analysis> <http://www.gra.fo/publication/property/journalName> "Computational Statistics & Data Analysis" .
-<http://www.gra.fo/publication/resource/journals_Computational_Statistics___Data_Analysis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Journal> .
+<http://www.gra.fo/publication/journals_Informatik_Spektrum> <http://www.gra.fo/publication/journalPublisher> "Elsevier" .
+<http://www.gra.fo/publication/journals_Informatik_Spektrum> <http://www.gra.fo/publication/handled_byj> <http://www.gra.fo/publication/James_C__French> .
+<http://www.gra.fo/publication/journals_Informatik_Spektrum> <http://www.gra.fo/publication/journalName> "Informatik Spektrum" .
+<http://www.gra.fo/publication/journals_Informatik_Spektrum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Journal> .
+<http://www.gra.fo/publication/journals_Signal_Processing> <http://www.gra.fo/publication/journalPublisher> "Elsevier" .
+<http://www.gra.fo/publication/journals_Signal_Processing> <http://www.gra.fo/publication/handled_byj> <http://www.gra.fo/publication/Masahiro_Tsuchiya> .
+<http://www.gra.fo/publication/journals_Signal_Processing> <http://www.gra.fo/publication/journalName> "Signal Processing" .
+<http://www.gra.fo/publication/journals_Signal_Processing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Journal> .
+<http://www.gra.fo/publication/journals_Neural_Computing_and_Applications> <http://www.gra.fo/publication/journalPublisher> "Elsevier" .
+<http://www.gra.fo/publication/journals_Neural_Computing_and_Applications> <http://www.gra.fo/publication/handled_byj> <http://www.gra.fo/publication/N__Bui_Quang> .
+<http://www.gra.fo/publication/journals_Neural_Computing_and_Applications> <http://www.gra.fo/publication/journalName> "Neural Computing and Applications" .
+<http://www.gra.fo/publication/journals_Neural_Computing_and_Applications> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Journal> .
+<http://www.gra.fo/publication/journals_ACM_Trans__Database_Syst_> <http://www.gra.fo/publication/handled_byj> <http://www.gra.fo/publication/Roger_Kumpf> .
+<http://www.gra.fo/publication/journals_ACM_Trans__Database_Syst_> <http://www.gra.fo/publication/handled_byj> <http://www.gra.fo/publication/Richard_B__Bunt> .
+<http://www.gra.fo/publication/journals_ACM_Trans__Database_Syst_> <http://www.gra.fo/publication/journalPublisher> "ACM" .
+<http://www.gra.fo/publication/journals_ACM_Trans__Database_Syst_> <http://www.gra.fo/publication/handled_byj> <http://www.gra.fo/publication/Michael_H__Paleczny> .
+<http://www.gra.fo/publication/journals_ACM_Trans__Database_Syst_> <http://www.gra.fo/publication/handled_byj> <http://www.gra.fo/publication/Stéphane_Demphlous> .
+<http://www.gra.fo/publication/journals_ACM_Trans__Database_Syst_> <http://www.gra.fo/publication/handled_byj> <http://www.gra.fo/publication/Paitoon_Tontiwachwuthikul> .
+<http://www.gra.fo/publication/journals_ACM_Trans__Database_Syst_> <http://www.gra.fo/publication/handled_byj> <http://www.gra.fo/publication/Michinao_Mori> .
+<http://www.gra.fo/publication/journals_ACM_Trans__Database_Syst_> <http://www.gra.fo/publication/handled_byj> <http://www.gra.fo/publication/Helmut_Veith> .
+<http://www.gra.fo/publication/journals_ACM_Trans__Database_Syst_> <http://www.gra.fo/publication/handled_byj> <http://www.gra.fo/publication/Prakash_G__Hebalkar> .
+<http://www.gra.fo/publication/journals_ACM_Trans__Database_Syst_> <http://www.gra.fo/publication/handled_byj> <http://www.gra.fo/publication/M__Nishimura> .
+<http://www.gra.fo/publication/journals_ACM_Trans__Database_Syst_> <http://www.gra.fo/publication/handled_byj> <http://www.gra.fo/publication/Dave_Simonson> .
+<http://www.gra.fo/publication/journals_ACM_Trans__Database_Syst_> <http://www.gra.fo/publication/handled_byj> <http://www.gra.fo/publication/Alison_L__Kidd> .
+<http://www.gra.fo/publication/journals_ACM_Trans__Database_Syst_> <http://www.gra.fo/publication/handled_byj> <http://www.gra.fo/publication/Pascal_André> .
+<http://www.gra.fo/publication/journals_ACM_Trans__Database_Syst_> <http://www.gra.fo/publication/handled_byj> <http://www.gra.fo/publication/S__Saunders> .
+<http://www.gra.fo/publication/journals_ACM_Trans__Database_Syst_> <http://www.gra.fo/publication/handled_byj> <http://www.gra.fo/publication/Kensaku_Yamamoto> .
+<http://www.gra.fo/publication/journals_ACM_Trans__Database_Syst_> <http://www.gra.fo/publication/handled_byj> <http://www.gra.fo/publication/Panagiotis_Georgiadis_____> .
+<http://www.gra.fo/publication/journals_ACM_Trans__Database_Syst_> <http://www.gra.fo/publication/handled_byj> <http://www.gra.fo/publication/Sebastiaan_H__von_Solms> .
+<http://www.gra.fo/publication/journals_ACM_Trans__Database_Syst_> <http://www.gra.fo/publication/handled_byj> <http://www.gra.fo/publication/Claudio_Esperança> .
+<http://www.gra.fo/publication/journals_ACM_Trans__Database_Syst_> <http://www.gra.fo/publication/handled_byj> <http://www.gra.fo/publication/Robert_M__Keller> .
+<http://www.gra.fo/publication/journals_ACM_Trans__Database_Syst_> <http://www.gra.fo/publication/handled_byj> <http://www.gra.fo/publication/Mavis_K__Lee> .
+<http://www.gra.fo/publication/journals_ACM_Trans__Database_Syst_> <http://www.gra.fo/publication/handled_byj> <http://www.gra.fo/publication/Gunter_Saake> .
+<http://www.gra.fo/publication/journals_ACM_Trans__Database_Syst_> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Journal> .
+<http://www.gra.fo/publication/journals_ACM_Trans__Database_Syst_> <http://www.gra.fo/publication/handled_byj> <http://www.gra.fo/publication/Nicole_Bidoit> .
+<http://www.gra.fo/publication/journals_ACM_Trans__Database_Syst_> <http://www.gra.fo/publication/handled_byj> <http://www.gra.fo/publication/Nada_Matic> .
+<http://www.gra.fo/publication/journals_ACM_Trans__Database_Syst_> <http://www.gra.fo/publication/journalName> "ACM Trans. Database Syst." .
+<http://www.gra.fo/publication/journals_ACM_Trans__Database_Syst_> <http://www.gra.fo/publication/handled_byj> <http://www.gra.fo/publication/Hui_Lei> .
+<http://www.gra.fo/publication/journals_ACM_Trans__Database_Syst_> <http://www.gra.fo/publication/handled_byj> <http://www.gra.fo/publication/Sanjive_Agarwala> .
+<http://www.gra.fo/publication/journals_Pattern_Recognition_Letters> <http://www.gra.fo/publication/handled_byj> <http://www.gra.fo/publication/Ming_Yee_Lai> .
+<http://www.gra.fo/publication/journals_Pattern_Recognition_Letters> <http://www.gra.fo/publication/journalPublisher> "Elsevier" .
+<http://www.gra.fo/publication/journals_Pattern_Recognition_Letters> <http://www.gra.fo/publication/handled_byj> <http://www.gra.fo/publication/John_A__Rushing> .
+<http://www.gra.fo/publication/journals_Pattern_Recognition_Letters> <http://www.gra.fo/publication/journalName> "Pattern Recognition Letters" .
+<http://www.gra.fo/publication/journals_Pattern_Recognition_Letters> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Journal> .
+<http://www.gra.fo/publication/journals_Journal_of_Biomedical_Informatics> <http://www.gra.fo/publication/journalPublisher> "Elsevier" .
+<http://www.gra.fo/publication/journals_Journal_of_Biomedical_Informatics> <http://www.gra.fo/publication/handled_byj> <http://www.gra.fo/publication/Peter_Bruell> .
+<http://www.gra.fo/publication/journals_Journal_of_Biomedical_Informatics> <http://www.gra.fo/publication/journalName> "Journal of Biomedical Informatics" .
+<http://www.gra.fo/publication/journals_Journal_of_Biomedical_Informatics> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Journal> .
+<http://www.gra.fo/publication/journals_Journal_of_Systems_Architecture___Embedded_Systems_Design> <http://www.gra.fo/publication/journalPublisher> "Elsevier" .
+<http://www.gra.fo/publication/journals_Journal_of_Systems_Architecture___Embedded_Systems_Design> <http://www.gra.fo/publication/handled_byj> <http://www.gra.fo/publication/Lori_A__Clarke> .
+<http://www.gra.fo/publication/journals_Journal_of_Systems_Architecture___Embedded_Systems_Design> <http://www.gra.fo/publication/journalName> "Journal of Systems Architecture - Embedded Systems Design" .
+<http://www.gra.fo/publication/journals_Journal_of_Systems_Architecture___Embedded_Systems_Design> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Journal> .
+<http://www.gra.fo/publication/journals_Computing> <http://www.gra.fo/publication/journalPublisher> "Elsevier" .
+<http://www.gra.fo/publication/journals_Computing> <http://www.gra.fo/publication/handled_byj> <http://www.gra.fo/publication/T__V__Prabhakar> .
+<http://www.gra.fo/publication/journals_Computing> <http://www.gra.fo/publication/journalName> "Computing" .
+<http://www.gra.fo/publication/journals_Computing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Journal> .
+<http://www.gra.fo/publication/journals_ACM_SIGMOD_Digital_Review> <http://www.gra.fo/publication/handled_byj> <http://www.gra.fo/publication/Dirk_Düllmann> .
+<http://www.gra.fo/publication/journals_ACM_SIGMOD_Digital_Review> <http://www.gra.fo/publication/handled_byj> <http://www.gra.fo/publication/René_Lapyda> .
+<http://www.gra.fo/publication/journals_ACM_SIGMOD_Digital_Review> <http://www.gra.fo/publication/journalPublisher> "ACM" .
+<http://www.gra.fo/publication/journals_ACM_SIGMOD_Digital_Review> <http://www.gra.fo/publication/handled_byj> <http://www.gra.fo/publication/Jacob_A__Abraham> .
+<http://www.gra.fo/publication/journals_ACM_SIGMOD_Digital_Review> <http://www.gra.fo/publication/journalName> "ACM SIGMOD Digital Review" .
+<http://www.gra.fo/publication/journals_ACM_SIGMOD_Digital_Review> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Journal> .
+<http://www.gra.fo/publication/journals_J__Symb__Comput_> <http://www.gra.fo/publication/journalPublisher> "Elsevier" .
+<http://www.gra.fo/publication/journals_J__Symb__Comput_> <http://www.gra.fo/publication/handled_byj> <http://www.gra.fo/publication/Richard_G__Guy> .
+<http://www.gra.fo/publication/journals_J__Symb__Comput_> <http://www.gra.fo/publication/journalName> "J. Symb. Comput." .
+<http://www.gra.fo/publication/journals_J__Symb__Comput_> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Journal> .
+<http://www.gra.fo/publication/journals_SIGMOD_Record> <http://www.gra.fo/publication/handled_byj> <http://www.gra.fo/publication/James_B__Orlin> .
+<http://www.gra.fo/publication/journals_SIGMOD_Record> <http://www.gra.fo/publication/handled_byj> <http://www.gra.fo/publication/Jerald_S__Schwarz> .
+<http://www.gra.fo/publication/journals_SIGMOD_Record> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Journal> .
+<http://www.gra.fo/publication/journals_SIGMOD_Record> <http://www.gra.fo/publication/handled_byj> <http://www.gra.fo/publication/Hae_Young_Bae> .
+<http://www.gra.fo/publication/journals_SIGMOD_Record> <http://www.gra.fo/publication/handled_byj> <http://www.gra.fo/publication/Dave_Wile> .
+<http://www.gra.fo/publication/journals_SIGMOD_Record> <http://www.gra.fo/publication/handled_byj> <http://www.gra.fo/publication/Thomas_O__Binford> .
+<http://www.gra.fo/publication/journals_SIGMOD_Record> <http://www.gra.fo/publication/handled_byj> <http://www.gra.fo/publication/Thomas_Atwood> .
+<http://www.gra.fo/publication/journals_SIGMOD_Record> <http://www.gra.fo/publication/journalName> "SIGMOD Record" .
+<http://www.gra.fo/publication/journals_SIGMOD_Record> <http://www.gra.fo/publication/handled_byj> <http://www.gra.fo/publication/Ivan_E__Sutherland> .
+<http://www.gra.fo/publication/journals_SIGMOD_Record> <http://www.gra.fo/publication/handled_byj> <http://www.gra.fo/publication/Lee_D__Erman> .
+<http://www.gra.fo/publication/journals_SIGMOD_Record> <http://www.gra.fo/publication/journalPublisher> "SIGMOD" .
+<http://www.gra.fo/publication/journals_Computers___Mathematics_with_Applications> <http://www.gra.fo/publication/journalPublisher> "Elsevier" .
+<http://www.gra.fo/publication/journals_Computers___Mathematics_with_Applications> <http://www.gra.fo/publication/handled_byj> <http://www.gra.fo/publication/Gianni_Mainetto> .
+<http://www.gra.fo/publication/journals_Computers___Mathematics_with_Applications> <http://www.gra.fo/publication/journalName> "Computers & Mathematics with Applications" .
+<http://www.gra.fo/publication/journals_Computers___Mathematics_with_Applications> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Journal> .
+<http://www.gra.fo/publication/journals_ACM_Comput__Surv_> <http://www.gra.fo/publication/handled_byj> <http://www.gra.fo/publication/Assaf_Mendelson> .
+<http://www.gra.fo/publication/journals_ACM_Comput__Surv_> <http://www.gra.fo/publication/journalPublisher> "ACM" .
+<http://www.gra.fo/publication/journals_ACM_Comput__Surv_> <http://www.gra.fo/publication/handled_byj> <http://www.gra.fo/publication/Yun_zhou_Zhu> .
+<http://www.gra.fo/publication/journals_ACM_Comput__Surv_> <http://www.gra.fo/publication/journalName> "ACM Comput. Surv." .
+<http://www.gra.fo/publication/journals_ACM_Comput__Surv_> <http://www.gra.fo/publication/handled_byj> <http://www.gra.fo/publication/Jörg_M__Haake> .
+<http://www.gra.fo/publication/journals_ACM_Comput__Surv_> <http://www.gra.fo/publication/handled_byj> <http://www.gra.fo/publication/E__S__Cosloy> .
+<http://www.gra.fo/publication/journals_ACM_Comput__Surv_> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Journal> .
+<http://www.gra.fo/publication/journals_ACM_Comput__Surv_> <http://www.gra.fo/publication/handled_byj> <http://www.gra.fo/publication/Rei_Hamakawa> .
+<http://www.gra.fo/publication/journals_ACM_Comput__Surv_> <http://www.gra.fo/publication/handled_byj> <http://www.gra.fo/publication/R__H__Canaday> .
+<http://www.gra.fo/publication/journals_ACM_Comput__Surv_> <http://www.gra.fo/publication/handled_byj> <http://www.gra.fo/publication/Don_R__Hush> .
+<http://www.gra.fo/publication/journals_ACM_Comput__Surv_> <http://www.gra.fo/publication/handled_byj> <http://www.gra.fo/publication/Vladimir_Zadorozhny> .
+<http://www.gra.fo/publication/journals_ACM_Comput__Surv_> <http://www.gra.fo/publication/handled_byj> <http://www.gra.fo/publication/Elena_Ferrari> .
+<http://www.gra.fo/publication/journals_ACM_Comput__Surv_> <http://www.gra.fo/publication/handled_byj> <http://www.gra.fo/publication/John_D__Gannon> .
+<http://www.gra.fo/publication/journals_ACM_Comput__Surv_> <http://www.gra.fo/publication/handled_byj> <http://www.gra.fo/publication/Mehmet_Altinel> .
+<http://www.gra.fo/publication/journals_ACM_Comput__Surv_> <http://www.gra.fo/publication/handled_byj> <http://www.gra.fo/publication/Charles_R__Severance> .
+<http://www.gra.fo/publication/journals_ACM_Comput__Surv_> <http://www.gra.fo/publication/handled_byj> <http://www.gra.fo/publication/M__A__Nait_Abdallah> .
+<http://www.gra.fo/publication/journals_ACM_Comput__Surv_> <http://www.gra.fo/publication/handled_byj> <http://www.gra.fo/publication/Dieter_Gluche> .
+<http://www.gra.fo/publication/journals_ACM_Comput__Surv_> <http://www.gra.fo/publication/handled_byj> <http://www.gra.fo/publication/Robert_F__Hink> .
+<http://www.gra.fo/publication/journals_ACM_Comput__Surv_> <http://www.gra.fo/publication/handled_byj> <http://www.gra.fo/publication/Melliyal_Annamalai> .
+<http://www.gra.fo/publication/journals_ACM_Comput__Surv_> <http://www.gra.fo/publication/handled_byj> <http://www.gra.fo/publication/Toneluh_Andrew_Yang> .
+<http://www.gra.fo/publication/journals_ACM_Comput__Surv_> <http://www.gra.fo/publication/handled_byj> <http://www.gra.fo/publication/Kiran_Prabhakara> .
+<http://www.gra.fo/publication/journals_ACM_Comput__Surv_> <http://www.gra.fo/publication/handled_byj> <http://www.gra.fo/publication/Joseph_Y__T__Leung> .
+<http://www.gra.fo/publication/journals_ACM_Comput__Surv_> <http://www.gra.fo/publication/handled_byj> <http://www.gra.fo/publication/Donald_N__Streeter> .
+<http://www.gra.fo/publication/journals_ACM_Comput__Surv_> <http://www.gra.fo/publication/handled_byj> <http://www.gra.fo/publication/Paolo_Atzeni> .
+<http://www.gra.fo/publication/journals_BMC_Systems_Biology> <http://www.gra.fo/publication/journalPublisher> "Elsevier" .
+<http://www.gra.fo/publication/journals_BMC_Systems_Biology> <http://www.gra.fo/publication/handled_byj> <http://www.gra.fo/publication/Randal_E__Bryant> .
+<http://www.gra.fo/publication/journals_BMC_Systems_Biology> <http://www.gra.fo/publication/journalName> "BMC Systems Biology" .
+<http://www.gra.fo/publication/journals_BMC_Systems_Biology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Journal> .
+<http://www.gra.fo/publication/journals_Finance_and_Stochastics> <http://www.gra.fo/publication/journalPublisher> "Elsevier" .
+<http://www.gra.fo/publication/journals_Finance_and_Stochastics> <http://www.gra.fo/publication/handled_byj> <http://www.gra.fo/publication/Gerard_J__Holzmann> .
+<http://www.gra.fo/publication/journals_Finance_and_Stochastics> <http://www.gra.fo/publication/journalName> "Finance and Stochastics" .
+<http://www.gra.fo/publication/journals_Finance_and_Stochastics> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Journal> .
+<http://www.gra.fo/publication/journals_Appl__Math__Lett_> <http://www.gra.fo/publication/journalPublisher> "Elsevier" .
+<http://www.gra.fo/publication/journals_Appl__Math__Lett_> <http://www.gra.fo/publication/handled_byj> <http://www.gra.fo/publication/Heinz_Marburger> .
+<http://www.gra.fo/publication/journals_Appl__Math__Lett_> <http://www.gra.fo/publication/journalName> "Appl. Math. Lett." .
+<http://www.gra.fo/publication/journals_Appl__Math__Lett_> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Journal> .
+<http://www.gra.fo/publication/journals_VLDB_J_> <http://www.gra.fo/publication/journalName> "VLDB J." .
+<http://www.gra.fo/publication/journals_VLDB_J_> <http://www.gra.fo/publication/handled_byj> <http://www.gra.fo/publication/Yariv_Tzaban> .
+<http://www.gra.fo/publication/journals_VLDB_J_> <http://www.gra.fo/publication/handled_byj> <http://www.gra.fo/publication/Kiyotaka_Otsuji> .
+<http://www.gra.fo/publication/journals_VLDB_J_> <http://www.gra.fo/publication/handled_byj> <http://www.gra.fo/publication/Luis_Felipe_Cabrera> .
+<http://www.gra.fo/publication/journals_VLDB_J_> <http://www.gra.fo/publication/handled_byj> <http://www.gra.fo/publication/Hans_Voß> .
+<http://www.gra.fo/publication/journals_VLDB_J_> <http://www.gra.fo/publication/handled_byj> <http://www.gra.fo/publication/Vincenzo_Belcastro> .
+<http://www.gra.fo/publication/journals_VLDB_J_> <http://www.gra.fo/publication/journalPublisher> "ACM" .
+<http://www.gra.fo/publication/journals_VLDB_J_> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Journal> .
+<http://www.gra.fo/publication/journals_VLDB_J_> <http://www.gra.fo/publication/handled_byj> <http://www.gra.fo/publication/Nancy_Ide> .
+<http://www.gra.fo/publication/journals_VLDB_J_> <http://www.gra.fo/publication/handled_byj> <http://www.gra.fo/publication/Luigi_Portinale> .
+<http://www.gra.fo/publication/journals_VLDB_J_> <http://www.gra.fo/publication/handled_byj> <http://www.gra.fo/publication/Earl_D__Saberdoti> .
+<http://www.gra.fo/publication/journals_I__J__Medical_Informatics> <http://www.gra.fo/publication/journalPublisher> "Elsevier" .
+<http://www.gra.fo/publication/journals_I__J__Medical_Informatics> <http://www.gra.fo/publication/handled_byj> <http://www.gra.fo/publication/Kamran_Parsaye> .
+<http://www.gra.fo/publication/journals_I__J__Medical_Informatics> <http://www.gra.fo/publication/journalName> "I. J. Medical Informatics" .
+<http://www.gra.fo/publication/journals_I__J__Medical_Informatics> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Journal> .
+<http://www.gra.fo/publication/journals_Applied_Categorical_Structures> <http://www.gra.fo/publication/journalPublisher> "Springer" .
+<http://www.gra.fo/publication/journals_Applied_Categorical_Structures> <http://www.gra.fo/publication/handled_byj> <http://www.gra.fo/publication/Larry_Rudolph> .
+<http://www.gra.fo/publication/journals_Applied_Categorical_Structures> <http://www.gra.fo/publication/journalName> "Applied Categorical Structures" .
+<http://www.gra.fo/publication/journals_Applied_Categorical_Structures> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Journal> .
+<http://www.gra.fo/publication/journals_Expert_Syst__Appl_> <http://www.gra.fo/publication/handled_byj> <http://www.gra.fo/publication/Andree_Keitel> .
+<http://www.gra.fo/publication/journals_Expert_Syst__Appl_> <http://www.gra.fo/publication/handled_byj> <http://www.gra.fo/publication/Raghu_Ramakrishnan> .
+<http://www.gra.fo/publication/journals_Expert_Syst__Appl_> <http://www.gra.fo/publication/journalPublisher> "Elsevier" .
+<http://www.gra.fo/publication/journals_Expert_Syst__Appl_> <http://www.gra.fo/publication/handled_byj> <http://www.gra.fo/publication/Loren_G__Terveen> .
+<http://www.gra.fo/publication/journals_Expert_Syst__Appl_> <http://www.gra.fo/publication/journalName> "Expert Syst. Appl." .
+<http://www.gra.fo/publication/journals_Expert_Syst__Appl_> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Journal> .
+<http://www.gra.fo/publication/journals_Computers___Education> <http://www.gra.fo/publication/journalPublisher> "Elsevier" .
+<http://www.gra.fo/publication/journals_Computers___Education> <http://www.gra.fo/publication/handled_byj> <http://www.gra.fo/publication/Robert_Gruber> .
+<http://www.gra.fo/publication/journals_Computers___Education> <http://www.gra.fo/publication/journalName> "Computers & Education" .
+<http://www.gra.fo/publication/journals_Computers___Education> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Journal> .
+<http://www.gra.fo/publication/journals_Computational_Statistics___Data_Analysis> <http://www.gra.fo/publication/journalPublisher> "Elsevier" .
+<http://www.gra.fo/publication/journals_Computational_Statistics___Data_Analysis> <http://www.gra.fo/publication/handled_byj> <http://www.gra.fo/publication/Yoni_Malachi> .
+<http://www.gra.fo/publication/journals_Computational_Statistics___Data_Analysis> <http://www.gra.fo/publication/journalName> "Computational Statistics & Data Analysis" .
+<http://www.gra.fo/publication/journals_Computational_Statistics___Data_Analysis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Journal> .
+<http://www.gra.fo/publication/journals_IEEE_Trans__Knowl__Data_Eng_> <http://www.gra.fo/publication/handled_byj> <http://www.gra.fo/publication/A__H__G__Rinnooy_Kan> .
+<http://www.gra.fo/publication/journals_IEEE_Trans__Knowl__Data_Eng_> <http://www.gra.fo/publication/handled_byj> <http://www.gra.fo/publication/Yoshihisa_Ogawa> .
+<http://www.gra.fo/publication/journals_IEEE_Trans__Knowl__Data_Eng_> <http://www.gra.fo/publication/handled_byj> <http://www.gra.fo/publication/George_S__Davidson> .
+<http://www.gra.fo/publication/journals_IEEE_Trans__Knowl__Data_Eng_> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Journal> .
+<http://www.gra.fo/publication/journals_IEEE_Trans__Knowl__Data_Eng_> <http://www.gra.fo/publication/handled_byj> <http://www.gra.fo/publication/Jeremy_J__Bornstein> .
+<http://www.gra.fo/publication/journals_IEEE_Trans__Knowl__Data_Eng_> <http://www.gra.fo/publication/handled_byj> <http://www.gra.fo/publication/Rex_Blankinship> .
+<http://www.gra.fo/publication/journals_IEEE_Trans__Knowl__Data_Eng_> <http://www.gra.fo/publication/journalPublisher> "IEEE" .
+<http://www.gra.fo/publication/journals_IEEE_Trans__Knowl__Data_Eng_> <http://www.gra.fo/publication/handled_byj> <http://www.gra.fo/publication/Dong_Joon_Kim> .
+<http://www.gra.fo/publication/journals_IEEE_Trans__Knowl__Data_Eng_> <http://www.gra.fo/publication/handled_byj> <http://www.gra.fo/publication/Morgan_Price> .
+<http://www.gra.fo/publication/journals_IEEE_Trans__Knowl__Data_Eng_> <http://www.gra.fo/publication/handled_byj> <http://www.gra.fo/publication/Quan_Xia> .
+<http://www.gra.fo/publication/journals_IEEE_Trans__Knowl__Data_Eng_> <http://www.gra.fo/publication/journalName> "IEEE Trans. Knowl. Data Eng." .
+<http://www.gra.fo/publication/journals_IEEE_Trans__Knowl__Data_Eng_> <http://www.gra.fo/publication/handled_byj> <http://www.gra.fo/publication/Michael_D__Martin> .
+<http://www.gra.fo/publication/journals_IEEE_Trans__Knowl__Data_Eng_> <http://www.gra.fo/publication/handled_byj> <http://www.gra.fo/publication/David_Buttler> .
+<http://www.gra.fo/publication/journals_J__Symb__Log_> <http://www.gra.fo/publication/journalPublisher> "Elsevier" .
+<http://www.gra.fo/publication/journals_J__Symb__Log_> <http://www.gra.fo/publication/handled_byj> <http://www.gra.fo/publication/Jérôme_Feret> .
+<http://www.gra.fo/publication/journals_J__Symb__Log_> <http://www.gra.fo/publication/journalName> "J. Symb. Log." .
+<http://www.gra.fo/publication/journals_J__Symb__Log_> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Journal> .
+<http://www.gra.fo/publication/journals_Robotics_and_Autonomous_Systems> <http://www.gra.fo/publication/journalPublisher> "Elsevier" .
+<http://www.gra.fo/publication/journals_Robotics_and_Autonomous_Systems> <http://www.gra.fo/publication/handled_byj> <http://www.gra.fo/publication/Richard_Hay_Jr_> .
+<http://www.gra.fo/publication/journals_Robotics_and_Autonomous_Systems> <http://www.gra.fo/publication/journalName> "Robotics and Autonomous Systems" .
+<http://www.gra.fo/publication/journals_Robotics_and_Autonomous_Systems> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Journal> .
+<http://www.gra.fo/publication/journals_Commun__ACM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Journal> .
+<http://www.gra.fo/publication/journals_Commun__ACM> <http://www.gra.fo/publication/handled_byj> <http://www.gra.fo/publication/T__Soon> .
+<http://www.gra.fo/publication/journals_Commun__ACM> <http://www.gra.fo/publication/journalName> "Commun. ACM" .
+<http://www.gra.fo/publication/journals_Commun__ACM> <http://www.gra.fo/publication/handled_byj> <http://www.gra.fo/publication/Foto_N__Afrati> .
+<http://www.gra.fo/publication/journals_Commun__ACM> <http://www.gra.fo/publication/handled_byj> <http://www.gra.fo/publication/Sachin_More> .
+<http://www.gra.fo/publication/journals_Commun__ACM> <http://www.gra.fo/publication/handled_byj> <http://www.gra.fo/publication/Guangping_Wei> .
+<http://www.gra.fo/publication/journals_Commun__ACM> <http://www.gra.fo/publication/handled_byj> <http://www.gra.fo/publication/Dinesh_Katiyar> .
+<http://www.gra.fo/publication/journals_Commun__ACM> <http://www.gra.fo/publication/handled_byj> <http://www.gra.fo/publication/Steven_H__Spewak> .
+<http://www.gra.fo/publication/journals_Commun__ACM> <http://www.gra.fo/publication/handled_byj> <http://www.gra.fo/publication/Dana_H__Ballard> .
+<http://www.gra.fo/publication/journals_Commun__ACM> <http://www.gra.fo/publication/handled_byj> <http://www.gra.fo/publication/Carel_S__Scholten> .
+<http://www.gra.fo/publication/journals_Commun__ACM> <http://www.gra.fo/publication/handled_byj> <http://www.gra.fo/publication/Harry_Wu> .
+<http://www.gra.fo/publication/journals_Commun__ACM> <http://www.gra.fo/publication/journalPublisher> "Elsevier" .
+<http://www.gra.fo/publication/journals_IEEE_Data_Eng__Bull_> <http://www.gra.fo/publication/handled_byj> <http://www.gra.fo/publication/Seth_Widoff> .
+<http://www.gra.fo/publication/journals_IEEE_Data_Eng__Bull_> <http://www.gra.fo/publication/handled_byj> <http://www.gra.fo/publication/John_H__Witchey> .
+<http://www.gra.fo/publication/journals_IEEE_Data_Eng__Bull_> <http://www.gra.fo/publication/handled_byj> <http://www.gra.fo/publication/Jack_Muramatsu> .
+<http://www.gra.fo/publication/journals_IEEE_Data_Eng__Bull_> <http://www.gra.fo/publication/handled_byj> <http://www.gra.fo/publication/Stephen_M__Curran> .
+<http://www.gra.fo/publication/journals_IEEE_Data_Eng__Bull_> <http://www.gra.fo/publication/journalName> "IEEE Data Eng. Bull." .
+<http://www.gra.fo/publication/journals_IEEE_Data_Eng__Bull_> <http://www.gra.fo/publication/handled_byj> <http://www.gra.fo/publication/Jean_François_Boulicaut> .
+<http://www.gra.fo/publication/journals_IEEE_Data_Eng__Bull_> <http://www.gra.fo/publication/handled_byj> <http://www.gra.fo/publication/Henryk_Jan_Komorowski> .
+<http://www.gra.fo/publication/journals_IEEE_Data_Eng__Bull_> <http://www.gra.fo/publication/journalPublisher> "IEEE" .
+<http://www.gra.fo/publication/journals_IEEE_Data_Eng__Bull_> <http://www.gra.fo/publication/handled_byj> <http://www.gra.fo/publication/Matthias_Nicola> .
+<http://www.gra.fo/publication/journals_IEEE_Data_Eng__Bull_> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Journal> .
+<http://www.gra.fo/publication/journals_IEEE_Data_Eng__Bull_> <http://www.gra.fo/publication/handled_byj> <http://www.gra.fo/publication/Boris_Chidlovskii> .
+<http://www.gra.fo/publication/journals_IEEE_Data_Eng__Bull_> <http://www.gra.fo/publication/handled_byj> <http://www.gra.fo/publication/F__Kriwaczek> .
+<http://www.gra.fo/publication/journals_Electr__Notes_Theor__Comput__Sci_> <http://www.gra.fo/publication/journalPublisher> "Elsevier" .
+<http://www.gra.fo/publication/journals_Electr__Notes_Theor__Comput__Sci_> <http://www.gra.fo/publication/handled_byj> <http://www.gra.fo/publication/Elena_Baralis> .
+<http://www.gra.fo/publication/journals_Electr__Notes_Theor__Comput__Sci_> <http://www.gra.fo/publication/journalName> "Electr. Notes Theor. Comput. Sci." .
+<http://www.gra.fo/publication/journals_Electr__Notes_Theor__Comput__Sci_> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Journal> .
+<http://www.gra.fo/publication/journals_Applied_Mathematics_and_Computation> <http://www.gra.fo/publication/journalPublisher> "Elsevier" .
+<http://www.gra.fo/publication/journals_Applied_Mathematics_and_Computation> <http://www.gra.fo/publication/handled_byj> <http://www.gra.fo/publication/Maarten_H__van_Emden> .
+<http://www.gra.fo/publication/journals_Applied_Mathematics_and_Computation> <http://www.gra.fo/publication/journalName> "Applied Mathematics and Computation" .
+<http://www.gra.fo/publication/journals_Applied_Mathematics_and_Computation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.gra.fo/publication/Journal> .

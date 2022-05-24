@@ -2,6 +2,8 @@
 package publicationOntology.abox;
 
 import org.apache.commons.lang3.RandomStringUtils;
+import org.apache.jena.ontology.OntModel;
+import org.apache.jena.ontology.OntModelSpec;
 import org.apache.jena.rdf.model.Model;
 import org.apache.jena.rdf.model.ModelFactory;
 import org.apache.jena.rdf.model.Resource;
@@ -243,7 +245,7 @@ public class Creator {
             }
 
             String kw = keywords.get(Utils.getRandomNumberInRange(0, 2));
-            currentPaper.addProperty(paper_model.createProperty(Config.PROPERTY_URL + "contains"), paper_model.createResource(Config.RESOURCE_URL + "keyword_" + kw.replaceAll("[^\\p{IsAlphabetic}]", "_")));
+            currentPaper.addProperty(paper_model.createProperty(Config.PROPERTY_URL + "contains"), paper_model.createResource(Config.RESOURCE_URL  + kw.replaceAll("[^\\p{IsAlphabetic}]", "_")));
 
             String journal = row_data[2];
             String conference = row_data[10];
@@ -318,18 +320,18 @@ public class Creator {
 
         //keyword
 
-        Model keyword_model = ModelFactory.createDefaultModel();
+       /* Model keyword_model = ModelFactory.createDefaultModel();
 		
 		for (int i = 0; i < 3; i++) {
-			String keywordUri = Config.RESOURCE_URL + "keyword_" + keywords.get(i);
-			Resource currentTitle = keyword_model.createResource(keywordUri)
-					.addProperty(RDF.type, keyword_model.getResource("http://www.gra.fo/publication/"+keywords.get(i)));
+			String keywordUri = Config.RESOURCE_URL + keywords.get(i);
+			//Resource currentTitle = keyword_model.createResource(keywordUri)
+					//.addProperty(RDF.type, keyword_model.getResource("http://www.gra.fo/publication/"+keywords.get(i)));
 					//.addProperty(keyword_model.createProperty(Config.PROPERTY_URL + "keyword_value"), keywords.get(i));
 		}
 
         keyword_model.write(new PrintStream(
                 new BufferedOutputStream(
-                        new FileOutputStream(Config.OUTPUT_PATH + "keyword.nt")), true), "NT");
+                        new FileOutputStream(Config.OUTPUT_PATH + "keyword.nt")), true), "NT"); */
 
     }
 

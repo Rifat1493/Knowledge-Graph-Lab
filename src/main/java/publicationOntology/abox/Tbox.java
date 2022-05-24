@@ -177,8 +177,8 @@ public class Tbox {
         // m.write(System.out);
         try {
             // XML format - long and verbose
-            FileWriter file_obj = new FileWriter(Config.OUTPUT_PATH+"/publication_rdfs.owl");
-            m.write(file_obj, "RDF/XML-ABBREV" );
+            FileWriter file_obj = new FileWriter(Config.OUTPUT_PATH+"/[Rifat&chun_han_li]-B1[Li_Rifat].owl");
+            m.write(file_obj, "RDF/XML" );
 
             // OR Turtle format - compact and more readable
             // use this variant if you're not sure which to use!
