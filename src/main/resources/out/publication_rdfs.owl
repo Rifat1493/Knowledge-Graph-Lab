@@ -1,0 +1,145 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <rdfs:Class rdf:about="http://www.gra.fo/publication/Poster">
+    <rdfs:subClassOf>
+      <rdfs:Class rdf:about="http://www.gra.fo/publication/Paper"/>
+    </rdfs:subClassOf>
+  </rdfs:Class>
+  <rdfs:Class rdf:about="http://www.gra.fo/publication/Demo_paper">
+    <rdfs:subClassOf rdf:resource="http://www.gra.fo/publication/Paper"/>
+  </rdfs:Class>
+  <rdfs:Class rdf:about="http://www.gra.fo/publication/University"/>
+  <rdfs:Class rdf:about="http://www.gra.fo/publication/Review"/>
+  <rdfs:Class rdf:about="http://www.gra.fo/publication/Cyber_security">
+    <rdfs:subClassOf>
+      <rdfs:Class rdf:about="http://www.gra.fo/publication/Keyword"/>
+    </rdfs:subClassOf>
+  </rdfs:Class>
+  <rdfs:Class rdf:about="http://www.gra.fo/publication/Venue"/>
+  <rdfs:Class rdf:about="http://www.gra.fo/publication/Organization"/>
+  <rdfs:Class rdf:about="http://www.gra.fo/publication/Person"/>
+  <rdfs:Class rdf:about="http://www.gra.fo/publication/Machine_learning">
+    <rdfs:subClassOf rdf:resource="http://www.gra.fo/publication/Keyword"/>
+  </rdfs:Class>
+  <rdfs:Class rdf:about="http://www.gra.fo/publication/Short_paper">
+    <rdfs:subClassOf rdf:resource="http://www.gra.fo/publication/Paper"/>
+  </rdfs:Class>
+  <rdfs:Class rdf:about="http://www.gra.fo/publication/Database">
+    <rdfs:subClassOf rdf:resource="http://www.gra.fo/publication/Keyword"/>
+  </rdfs:Class>
+  <rdfs:Class rdf:about="http://www.gra.fo/publication/Company">
+    <rdfs:subClassOf rdf:resource="http://www.gra.fo/publication/Organization"/>
+  </rdfs:Class>
+  <rdfs:Class rdf:about="http://www.gra.fo/publication/Journal">
+    <rdfs:subClassOf rdf:resource="http://www.gra.fo/publication/Venue"/>
+  </rdfs:Class>
+  <rdfs:Class rdf:about="http://www.gra.fo/publication/Full_paper">
+    <rdfs:subClassOf rdf:resource="http://www.gra.fo/publication/Paper"/>
+  </rdfs:Class>
+  <rdfs:Class rdf:about="http://www.gra.fo/publication/Author">
+    <rdfs:subClassOf rdf:resource="http://www.gra.fo/publication/Person"/>
+  </rdfs:Class>
+  <rdfs:Class rdf:about="http://www.gra.fo/publication/Conference">
+    <rdfs:subClassOf rdf:resource="http://www.gra.fo/publication/Venue"/>
+  </rdfs:Class>
+  <rdf:Property rdf:about="http://www.gra.fo/publication/long_page_size">
+    <rdfs:range rdf:resource="http://www.w3.org/2000/01/rdf-schema#Literal"/>
+    <rdfs:domain rdf:resource="http://www.gra.fo/publication/Full_paper"/>
+  </rdf:Property>
+  <rdf:Property rdf:about="http://www.gra.fo/publication/demo_link">
+    <rdfs:range rdf:resource="http://www.w3.org/2000/01/rdf-schema#Literal"/>
+    <rdfs:domain rdf:resource="http://www.gra.fo/publication/Demo_paper"/>
+  </rdf:Property>
+  <rdf:Property rdf:about="http://www.gra.fo/publication/handled_byj">
+    <rdfs:range rdf:resource="http://www.gra.fo/publication/Person"/>
+    <rdfs:domain rdf:resource="http://www.gra.fo/publication/Journal"/>
+  </rdf:Property>
+  <rdf:Property rdf:about="http://www.gra.fo/publication/homepage">
+    <rdfs:range rdf:resource="http://www.w3.org/2000/01/rdf-schema#Literal"/>
+    <rdfs:domain rdf:resource="http://www.gra.fo/publication/University"/>
+  </rdf:Property>
+  <rdf:Property rdf:about="http://www.gra.fo/publication/published_in">
+    <rdfs:range rdf:resource="http://www.gra.fo/publication/Venue"/>
+    <rdfs:domain rdf:resource="http://www.gra.fo/publication/Paper"/>
+  </rdf:Property>
+  <rdf:Property rdf:about="http://www.gra.fo/publication/poster_link">
+    <rdfs:range rdf:resource="http://www.w3.org/2000/01/rdf-schema#Literal"/>
+    <rdfs:domain rdf:resource="http://www.gra.fo/publication/Poster"/>
+  </rdf:Property>
+  <rdf:Property rdf:about="http://www.gra.fo/publication/handled_byc">
+    <rdfs:range rdf:resource="http://www.gra.fo/publication/Person"/>
+    <rdfs:domain rdf:resource="http://www.gra.fo/publication/Conference"/>
+  </rdf:Property>
+  <rdf:Property rdf:about="http://www.gra.fo/publication/works_in">
+    <rdfs:range rdf:resource="http://www.gra.fo/publication/Organization"/>
+    <rdfs:domain rdf:resource="http://www.gra.fo/publication/Author"/>
+  </rdf:Property>
+  <rdf:Property rdf:about="http://www.gra.fo/publication/confName">
+    <rdfs:range rdf:resource="http://www.w3.org/2000/01/rdf-schema#Literal"/>
+    <rdfs:domain rdf:resource="http://www.gra.fo/publication/Conference"/>
+  </rdf:Property>
+  <rdf:Property rdf:about="http://www.gra.fo/publication/gives_review">
+    <rdfs:range rdf:resource="http://www.gra.fo/publication/Review"/>
+    <rdfs:domain rdf:resource="http://www.gra.fo/publication/Author"/>
+  </rdf:Property>
+  <rdf:Property rdf:about="http://www.gra.fo/publication/business">
+    <rdfs:range rdf:resource="http://www.w3.org/2000/01/rdf-schema#Literal"/>
+    <rdfs:domain rdf:resource="http://www.gra.fo/publication/Company"/>
+  </rdf:Property>
+  <rdf:Property rdf:about="http://www.gra.fo/publication/written_by">
+    <rdfs:range rdf:resource="http://www.gra.fo/publication/Author"/>
+    <rdfs:domain rdf:resource="http://www.gra.fo/publication/Paper"/>
+  </rdf:Property>
+  <rdf:Property rdf:about="http://www.gra.fo/publication/firstName">
+    <rdfs:range rdf:resource="http://www.w3.org/2000/01/rdf-schema#Literal"/>
+    <rdfs:domain rdf:resource="http://www.gra.fo/publication/Author"/>
+  </rdf:Property>
+  <rdf:Property rdf:about="http://www.gra.fo/publication/title">
+    <rdfs:range rdf:resource="http://www.w3.org/2000/01/rdf-schema#Literal"/>
+    <rdfs:domain rdf:resource="http://www.gra.fo/publication/Paper"/>
+  </rdf:Property>
+  <rdf:Property rdf:about="http://www.gra.fo/publication/comment">
+    <rdfs:range rdf:resource="http://www.w3.org/2000/01/rdf-schema#Literal"/>
+    <rdfs:domain rdf:resource="http://www.gra.fo/publication/Review"/>
+  </rdf:Property>
+  <rdf:Property rdf:about="http://www.gra.fo/publication/short_page_size">
+    <rdfs:range rdf:resource="http://www.w3.org/2000/01/rdf-schema#Literal"/>
+    <rdfs:domain rdf:resource="http://www.gra.fo/publication/Short_paper"/>
+  </rdf:Property>
+  <rdf:Property rdf:about="http://www.gra.fo/publication/submitted_for">
+    <rdfs:range rdf:resource="http://www.gra.fo/publication/Review"/>
+    <rdfs:domain rdf:resource="http://www.gra.fo/publication/Paper"/>
+  </rdf:Property>
+  <rdf:Property rdf:about="http://www.gra.fo/publication/contains">
+    <rdfs:range rdf:resource="http://www.gra.fo/publication/Keyword"/>
+    <rdfs:domain rdf:resource="http://www.gra.fo/publication/Paper"/>
+  </rdf:Property>
+  <rdf:Property rdf:about="http://www.gra.fo/publication/jourName">
+    <rdfs:range rdf:resource="http://www.w3.org/2000/01/rdf-schema#Literal"/>
+    <rdfs:domain rdf:resource="http://www.gra.fo/publication/Journal"/>
+  </rdf:Property>
+  <rdf:Property rdf:about="http://www.gra.fo/publication/confPublisher">
+    <rdfs:range rdf:resource="http://www.w3.org/2000/01/rdf-schema#Literal"/>
+    <rdfs:domain rdf:resource="http://www.gra.fo/publication/Conference"/>
+  </rdf:Property>
+  <rdf:Property rdf:about="http://www.gra.fo/publication/name">
+    <rdfs:range rdf:resource="http://www.w3.org/2000/01/rdf-schema#Literal"/>
+    <rdfs:domain rdf:resource="http://www.gra.fo/publication/Company"/>
+    <rdfs:domain rdf:resource="http://www.gra.fo/publication/University"/>
+  </rdf:Property>
+  <rdf:Property rdf:about="http://www.gra.fo/publication/publication_year">
+    <rdfs:range rdf:resource="http://www.w3.org/2000/01/rdf-schema#Literal"/>
+    <rdfs:domain rdf:resource="http://www.gra.fo/publication/Paper"/>
+  </rdf:Property>
+  <rdf:Property rdf:about="http://www.gra.fo/publication/journalPublisher">
+    <rdfs:range rdf:resource="http://www.w3.org/2000/01/rdf-schema#Literal"/>
+    <rdfs:domain rdf:resource="http://www.gra.fo/publication/Journal"/>
+  </rdf:Property>
+  <rdf:Property rdf:about="http://www.gra.fo/publication/lastName">
+    <rdfs:range rdf:resource="http://www.w3.org/2000/01/rdf-schema#Literal"/>
+    <rdfs:domain rdf:resource="http://www.gra.fo/publication/Author"/>
+  </rdf:Property>
+</rdf:RDF>
