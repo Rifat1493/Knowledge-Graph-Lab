@@ -1,4 +1,3 @@
-
 package publicationOntology.abox;
 
 import org.apache.commons.lang3.RandomStringUtils;
@@ -24,22 +23,28 @@ public class Creator {
         //Company
         Model companies_model = ModelFactory.createDefaultModel();
 
+		// read the csv line by line
         BufferedReader companies_csvReader = new BufferedReader(new FileReader(Config.COMPANIES_PATH));
         String companies_row;
         while ((companies_row = companies_csvReader.readLine()) != null) {
+			//extract data from different columns
             String[] row_data = companies_row.split(";");
 
             String companyName = row_data[0];
             String business = row_data[1];
-
+			
+			//make Uri valid
             String companyUri = companyName.replaceAll("[^\\p{IsAlphabetic}]", "_");
+			
+			//jena.rdf function 
             Resource currentCompany = companies_model.createResource(Config.RESOURCE_URL + companyUri)
                     .addProperty(RDF.type, companies_model.getResource("http://www.gra.fo/publication/Company"))
                     .addProperty(companies_model.createProperty(Config.PROPERTY_URL + "business"), business)
                     .addProperty(FOAF.name, companyName);
         }
         companies_csvReader.close();
-
+		
+		//save as nt file
         companies_model.write(new PrintStream(
                 new BufferedOutputStream(
                         new FileOutputStream(Config.OUTPUT_PATH + "company.nt")), true), "NT");
@@ -52,7 +57,6 @@ public class Creator {
         while ((university_row = university_csvReader.readLine()) != null) {
 
             String[] row_data = university_row.split(";");
-
 
             String universityName = row_data[2];
             String universityHomepage = row_data[3];
@@ -295,7 +299,6 @@ public class Creator {
         // title, volume, year
         Model journal_model = ModelFactory.createDefaultModel();
 
-        // read the csv line by line
         BufferedReader journal_csvReader = new BufferedReader(new FileReader(Config.JOURNAL_PATH));
         String journal_row;
         while ((journal_row = journal_csvReader.readLine()) != null) {
